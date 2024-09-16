@@ -1,0 +1,922 @@
+{
+    "pmcid": "PMC2064926",
+    "content": {
+        "title": "Question order in the assessment of misperception of physical activity",
+        "abstract": "<p>People often have misperceptions (overestimation or underestimation) about the health-related behaviours they engage in, which may have adverse consequences for their susceptibility to behavioural change. Misperception is usually measured by combining and comparing quantified behavioural self-reports with subjective classification of the behaviour. Researchers assume that such assessments of misperception are not influenced by the order of the two types of measurement, but this has never been studied. Based on the precaution adoption model and the information processing theory, it might be expected that taking the subjective measurement after a detailed quantified behavioural self-report would improve the accuracy of the subjective measurement because the quantified report urges a person to think more in detail about their own behaviour.</p>\n<p>In an experiment (n = 521), quantified self-report and subjective assessment were manipulated in a questionnaire. In one version, the quantified self-report was presented before the subjective assessment, whereas in the other version, the subjective assessment came first.</p>\n<p>Neither subjective assessment nor overestimation of physical activity were biased by the order of the questions. Underestimation was more prevalent among subgroups of the group which answered the subjective assessment after the quantified self-report.</p>\n<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>",
+        "keywords": [],
+        "tables": [
+            {
+                "table_id": "T1",
+                "body": "<thead><tr><td align=\"left\">Condition</td><td align=\"left\">Realistic low category</td><td align=\"left\">Overestimators</td><td align=\"left\">Underestimators</td><td align=\"left\">Realistic high category</td></tr></thead><tbody><tr><td align=\"left\">QS</td><td align=\"left\">16</td><td align=\"left\">16.4</td><td align=\"left\">17.2</td><td align=\"left\">50.4</td></tr><tr><td align=\"left\">SQ</td><td align=\"left\">17.8</td><td align=\"left\">15.2</td><td align=\"left\">13.7</td><td align=\"left\">53.3</td></tr></tbody>",
+                "caption": "<p>Misperception categories in the QS en SQ conditions (%)*</p>",
+                "foots": [
+                    "<p>*X<sup>2 </sup>= 1.6; df = 3; P = .66</p>"
+                ],
+                "paragraphs": [
+                    {
+                        "text": "<p>Table <xref ref-type=\"table\" rid=\"T1\">1</xref> shows how misperception was distributed over the two experimental conditions, which did not differ significantly. Misperception (underestimators plus overestimators) was prevalent in 33.6% of the QS group compared to 28.9% in the SQ group.</p>",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "Condition",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Realistic low category",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Overestimators",
+                        "cited_in": [
+                            "<p>To assess misperception, the dichotomised 'do or do not meet the guideline' score was compared with the scores from the subjective assessment. For this purpose, the scores on the subjective assessment were dichotomised into the categories 'very low or low physical activity in the respondent's opinion' (score 0) and 'sufficient or high physical activity in the respondent's opinion' (score 1). Respondents were subsequently allocated to one of the four categories shown in Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>. The <italic>Realistic high group </italic>consisted of participants who met the physical activity guideline and rated their physical activity as sufficient or high. <italic>Overestimators </italic>were those who did not meet the physical activity guideline and rated their physical activity as sufficient or high. <italic>Underestimators </italic>were those who met the physical activity guideline though rating their physical activity as low or very low. The <italic>Realistic low group </italic>included those who did not meet the physical activity guideline and rated their physical activity as low or very low. Overestimators and underestimators could be labelled the 'misperception group', while the realistic high and realistic low participants had no misperception.</p>",
+                            "<p>Table <xref ref-type=\"table\" rid=\"T3\">3</xref> shows, for each of the four groups, the results of the post-hoc analyses of scores on involvement and reasons to be physically active. The greatest differences were found between the realistic high and realistic low groups. Realistic high estimators considered health, appearance, relaxation and stress relief more important reasons to be physically active than realistic low estimators. Overestimators mentioned feeling fit and relaxation as more important reasons to be physically active than realistic low estimators and underestimators. Both groups, realistic high and overestimators, expressed a stronger sense of involvement in physical activity than the participants who estimated their physical activity to be low (underestimators and realistic low).</p>",
+                            "<p>The present study showed that 67% of the respondents met the NNGB guideline, while 16% overestimated and 15% underestimated their physical activity. Overestimators were those who subjectively estimated their behaviour as sufficient while not actually meeting the NNGB guideline, as derived from the quantified behavioural self-report assessment by means of the SQUASH instrument. Underestimators were those who did meet the guideline, though they subjectively estimated their behaviour as insufficient. Half of those who did not meet the NNGB guideline thought that they were doing fine (the so-called overestimators). We found 10% less misperception than Ronda and colleagues [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>], though the percentage was comparable to that found by De Ridder and Lechner [<xref ref-type=\"bibr\" rid=\"B5\">5</xref>]. This might be partly explained by the fact that those researchers used a different instrument for the quantified self-report of physical activity. Our quantified assessment of physical activity with SQUASH [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>] was more detailed, and corrected for age. Also in line with the study by De Ridder &amp; Lechner, but different from other studies [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>,<xref ref-type=\"bibr\" rid=\"B40\">40</xref>,<xref ref-type=\"bibr\" rid=\"B41\">41</xref>], was our finding that two thirds of the respondents met the NNGB norm; the other studies reported 40\u201355%. Again, these differences might be related to the instruments that were used, and the age correction in the SQUASH. In agreement with the guidelines proposed by Wendel-Vos &amp; Schuit [<xref ref-type=\"bibr\" rid=\"B33\">33</xref>], the algorithm we used in the present study to calculate the total SQUASH score took age into account in calculating intensity categories (light, moderate and vigorous) for physical activities. For example, vigorous activities for 55+ participants meant \u2265 5 MET, while for adults they were \u2265 6.5 MET. Previous studies may not have applied the age corrections.</p>"
+                        ]
+                    },
+                    {
+                        "content": "Underestimators",
+                        "cited_in": [
+                            "<p>To assess misperception, the dichotomised 'do or do not meet the guideline' score was compared with the scores from the subjective assessment. For this purpose, the scores on the subjective assessment were dichotomised into the categories 'very low or low physical activity in the respondent's opinion' (score 0) and 'sufficient or high physical activity in the respondent's opinion' (score 1). Respondents were subsequently allocated to one of the four categories shown in Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>. The <italic>Realistic high group </italic>consisted of participants who met the physical activity guideline and rated their physical activity as sufficient or high. <italic>Overestimators </italic>were those who did not meet the physical activity guideline and rated their physical activity as sufficient or high. <italic>Underestimators </italic>were those who met the physical activity guideline though rating their physical activity as low or very low. The <italic>Realistic low group </italic>included those who did not meet the physical activity guideline and rated their physical activity as low or very low. Overestimators and underestimators could be labelled the 'misperception group', while the realistic high and realistic low participants had no misperception.</p>",
+                            "<p>Our comparison of underestimators with realists showed that involvement in physical activity predicted underestimation of the behaviour, while the effect of the order of questions was borderline significant. Underestimators of physical activity are, however, not very interesting to health educators, since these persons are already meeting the national Dutch (NNGB) guideline and therefore do not need to change their physical activity behaviour. This means that there is no urgency for health educators to invest in this group. In order to increase public health, they should primarily invest in persons who are not meeting the guideline (overestimators and low realists). From the perspective of the aim of this study, the important finding is that the extent of overestimation is not influenced by the order of the questions. Involvement and health moderated the effect of question order on the degree of underestimation. Stratified analyses among those who perceived health as an important or very important reason to be physically active showed that those who filled in the quantified behavioural self report before the subjective assessment were more likely to underestimate their physical activity than those who completed them in the opposite order. The same was true for those who were less involved in physical activity. Both findings were borderline significant. Rimal and Real [<xref ref-type=\"bibr\" rid=\"B24\">24</xref>], who assessed the perceived importance of skin cancer related to issue involvement and question-order effects, also found an interaction effect between involvement and question order. Like us, these researchers found that high involvement was not associated with question-order effects, but low involvement was (at borderline significance in our study). This is in agreement with the Elaboration Likelihood Model, which assumes greater context-related effects (i.e. those of question order) among respondents with low involvement, because they process information via a peripheral route [<xref ref-type=\"bibr\" rid=\"B26\">26</xref>]. It is harder to understand why those who rate health as the most important reason to be active are affected by question order (at borderline significance in our study).</p>",
+                            "<p>The present study showed that 67% of the respondents met the NNGB guideline, while 16% overestimated and 15% underestimated their physical activity. Overestimators were those who subjectively estimated their behaviour as sufficient while not actually meeting the NNGB guideline, as derived from the quantified behavioural self-report assessment by means of the SQUASH instrument. Underestimators were those who did meet the guideline, though they subjectively estimated their behaviour as insufficient. Half of those who did not meet the NNGB guideline thought that they were doing fine (the so-called overestimators). We found 10% less misperception than Ronda and colleagues [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>], though the percentage was comparable to that found by De Ridder and Lechner [<xref ref-type=\"bibr\" rid=\"B5\">5</xref>]. This might be partly explained by the fact that those researchers used a different instrument for the quantified self-report of physical activity. Our quantified assessment of physical activity with SQUASH [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>] was more detailed, and corrected for age. Also in line with the study by De Ridder &amp; Lechner, but different from other studies [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>,<xref ref-type=\"bibr\" rid=\"B40\">40</xref>,<xref ref-type=\"bibr\" rid=\"B41\">41</xref>], was our finding that two thirds of the respondents met the NNGB norm; the other studies reported 40\u201355%. Again, these differences might be related to the instruments that were used, and the age correction in the SQUASH. In agreement with the guidelines proposed by Wendel-Vos &amp; Schuit [<xref ref-type=\"bibr\" rid=\"B33\">33</xref>], the algorithm we used in the present study to calculate the total SQUASH score took age into account in calculating intensity categories (light, moderate and vigorous) for physical activities. For example, vigorous activities for 55+ participants meant \u2265 5 MET, while for adults they were \u2265 6.5 MET. Previous studies may not have applied the age corrections.</p>"
+                        ]
+                    },
+                    {
+                        "content": "Realistic high category",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "QS",
+                        "cited_in": [
+                            "<p>The study used an experimental design in which a quantified behavioural self-report and a subjective assessment of behaviour were manipulated in a questionnaire. Two versions of the questionnaire were used, one for each experimental condition. In one version, the quantified behavioural self-report part of the questionnaire was presented before the subjective assessment part (condition QS), whereas in the other version, the subjective assessment was presented first, followed by the quantified behavioural self-report (condition SQ). In all other respects, the two versions of the questionnaire were identical.</p>",
+                            "<p>Pearson correlations between the total score on physical activity (based on SQUASH) and the score on the subjective assessment were computed for the whole group and for the QS and SQ groups separately. Four t-tests were conducted. One t-test was used to assess whether those who did meet the NNGB guideline differed in their subjective estimation of physical activity from those who did not meet this guideline. Two t-tests were conducted to assess whether the SQ and QS groups differed in their subjective estimation of physical activity and in the quantified behavioural self-report scores. In addition, Z-transformed mean scores of the difference between the objective and subjective measurements of behaviour were calculated for the QS and SQ groups separately and tested by means of a t-test.</p>",
+                            "<p>The QS group consisted of 246 respondents, the SQ group of 270. Experimental groups did not differ in demographic characteristics or in meeting the NNGB guideline.</p>",
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>",
+                            "<p>Table <xref ref-type=\"table\" rid=\"T1\">1</xref> shows how misperception was distributed over the two experimental conditions, which did not differ significantly. Misperception (underestimators plus overestimators) was prevalent in 33.6% of the QS group compared to 28.9% in the SQ group.</p>",
+                            "<p>Misperception categories in the QS en SQ conditions (%)*</p>",
+                            "<p>The Anova analyses (Table <xref ref-type=\"table\" rid=\"T2\">2</xref>) showed that the four categories differed significantly in their mean scores on involvement and on all reasons to be physically active, except for weight control. The two experimental conditions (QS versus SQ) only resulted in different scores for 'being physically active for relaxation', though at p = .06. A post hoc t-test revealed however no significant differences between the two conditions (QS group (M = 2.54, SD = 0.98) and SQ group (M = 2.40, SD = 0.98), (t(481) = 1.569, P = .12). Feelings of involvement and all other reasons to be active did not differ between the QS and SQ groups. Nor were interaction effects found between question order and feeling of involvement or reasons to be active.</p>",
+                            "<p><sup>a</sup>Demographic characteristics were not controlled for since groups did not differ in these characteristics; <sup>b</sup>Only significant variables are reported; <sup>c</sup>Wald test statistic; <sup>d</sup>QS is reference category; <sup>e</sup>Higher score means lower involvement.</p>",
+                            "<p><sup>a</sup>Demographic characteristics were not controlled for since groups did not differ in these characteristics; <sup>b</sup>Wald test statistic; <sup>c</sup>QS is the reference category</p>",
+                            "<p>In line with other studies [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B5\">5</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>], we found a low correlation between the quantified behavioural self-report and the subjective assessment of behaviour, a correlation which hardly differed between the two conditions (quantified self-report followed by subjective assessment (QS) or the other way round (SQ)). The results of the t-tests and linear regression showed no effect of the order in which the questions were presented on the subjective estimation of behaviour. Our Anova analysis of misperception from the perspective of four categories (underestimators, overestimators, realistic high estimators, realistic low estimators, all relative to the Dutch national guideline, Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>) did not show an influence of question order on the occurrence of misperception either. Nor did it reveal any interaction effects between outcome expectations, involvement and question order. The Anova analyses did, however, show that the four categories differed from each other in terms of involvement and of most outcome expectations. People who perceived their physical activity level as adequate (realistic high estimators and overestimators) had higher scores on all reasons to be active (except weight) than those who did not perceive their activity behaviour as adequate (realistic low estimators and underestimators). People with misperceptions did not differ in their judgment on the importance of health from those without misperception. There were two exceptions: overestimators saw relaxation as a more important reason to be active and expressed less involvement in physical activity than realistic low estimators and underestimators. The findings suggest that people may use not only health but also other benchmarks (e.g. relaxation) in their subjective estimation of the adequacy of their behaviour. The results do not, however, suggest that only misperceptors (i.e. overestimators and underestimators) use different benchmarks for assessing their physical activity involvement. For a detailed analysis of the differences between the categories in terms of involvement and outcome expectancies, we refer to a previous study by Lechner, Bolman and Van Dijke [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "16",
+                        "cited_in": [
+                            "<p>A few studies have assessed the determinants of misperception [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B12\">12</xref>,<xref ref-type=\"bibr\" rid=\"B16\">16</xref>]. These studies, on fruit [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B16\">16</xref>], vegetable [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B16\">16</xref>], alcohol consumption [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>] and physical activity [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>], showed that misperception is correlated with the way in which and the extent to which persons make interpersonal comparisons. People who erroneously classify themselves as behaving in a healthy way are more likely to compare themselves with those who are perceived to engage in equally healthy or less healthy behaviour (downward comparison) and rate their own behaviour as healthier than that of these others (optimistic bias) [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>,<xref ref-type=\"bibr\" rid=\"B16\">16</xref>].</p>",
+                            "<p>A total of 521 persons returned the questionnaire (52% response). Five respondents were excluded due to a large number of missing values in their questionnaires (&gt;50%), so questionnaires of 516 responders were used.</p>",
+                            "<p>The sample included 44% men and 55% women, while 1% had not indicated their sex. The mean age was 53.7 years (SD = 17.8; range = 19\u201391). Thirty-one percent had followed primary education, junior general secondary education or preparatory secondary vocational education, 31% had followed senior general secondary education, senior secondary vocational education or pre-university education, and 38% had followed higher professional education or university. Almost 70% indicated not to be restricted in physical activity by (physical) complaints. Physical activity was found to be important to the respondents (M = 1.9; SD = 0.7; range 1 (very important) to 5 (very unimportant)). They also felt involved with being physically active (M = 2.2; SD = 0.8; range: 1 (very involved) to 5 (very uninvolved). Almost 17% of the participants were in the realistic low category, 16% were overestimators, 15% underestimators and 52% were in the realistic high category. This means that 67% of the respondents met the NNGB guideline and that misperception (overestimation plus underestimation) was prevalent in 31% of the respondents. Of those who did not meet the guideline, 48% estimated their physical activity to be sufficient or high.</p>",
+                            "<p>The present study showed that 67% of the respondents met the NNGB guideline, while 16% overestimated and 15% underestimated their physical activity. Overestimators were those who subjectively estimated their behaviour as sufficient while not actually meeting the NNGB guideline, as derived from the quantified behavioural self-report assessment by means of the SQUASH instrument. Underestimators were those who did meet the guideline, though they subjectively estimated their behaviour as insufficient. Half of those who did not meet the NNGB guideline thought that they were doing fine (the so-called overestimators). We found 10% less misperception than Ronda and colleagues [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>], though the percentage was comparable to that found by De Ridder and Lechner [<xref ref-type=\"bibr\" rid=\"B5\">5</xref>]. This might be partly explained by the fact that those researchers used a different instrument for the quantified self-report of physical activity. Our quantified assessment of physical activity with SQUASH [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>] was more detailed, and corrected for age. Also in line with the study by De Ridder &amp; Lechner, but different from other studies [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>,<xref ref-type=\"bibr\" rid=\"B40\">40</xref>,<xref ref-type=\"bibr\" rid=\"B41\">41</xref>], was our finding that two thirds of the respondents met the NNGB norm; the other studies reported 40\u201355%. Again, these differences might be related to the instruments that were used, and the age correction in the SQUASH. In agreement with the guidelines proposed by Wendel-Vos &amp; Schuit [<xref ref-type=\"bibr\" rid=\"B33\">33</xref>], the algorithm we used in the present study to calculate the total SQUASH score took age into account in calculating intensity categories (light, moderate and vigorous) for physical activities. For example, vigorous activities for 55+ participants meant \u2265 5 MET, while for adults they were \u2265 6.5 MET. Previous studies may not have applied the age corrections.</p>"
+                        ]
+                    },
+                    {
+                        "content": "16.4",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "17.2",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "50.4",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "SQ",
+                        "cited_in": [
+                            "<p>Misperceptions about health-related behaviour are often measured by combining and comparing two types of self-report [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B12\">12</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. The first type is a self-report in which the behaviour is assessed in detail by quantitative measurements, often by means of validated questionnaires [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>-<xref ref-type=\"bibr\" rid=\"B21\">21</xref>]. The behaviour is subsequently scored on the basis of accepted guidelines for health-enhancing behaviours. Instruments frequently used for such quantified behavioural self-reports are the validated Short Questionnaire to Assess Health Enhancing physical activity (SQUASH) [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>] and the validated 25-item fat intake food frequency questionnaire [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>,<xref ref-type=\"bibr\" rid=\"B21\">21</xref>]. The scores are then compared with the relevant guidelines to determine whether people do or do not meet these health guidelines. The second type of self-report provides a subjective (self-rated) general evaluative estimation of the behaviour [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Self-rated dietary fat intake, for example, is measured by asking respondents to evaluate their fat intake on a bipolar five-point scale including answering categories ranging from very low fat intake to very high fat intake [<xref ref-type=\"bibr\" rid=\"B17\">17</xref>]. Misperception is then assessed by comparing the subjective self-rated estimation of behaviour with the findings of the quantified behavioural self-report indicating whether subjects meet the health guideline.</p>",
+                            "<p>The study used an experimental design in which a quantified behavioural self-report and a subjective assessment of behaviour were manipulated in a questionnaire. Two versions of the questionnaire were used, one for each experimental condition. In one version, the quantified behavioural self-report part of the questionnaire was presented before the subjective assessment part (condition QS), whereas in the other version, the subjective assessment was presented first, followed by the quantified behavioural self-report (condition SQ). In all other respects, the two versions of the questionnaire were identical.</p>",
+                            "<p>The subjective assessment used the question \"What do you think of the amount of physical activity you engage in?\" (bipolar 5-point answering scale, ranging from very low (1) to sufficient (3) to very high (5) [<xref ref-type=\"bibr\" rid=\"B5\">5</xref>,<xref ref-type=\"bibr\" rid=\"B6\">6</xref>]. The quantified behavioural self-report used the SQUASH instrument [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>,<xref ref-type=\"bibr\" rid=\"B30\">30</xref>], which had been validated in a previous study with the help of a Computer Science and Applications (CSA) inc. activity monitor [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. The correlation coefficient for validity in that study was 0.45 (95% CI 0.17\u20130.66). The exact agreement between the SQUASH scores and those of the CSA was 46% and the weighted kappa 0.30. Correlations for the reproducibility of the individual questions had a mean value of 0.75 and varied between 0.44 and 0.96 [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. SQUASH is widely accepted as an instrument to measure physical activity and has been used in a number of studies [e.g. [<xref ref-type=\"bibr\" rid=\"B30\">30</xref>-<xref ref-type=\"bibr\" rid=\"B32\">32</xref>]]. It is considered an acceptable substitute for objective activity measures like accelerometers, heart rate counters and other observation instruments [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>,<xref ref-type=\"bibr\" rid=\"B30\">30</xref>]. SQUASH [<xref ref-type=\"bibr\" rid=\"B33\">33</xref>] consists of 14 questions on a total of four domains of physical activity (i.e. commuting activities like walking to/from work; leisure time activities like gardening and sports; household activities like cooking and activities at work and/or school, like regularly lifting heavy objects at work). The questions assess the number of days per week on which respondents engage in an activity, the average time spent on that activity per day and the intensity of the activity. Based on these questions, an overall SQUASH score on physical activity is calculated using an algorithm corrected for age, because age determines the intensity of an activity.</p>",
+                            "<p>The overall SQUASH score was then compared with the Dutch guidelines for healthy physical activity (NNGB guideline) [<xref ref-type=\"bibr\" rid=\"B34\">34</xref>] and the international guidelines of the American College of Sports Medicine [<xref ref-type=\"bibr\" rid=\"B35\">35</xref>], resulting in two groups of people. Persons were meeting the physical activity guidelines if they were at least moderately physically active for a minimum of five days a week for at least 30 minutes a day (received score 1). All others were categorized as not meeting the physical activity guidelines (score 0).</p>",
+                            "<p>Pearson correlations between the total score on physical activity (based on SQUASH) and the score on the subjective assessment were computed for the whole group and for the QS and SQ groups separately. Four t-tests were conducted. One t-test was used to assess whether those who did meet the NNGB guideline differed in their subjective estimation of physical activity from those who did not meet this guideline. Two t-tests were conducted to assess whether the SQ and QS groups differed in their subjective estimation of physical activity and in the quantified behavioural self-report scores. In addition, Z-transformed mean scores of the difference between the objective and subjective measurements of behaviour were calculated for the QS and SQ groups separately and tested by means of a t-test.</p>",
+                            "<p>To find out whether the order of the two assessments influenced the degree of misperception (main research question), a linear regression analysis was conducted with subjective assessment as the dependent variable and the order of the two assessments as the independent factor, corrected for quantified behavioural self-report (total SQUASH score).</p>",
+                            "<p>The QS group consisted of 246 respondents, the SQ group of 270. Experimental groups did not differ in demographic characteristics or in meeting the NNGB guideline.</p>",
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>",
+                            "<p>Table <xref ref-type=\"table\" rid=\"T1\">1</xref> shows how misperception was distributed over the two experimental conditions, which did not differ significantly. Misperception (underestimators plus overestimators) was prevalent in 33.6% of the QS group compared to 28.9% in the SQ group.</p>",
+                            "<p>Misperception categories in the QS en SQ conditions (%)*</p>",
+                            "<p>The Anova analyses (Table <xref ref-type=\"table\" rid=\"T2\">2</xref>) showed that the four categories differed significantly in their mean scores on involvement and on all reasons to be physically active, except for weight control. The two experimental conditions (QS versus SQ) only resulted in different scores for 'being physically active for relaxation', though at p = .06. A post hoc t-test revealed however no significant differences between the two conditions (QS group (M = 2.54, SD = 0.98) and SQ group (M = 2.40, SD = 0.98), (t(481) = 1.569, P = .12). Feelings of involvement and all other reasons to be active did not differ between the QS and SQ groups. Nor were interaction effects found between question order and feeling of involvement or reasons to be active.</p>",
+                            "<p>Hierarchical logistic regression analysis using underestimation (scored as 1) versus no misperception (scored as 0 (reference group) as the dependent variable and order, involvement and the six reasons to be active as predictors showed a main effect of involvement, a borderline significant effect of question order and interactions between (1) health as a reason to be active and order and (2) involvement and order (Table <xref ref-type=\"table\" rid=\"T4\">4</xref>). Since interactions may cause unreliable odds ratios and p-values [<xref ref-type=\"bibr\" rid=\"B37\">37</xref>], four additional logistic regression analyses were carried out in which the effects of order were tested for a number of subgroups, based on 'health as a reason to be active' and 'involvement'. For the purpose of these stratified analyses, two subgroups were formed on the basis of 'health as a reason to be active'. One subgroup consisted of respondents who stated that health was an important or very important reason for them to be active (n = 380), while the other subgroup consisted of people for whom health was no reason or only a minor reason to be active (n = 55). We also formed a subgroup with respondents who were not or hardly involved in physical activity (n = 67) and a group of involved or highly involved respondents (n = 366). Table <xref ref-type=\"table\" rid=\"T5\">5</xref> shows the results of the stratified analyses for each of the four subgroups. Among those who considered health to be an important or very important reason to be physically active, the SQ condition resulted in less underestimation, though at borderline significance. In those who were not involved in physical activity, the SQ condition also resulted in less underestimation, also at borderline significance. No effects of question order were found in the other subgroups.</p>",
+                            "<p>In line with the results of the regression analyses, chi-square analyses showed lower percentages of underestimators in the SQ group among those who mentioned health as an important reason to be active (X<sup>2 </sup>(1, 380) = 2.94, p = .08) and among those who were not involved in physical activity (X<sup>2</sup>(1, 67) = 2.71, p = .10) (see Figure <xref ref-type=\"fig\" rid=\"F2\">2</xref> for percentages). These differences were however only borderline significant.</p>",
+                            "<p>In line with other studies [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B5\">5</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>], we found a low correlation between the quantified behavioural self-report and the subjective assessment of behaviour, a correlation which hardly differed between the two conditions (quantified self-report followed by subjective assessment (QS) or the other way round (SQ)). The results of the t-tests and linear regression showed no effect of the order in which the questions were presented on the subjective estimation of behaviour. Our Anova analysis of misperception from the perspective of four categories (underestimators, overestimators, realistic high estimators, realistic low estimators, all relative to the Dutch national guideline, Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>) did not show an influence of question order on the occurrence of misperception either. Nor did it reveal any interaction effects between outcome expectations, involvement and question order. The Anova analyses did, however, show that the four categories differed from each other in terms of involvement and of most outcome expectations. People who perceived their physical activity level as adequate (realistic high estimators and overestimators) had higher scores on all reasons to be active (except weight) than those who did not perceive their activity behaviour as adequate (realistic low estimators and underestimators). People with misperceptions did not differ in their judgment on the importance of health from those without misperception. There were two exceptions: overestimators saw relaxation as a more important reason to be active and expressed less involvement in physical activity than realistic low estimators and underestimators. The findings suggest that people may use not only health but also other benchmarks (e.g. relaxation) in their subjective estimation of the adequacy of their behaviour. The results do not, however, suggest that only misperceptors (i.e. overestimators and underestimators) use different benchmarks for assessing their physical activity involvement. For a detailed analysis of the differences between the categories in terms of involvement and outcome expectancies, we refer to a previous study by Lechner, Bolman and Van Dijke [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>].</p>",
+                            "<p>The present study showed that 67% of the respondents met the NNGB guideline, while 16% overestimated and 15% underestimated their physical activity. Overestimators were those who subjectively estimated their behaviour as sufficient while not actually meeting the NNGB guideline, as derived from the quantified behavioural self-report assessment by means of the SQUASH instrument. Underestimators were those who did meet the guideline, though they subjectively estimated their behaviour as insufficient. Half of those who did not meet the NNGB guideline thought that they were doing fine (the so-called overestimators). We found 10% less misperception than Ronda and colleagues [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>], though the percentage was comparable to that found by De Ridder and Lechner [<xref ref-type=\"bibr\" rid=\"B5\">5</xref>]. This might be partly explained by the fact that those researchers used a different instrument for the quantified self-report of physical activity. Our quantified assessment of physical activity with SQUASH [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>] was more detailed, and corrected for age. Also in line with the study by De Ridder &amp; Lechner, but different from other studies [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>,<xref ref-type=\"bibr\" rid=\"B40\">40</xref>,<xref ref-type=\"bibr\" rid=\"B41\">41</xref>], was our finding that two thirds of the respondents met the NNGB norm; the other studies reported 40\u201355%. Again, these differences might be related to the instruments that were used, and the age correction in the SQUASH. In agreement with the guidelines proposed by Wendel-Vos &amp; Schuit [<xref ref-type=\"bibr\" rid=\"B33\">33</xref>], the algorithm we used in the present study to calculate the total SQUASH score took age into account in calculating intensity categories (light, moderate and vigorous) for physical activities. For example, vigorous activities for 55+ participants meant \u2265 5 MET, while for adults they were \u2265 6.5 MET. Previous studies may not have applied the age corrections.</p>",
+                            "<p>Our study was limited by the fact that our sample did not reflect the general Dutch population. Our sample was slightly older and more likely to meet the guideline for physical activity [<xref ref-type=\"bibr\" rid=\"B40\">40</xref>,<xref ref-type=\"bibr\" rid=\"B41\">41</xref>]. This may have had consequences for the reported physical activity and the possible predictors of misperception, and may therefore affect the generalizability of the results. Also, our response rate, though comparable to that in most other similar studies, was only slightly over 50%. It is, however, unlikely that these aspects have affected the results of the experiment (i.e., the effect of the order of quantified behavioural self-report and subjective assessment questions). The nature of our research question reduced the need for generalizability. The study may have suffered from type I errors due to multiple testing. Although we used a validated and widely accepted quantified behavioural self-report scale of physical activity (SQUASH), we could have strengthened our study by collecting corroborating data that would support the validity of this instrument (e.g., accelerometers). We only studied the effect of question order on misperception in self-administered questionnaires, and it is possible that question order effects on misperception might exist in telephone-administered interviews, another important mode of data collection in health education research. This is suggested by several experimental studies that showed clear question-order effects in telephone surveys, while not finding such effects in self-administered questionnaires [<xref ref-type=\"bibr\" rid=\"B42\">42</xref>,<xref ref-type=\"bibr\" rid=\"B43\">43</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "17.8",
+                        "cited_in": [
+                            "<p>The sample included 44% men and 55% women, while 1% had not indicated their sex. The mean age was 53.7 years (SD = 17.8; range = 19\u201391). Thirty-one percent had followed primary education, junior general secondary education or preparatory secondary vocational education, 31% had followed senior general secondary education, senior secondary vocational education or pre-university education, and 38% had followed higher professional education or university. Almost 70% indicated not to be restricted in physical activity by (physical) complaints. Physical activity was found to be important to the respondents (M = 1.9; SD = 0.7; range 1 (very important) to 5 (very unimportant)). They also felt involved with being physically active (M = 2.2; SD = 0.8; range: 1 (very involved) to 5 (very uninvolved). Almost 17% of the participants were in the realistic low category, 16% were overestimators, 15% underestimators and 52% were in the realistic high category. This means that 67% of the respondents met the NNGB guideline and that misperception (overestimation plus underestimation) was prevalent in 31% of the respondents. Of those who did not meet the guideline, 48% estimated their physical activity to be sufficient or high.</p>"
+                        ]
+                    },
+                    {
+                        "content": "15.2",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "13.7",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "53.3",
+                        "cited_in": []
+                    }
+                ]
+            },
+            {
+                "table_id": "T2",
+                "body": "<thead><tr><td align=\"left\">Condition</td><td align=\"left\">Main effect: F (df), p-value</td><td align=\"left\">Interaction effect: F (df), p-value</td></tr></thead><tbody><tr><td align=\"left\">Health</td><td align=\"left\">F (3, 505) = 4.47, p &lt; .01</td><td align=\"left\">F (3, 505) = .27, p = .85</td></tr><tr><td align=\"left\">Question order</td><td align=\"left\">F (3, 505) = .98, p = .32</td><td /></tr><tr><td /><td /><td /></tr><tr><td align=\"left\">Weight</td><td align=\"left\">F (3, 489) = .74, p = .53</td><td align=\"left\">F (3, 489) = .56, p = .64</td></tr><tr><td align=\"left\">Question order</td><td align=\"left\">F (3, 489) = 1.16, p = .28</td><td /></tr><tr><td /><td /><td /></tr><tr><td align=\"left\">Stress reduction</td><td align=\"left\">F (3, 482) = 4.26, p &lt; .01</td><td align=\"left\">F (3, 482) = .91, p = .44</td></tr><tr><td align=\"left\">Question order</td><td align=\"left\">F (3, 482) = .52, p = .47</td><td /></tr><tr><td /><td /><td /></tr><tr><td align=\"left\">Appearance</td><td align=\"left\">F (3, 477) = 3.70, p &lt; .05</td><td align=\"left\">F (3, 477) = .187, p = .13</td></tr><tr><td align=\"left\">Question order</td><td align=\"left\">F (3, 477) = .01, p = .92</td><td /></tr><tr><td /><td /><td /></tr><tr><td align=\"left\">Feeling fit</td><td align=\"left\">F (3, 495) = 2.97, p &lt; .05</td><td align=\"left\">F (3, 495) = .55, p = .46</td></tr><tr><td align=\"left\">Question order</td><td align=\"left\">F (3, 495) = 1.60, p = .19</td><td /></tr><tr><td /><td /><td /></tr><tr><td align=\"left\">Relaxation</td><td align=\"left\">F (3, 482) = 7.30, p &lt; .0001</td><td align=\"left\">F (3, 482) = .68, p = .57</td></tr><tr><td align=\"left\">Question order</td><td align=\"left\">F (3, 482) = 3.52, p = .06</td><td /></tr><tr><td /><td /><td /></tr><tr><td align=\"left\">Involvement</td><td align=\"left\">F (3, 506) = 22.45, p &lt; .0001</td><td align=\"left\">F (3, 506) = 1.12, p = .34</td></tr><tr><td align=\"left\">Question order</td><td align=\"left\">F (3, 506) = .001, p = .97</td><td /></tr></tbody>",
+                "caption": "<p>Summary of results of Anova analyses of differences between the four categories in terms of involvement and reasons to be active, in relation to the order of the questions</p>",
+                "foots": [],
+                "paragraphs": [
+                    {
+                        "text": "<p>The Anova analyses (Table <xref ref-type=\"table\" rid=\"T2\">2</xref>) showed that the four categories differed significantly in their mean scores on involvement and on all reasons to be physically active, except for weight control. The two experimental conditions (QS versus SQ) only resulted in different scores for 'being physically active for relaxation', though at p = .06. A post hoc t-test revealed however no significant differences between the two conditions (QS group (M = 2.54, SD = 0.98) and SQ group (M = 2.40, SD = 0.98), (t(481) = 1.569, P = .12). Feelings of involvement and all other reasons to be active did not differ between the QS and SQ groups. Nor were interaction effects found between question order and feeling of involvement or reasons to be active.</p>",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "Condition",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Main effect: F (df), p-value",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Interaction effect: F (df), p-value",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Health",
+                        "cited_in": [
+                            "<p>Misperceptions about health-related behaviour are often measured by combining and comparing two types of self-report [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B12\">12</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. The first type is a self-report in which the behaviour is assessed in detail by quantitative measurements, often by means of validated questionnaires [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>-<xref ref-type=\"bibr\" rid=\"B21\">21</xref>]. The behaviour is subsequently scored on the basis of accepted guidelines for health-enhancing behaviours. Instruments frequently used for such quantified behavioural self-reports are the validated Short Questionnaire to Assess Health Enhancing physical activity (SQUASH) [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>] and the validated 25-item fat intake food frequency questionnaire [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>,<xref ref-type=\"bibr\" rid=\"B21\">21</xref>]. The scores are then compared with the relevant guidelines to determine whether people do or do not meet these health guidelines. The second type of self-report provides a subjective (self-rated) general evaluative estimation of the behaviour [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Self-rated dietary fat intake, for example, is measured by asking respondents to evaluate their fat intake on a bipolar five-point scale including answering categories ranging from very low fat intake to very high fat intake [<xref ref-type=\"bibr\" rid=\"B17\">17</xref>]. Misperception is then assessed by comparing the subjective self-rated estimation of behaviour with the findings of the quantified behavioural self-report indicating whether subjects meet the health guideline.</p>"
+                        ]
+                    },
+                    {
+                        "content": "F (3, 505) = 4.47, p < .01",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "F (3, 505) = .27, p = .85",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Question order",
+                        "cited_in": [
+                            "<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>"
+                        ]
+                    },
+                    {
+                        "content": "F (3, 505) = .98, p = .32",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Weight",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "F (3, 489) = .74, p = .53",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "F (3, 489) = .56, p = .64",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Question order",
+                        "cited_in": [
+                            "<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>"
+                        ]
+                    },
+                    {
+                        "content": "F (3, 489) = 1.16, p = .28",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Stress reduction",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "F (3, 482) = 4.26, p < .01",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "F (3, 482) = .91, p = .44",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Question order",
+                        "cited_in": [
+                            "<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>"
+                        ]
+                    },
+                    {
+                        "content": "F (3, 482) = .52, p = .47",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Appearance",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "F (3, 477) = 3.70, p < .05",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "F (3, 477) = .187, p = .13",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Question order",
+                        "cited_in": [
+                            "<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>"
+                        ]
+                    },
+                    {
+                        "content": "F (3, 477) = .01, p = .92",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Feeling fit",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "F (3, 495) = 2.97, p < .05",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "F (3, 495) = .55, p = .46",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Question order",
+                        "cited_in": [
+                            "<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>"
+                        ]
+                    },
+                    {
+                        "content": "F (3, 495) = 1.60, p = .19",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Relaxation",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "F (3, 482) = 7.30, p < .0001",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "F (3, 482) = .68, p = .57",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Question order",
+                        "cited_in": [
+                            "<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>"
+                        ]
+                    },
+                    {
+                        "content": "F (3, 482) = 3.52, p = .06",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Involvement",
+                        "cited_in": [
+                            "<p>Our comparison of underestimators with realists showed that involvement in physical activity predicted underestimation of the behaviour, while the effect of the order of questions was borderline significant. Underestimators of physical activity are, however, not very interesting to health educators, since these persons are already meeting the national Dutch (NNGB) guideline and therefore do not need to change their physical activity behaviour. This means that there is no urgency for health educators to invest in this group. In order to increase public health, they should primarily invest in persons who are not meeting the guideline (overestimators and low realists). From the perspective of the aim of this study, the important finding is that the extent of overestimation is not influenced by the order of the questions. Involvement and health moderated the effect of question order on the degree of underestimation. Stratified analyses among those who perceived health as an important or very important reason to be physically active showed that those who filled in the quantified behavioural self report before the subjective assessment were more likely to underestimate their physical activity than those who completed them in the opposite order. The same was true for those who were less involved in physical activity. Both findings were borderline significant. Rimal and Real [<xref ref-type=\"bibr\" rid=\"B24\">24</xref>], who assessed the perceived importance of skin cancer related to issue involvement and question-order effects, also found an interaction effect between involvement and question order. Like us, these researchers found that high involvement was not associated with question-order effects, but low involvement was (at borderline significance in our study). This is in agreement with the Elaboration Likelihood Model, which assumes greater context-related effects (i.e. those of question order) among respondents with low involvement, because they process information via a peripheral route [<xref ref-type=\"bibr\" rid=\"B26\">26</xref>]. It is harder to understand why those who rate health as the most important reason to be active are affected by question order (at borderline significance in our study).</p>"
+                        ]
+                    },
+                    {
+                        "content": "F (3, 506) = 22.45, p < .0001",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "F (3, 506) = 1.12, p = .34",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Question order",
+                        "cited_in": [
+                            "<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>"
+                        ]
+                    },
+                    {
+                        "content": "F (3, 506) = .001, p = .97",
+                        "cited_in": []
+                    }
+                ]
+            },
+            {
+                "table_id": "T3",
+                "body": "<thead><tr><td /><td align=\"center\">Realistic high (Rh)</td><td align=\"center\">Overestimation (Ov)</td><td align=\"center\">Underestimation (Un)</td><td align=\"center\">Realistic low (Rl)</td><td align=\"center\">Differences p &lt; .05</td></tr></thead><tbody><tr><td align=\"left\">Health</td><td align=\"center\">3.42</td><td align=\"center\">3.38</td><td align=\"center\">3.21</td><td align=\"center\">3.16</td><td align=\"center\">Rh&gt;Rl</td></tr><tr><td align=\"left\">Appearance</td><td align=\"center\">2.47</td><td align=\"center\">2.40</td><td align=\"center\">2.30</td><td align=\"center\">2.08</td><td align=\"center\">Rh&gt;Rl</td></tr><tr><td align=\"left\">Feeling fit</td><td align=\"center\">3.33</td><td align=\"center\">3.27</td><td align=\"center\">3.07</td><td align=\"center\">3.04</td><td align=\"center\">Rh&gt;Un, Rl</td></tr><tr><td align=\"left\">Weight</td><td align=\"center\">2.84</td><td align=\"center\">2.72</td><td align=\"center\">2.87</td><td align=\"center\">2.70</td><td align=\"center\">n.s.</td></tr><tr><td align=\"left\">Relaxation</td><td align=\"center\">2.60</td><td align=\"center\">2.63</td><td align=\"center\">2.20</td><td align=\"center\">2.15</td><td align=\"center\">Rh, Ov&gt;Un, Rl</td></tr><tr><td align=\"left\">Stress relief</td><td align=\"center\">2.46</td><td align=\"center\">2.40</td><td align=\"center\">2.14</td><td align=\"center\">2.00</td><td align=\"center\">Rh&gt;Rl</td></tr><tr><td align=\"left\">Involvement<sup>b</sup></td><td align=\"center\">1.83</td><td align=\"center\">2.04</td><td align=\"center\">2.30</td><td align=\"center\">2.40</td><td align=\"center\">Rh, Ov&gt;Un, Rl</td></tr></tbody>",
+                "caption": "<p>Differences in reasons to active and involvement between the groups realistic high, underestimation, overestimation, and realistic low, using two-way Anova<sup>a</sup></p>",
+                "foots": [
+                    "<p>Answering scores ranging from 1 (no reason) to 4 (very important reason); <sup>a</sup>Analyses included main effects of reasons to be active, involvement and order of the questions and their interaction effects, for post-hoc analyses Games-Howell procedure was used because of the unequal group sizes as recommended by Field [36]; <sup>b</sup>Scale score ranging from 1(very important) to 5 (very unimportant).</p>"
+                ],
+                "paragraphs": [
+                    {
+                        "text": "<p>Table <xref ref-type=\"table\" rid=\"T3\">3</xref> shows, for each of the four groups, the results of the post-hoc analyses of scores on involvement and reasons to be physically active. The greatest differences were found between the realistic high and realistic low groups. Realistic high estimators considered health, appearance, relaxation and stress relief more important reasons to be physically active than realistic low estimators. Overestimators mentioned feeling fit and relaxation as more important reasons to be physically active than realistic low estimators and underestimators. Both groups, realistic high and overestimators, expressed a stronger sense of involvement in physical activity than the participants who estimated their physical activity to be low (underestimators and realistic low).</p>",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "Realistic high (Rh)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Overestimation (Ov)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Underestimation (Un)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Realistic low (Rl)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Differences p < .05",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Health",
+                        "cited_in": [
+                            "<p>Misperceptions about health-related behaviour are often measured by combining and comparing two types of self-report [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B12\">12</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. The first type is a self-report in which the behaviour is assessed in detail by quantitative measurements, often by means of validated questionnaires [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>-<xref ref-type=\"bibr\" rid=\"B21\">21</xref>]. The behaviour is subsequently scored on the basis of accepted guidelines for health-enhancing behaviours. Instruments frequently used for such quantified behavioural self-reports are the validated Short Questionnaire to Assess Health Enhancing physical activity (SQUASH) [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>] and the validated 25-item fat intake food frequency questionnaire [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>,<xref ref-type=\"bibr\" rid=\"B21\">21</xref>]. The scores are then compared with the relevant guidelines to determine whether people do or do not meet these health guidelines. The second type of self-report provides a subjective (self-rated) general evaluative estimation of the behaviour [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Self-rated dietary fat intake, for example, is measured by asking respondents to evaluate their fat intake on a bipolar five-point scale including answering categories ranging from very low fat intake to very high fat intake [<xref ref-type=\"bibr\" rid=\"B17\">17</xref>]. Misperception is then assessed by comparing the subjective self-rated estimation of behaviour with the findings of the quantified behavioural self-report indicating whether subjects meet the health guideline.</p>"
+                        ]
+                    },
+                    {
+                        "content": "3.42",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3.38",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3.21",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3.16",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Rh>Rl",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Appearance",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.47",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.40",
+                        "cited_in": [
+                            "<p>The Anova analyses (Table <xref ref-type=\"table\" rid=\"T2\">2</xref>) showed that the four categories differed significantly in their mean scores on involvement and on all reasons to be physically active, except for weight control. The two experimental conditions (QS versus SQ) only resulted in different scores for 'being physically active for relaxation', though at p = .06. A post hoc t-test revealed however no significant differences between the two conditions (QS group (M = 2.54, SD = 0.98) and SQ group (M = 2.40, SD = 0.98), (t(481) = 1.569, P = .12). Feelings of involvement and all other reasons to be active did not differ between the QS and SQ groups. Nor were interaction effects found between question order and feeling of involvement or reasons to be active.</p>"
+                        ]
+                    },
+                    {
+                        "content": "2.30",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.08",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Rh>Rl",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Feeling fit",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3.33",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3.27",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3.07",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3.04",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Rh>Un, Rl",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Weight",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.84",
+                        "cited_in": [
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>"
+                        ]
+                    },
+                    {
+                        "content": "2.72",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.87",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.70",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "n.s.",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Relaxation",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.60",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.63",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.20",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.15",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Rh, Ov>Un, Rl",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Stress relief",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.46",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.40",
+                        "cited_in": [
+                            "<p>The Anova analyses (Table <xref ref-type=\"table\" rid=\"T2\">2</xref>) showed that the four categories differed significantly in their mean scores on involvement and on all reasons to be physically active, except for weight control. The two experimental conditions (QS versus SQ) only resulted in different scores for 'being physically active for relaxation', though at p = .06. A post hoc t-test revealed however no significant differences between the two conditions (QS group (M = 2.54, SD = 0.98) and SQ group (M = 2.40, SD = 0.98), (t(481) = 1.569, P = .12). Feelings of involvement and all other reasons to be active did not differ between the QS and SQ groups. Nor were interaction effects found between question order and feeling of involvement or reasons to be active.</p>"
+                        ]
+                    },
+                    {
+                        "content": "2.14",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.00",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Rh>Rl",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Involvement",
+                        "cited_in": [
+                            "<p>Our comparison of underestimators with realists showed that involvement in physical activity predicted underestimation of the behaviour, while the effect of the order of questions was borderline significant. Underestimators of physical activity are, however, not very interesting to health educators, since these persons are already meeting the national Dutch (NNGB) guideline and therefore do not need to change their physical activity behaviour. This means that there is no urgency for health educators to invest in this group. In order to increase public health, they should primarily invest in persons who are not meeting the guideline (overestimators and low realists). From the perspective of the aim of this study, the important finding is that the extent of overestimation is not influenced by the order of the questions. Involvement and health moderated the effect of question order on the degree of underestimation. Stratified analyses among those who perceived health as an important or very important reason to be physically active showed that those who filled in the quantified behavioural self report before the subjective assessment were more likely to underestimate their physical activity than those who completed them in the opposite order. The same was true for those who were less involved in physical activity. Both findings were borderline significant. Rimal and Real [<xref ref-type=\"bibr\" rid=\"B24\">24</xref>], who assessed the perceived importance of skin cancer related to issue involvement and question-order effects, also found an interaction effect between involvement and question order. Like us, these researchers found that high involvement was not associated with question-order effects, but low involvement was (at borderline significance in our study). This is in agreement with the Elaboration Likelihood Model, which assumes greater context-related effects (i.e. those of question order) among respondents with low involvement, because they process information via a peripheral route [<xref ref-type=\"bibr\" rid=\"B26\">26</xref>]. It is harder to understand why those who rate health as the most important reason to be active are affected by question order (at borderline significance in our study).</p>"
+                        ]
+                    },
+                    {
+                        "content": "1.83",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.04",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.30",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.40",
+                        "cited_in": [
+                            "<p>The Anova analyses (Table <xref ref-type=\"table\" rid=\"T2\">2</xref>) showed that the four categories differed significantly in their mean scores on involvement and on all reasons to be physically active, except for weight control. The two experimental conditions (QS versus SQ) only resulted in different scores for 'being physically active for relaxation', though at p = .06. A post hoc t-test revealed however no significant differences between the two conditions (QS group (M = 2.54, SD = 0.98) and SQ group (M = 2.40, SD = 0.98), (t(481) = 1.569, P = .12). Feelings of involvement and all other reasons to be active did not differ between the QS and SQ groups. Nor were interaction effects found between question order and feeling of involvement or reasons to be active.</p>"
+                        ]
+                    },
+                    {
+                        "content": "Rh, Ov>Un, Rl",
+                        "cited_in": []
+                    }
+                ]
+            },
+            {
+                "table_id": "T4",
+                "body": "<thead><tr><td /><td align=\"left\">\u03b2 coefficient</td><td align=\"left\">SE</td><td align=\"left\">Odds Ratio</td><td align=\"left\">P<sup>c</sup></td></tr></thead><tbody><tr><td align=\"left\"><italic>Step one</italic></td><td /><td /><td /><td /></tr><tr><td align=\"left\">Question order<sup>d</sup></td><td align=\"left\">-.46</td><td align=\"left\">.27</td><td align=\"left\">0.63</td><td align=\"left\">.09</td></tr><tr><td align=\"left\">Involvement<sup>e</sup></td><td align=\"left\">.60</td><td align=\"left\">.22</td><td align=\"left\">1.83</td><td align=\"left\">.005</td></tr><tr><td align=\"left\"><italic>Step two</italic></td><td /><td /><td /><td /></tr><tr><td align=\"left\">Question order</td><td align=\"left\">4.54</td><td align=\"left\">2.11</td><td align=\"left\">93</td><td align=\"left\">.03</td></tr><tr><td align=\"left\">Involvement</td><td align=\"left\">1.09</td><td align=\"left\">.33</td><td align=\"left\">2.97</td><td align=\"left\">.001</td></tr><tr><td align=\"left\">Health</td><td align=\"left\">.42</td><td align=\"left\">.36</td><td align=\"left\">1.52</td><td align=\"left\">.25</td></tr><tr><td align=\"left\">Order with involvement (interaction)</td><td align=\"left\">-.90</td><td align=\"left\">.43</td><td align=\"left\">0.41</td><td align=\"left\">.04</td></tr><tr><td align=\"left\">Order with health (interaction)</td><td align=\"left\">-.93</td><td align=\"left\">.46</td><td align=\"left\">0.39</td><td align=\"left\">.04</td></tr></tbody>",
+                "caption": "<p>Summary of logistic regression predicting underestimation behaviour (n = 397)<sup>a,b</sup></p>",
+                "foots": [
+                    "<p><sup>a</sup>Demographic characteristics were not controlled for since groups did not differ in these characteristics; <sup>b</sup>Only significant variables are reported; <sup>c</sup>Wald test statistic; <sup>d</sup>QS is reference category; <sup>e</sup>Higher score means lower involvement.</p>"
+                ],
+                "paragraphs": [
+                    {
+                        "text": "<p>Hierarchical logistic regression analysis using underestimation (scored as 1) versus no misperception (scored as 0 (reference group) as the dependent variable and order, involvement and the six reasons to be active as predictors showed a main effect of involvement, a borderline significant effect of question order and interactions between (1) health as a reason to be active and order and (2) involvement and order (Table <xref ref-type=\"table\" rid=\"T4\">4</xref>). Since interactions may cause unreliable odds ratios and p-values [<xref ref-type=\"bibr\" rid=\"B37\">37</xref>], four additional logistic regression analyses were carried out in which the effects of order were tested for a number of subgroups, based on 'health as a reason to be active' and 'involvement'. For the purpose of these stratified analyses, two subgroups were formed on the basis of 'health as a reason to be active'. One subgroup consisted of respondents who stated that health was an important or very important reason for them to be active (n = 380), while the other subgroup consisted of people for whom health was no reason or only a minor reason to be active (n = 55). We also formed a subgroup with respondents who were not or hardly involved in physical activity (n = 67) and a group of involved or highly involved respondents (n = 366). Table <xref ref-type=\"table\" rid=\"T5\">5</xref> shows the results of the stratified analyses for each of the four subgroups. Among those who considered health to be an important or very important reason to be physically active, the SQ condition resulted in less underestimation, though at borderline significance. In those who were not involved in physical activity, the SQ condition also resulted in less underestimation, also at borderline significance. No effects of question order were found in the other subgroups.</p>",
+                        "citations": [
+                            "<ref id=\"B37\"><citation citation-type=\"book\"><person-group person-group-type=\"author\"><name><surname>Tabachnick</surname><given-names>BG</given-names></name><name><surname>Fidell</surname><given-names>LS</given-names></name></person-group><source>Using multivariate statistics</source><year>2001</year><edition>4</edition><publisher-name>Boston: Allyn and Bacon</publisher-name></citation></ref>"
+                        ]
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "\u03b2 coefficient",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "SE",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Odds Ratio",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "P",
+                        "cited_in": [
+                            "<p>People often have misperceptions (overestimation or underestimation) about the health-related behaviours they engage in, which may have adverse consequences for their susceptibility to behavioural change. Misperception is usually measured by combining and comparing quantified behavioural self-reports with subjective classification of the behaviour. Researchers assume that such assessments of misperception are not influenced by the order of the two types of measurement, but this has never been studied. Based on the precaution adoption model and the information processing theory, it might be expected that taking the subjective measurement after a detailed quantified behavioural self-report would improve the accuracy of the subjective measurement because the quantified report urges a person to think more in detail about their own behaviour.</p>",
+                            "<p>Studies show that people often have misperceptions about the health-related behaviours they engage in [<xref ref-type=\"bibr\" rid=\"B1\">1</xref>-<xref ref-type=\"bibr\" rid=\"B12\">12</xref>]. People usually assume that their behaviour is adequate to prevent disease even if in reality it does not meet the health guidelines. Studies have shown that people often overestimate their physical activity level [<xref ref-type=\"bibr\" rid=\"B5\">5</xref>-<xref ref-type=\"bibr\" rid=\"B7\">7</xref>] and their fruit and vegetable consumption [<xref ref-type=\"bibr\" rid=\"B8\">8</xref>-<xref ref-type=\"bibr\" rid=\"B10\">10</xref>], but underestimate their fat intake [<xref ref-type=\"bibr\" rid=\"B11\">11</xref>] and alcohol consumption [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>]. Misperceptions often relate to behaviours for which there is no obvious dividing line between what is healthy or unhealthy or adequate to prevent disease [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>]. For example, whereas it is well-known that smoking is bad for someone's health, and people obviously know whether they smoke or not, it is less clear what exactly constitutes a healthy diet and when a persons' diet is healthy or adequate to prevent disease.</p>",
+                            "<p>Misperceptions may have adverse consequences for people's susceptibility to behavioural change and health education. According to the Precaution Adoption Process Model [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>,<xref ref-type=\"bibr\" rid=\"B14\">14</xref>], people need to be aware of their own risk behaviour before they are susceptible to behavioural change and may change their risk behaviour. Furthermore, it is likely that people with misperceptions about their own behaviour do not pay attention to messages in health education interventions because they think these messages do not apply to them. Studies of the consequences of misperception have shown that people who think that their behaviour is adequate have less intention to change [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>-<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>]. In terms of their attitude, self-efficacy and the social influence they perceive, these people are comparable to those who actually behave in accordance with the health guidelines [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>-<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>].</p>",
+                            "<p>A few studies have assessed the determinants of misperception [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B12\">12</xref>,<xref ref-type=\"bibr\" rid=\"B16\">16</xref>]. These studies, on fruit [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B16\">16</xref>], vegetable [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B16\">16</xref>], alcohol consumption [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>] and physical activity [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>], showed that misperception is correlated with the way in which and the extent to which persons make interpersonal comparisons. People who erroneously classify themselves as behaving in a healthy way are more likely to compare themselves with those who are perceived to engage in equally healthy or less healthy behaviour (downward comparison) and rate their own behaviour as healthier than that of these others (optimistic bias) [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>,<xref ref-type=\"bibr\" rid=\"B16\">16</xref>].</p>",
+                            "<p>Previous studies in the area of question-order effects, however, have demonstrated systematic differences in people's responses that could be attributed to the order in which questions were presented [<xref ref-type=\"bibr\" rid=\"B22\">22</xref>-<xref ref-type=\"bibr\" rid=\"B24\">24</xref>]. This might imply that question order could also influence the extent of misperception. Therefore, this study assessed whether the order of the subjective and quantified behavioural self-reports influenced the results (i.e. the extent of misperception). Answering this question is relevant to future studies that try to explain and change health behaviours in general and those on misperceptions about health behaviours in particular. We chose physical activity behaviour as the behaviour to test this on.</p>",
+                            "<p>As mentioned above, it would be good for the evaluation of findings of past and future research into health promotion practices if we found that the order of the two types of question did not influence the measurement of misperceptions. This would justify the measurement procedure used so far. Nevertheless, the studies on question-order effects referred to above suggested that there might be an influence. Furthermore, based on the Precaution Adoption Process Model [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>,<xref ref-type=\"bibr\" rid=\"B14\">14</xref>] and the Information Processing Theory [<xref ref-type=\"bibr\" rid=\"B25\">25</xref>], we considered it likely that filling in a detailed quantified questionnaire on physical activity behaviour would help respondents become aware of their own behaviour (in terms of risk) and would therefore result in a more accurate subjective estimation of the behaviour (i.e. in less misperception). Based on these two theories [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>,<xref ref-type=\"bibr\" rid=\"B14\">14</xref>,<xref ref-type=\"bibr\" rid=\"B25\">25</xref>], we therefore expected that a detailed quantified behavioural self-report in our study would activate prior knowledge (revealing respondents' own activities and knowledge about physical activity behaviour) and would induce respondents to think about their own behaviour in more detail. This was then expected to result in fewer misperceptions (in terms of overestimation and underestimation) about the behaviour.</p>",
+                            "<p>The overall SQUASH score was then compared with the Dutch guidelines for healthy physical activity (NNGB guideline) [<xref ref-type=\"bibr\" rid=\"B34\">34</xref>] and the international guidelines of the American College of Sports Medicine [<xref ref-type=\"bibr\" rid=\"B35\">35</xref>], resulting in two groups of people. Persons were meeting the physical activity guidelines if they were at least moderately physically active for a minimum of five days a week for at least 30 minutes a day (received score 1). All others were categorized as not meeting the physical activity guidelines (score 0).</p>",
+                            "<p>Pearson correlations between the total score on physical activity (based on SQUASH) and the score on the subjective assessment were computed for the whole group and for the QS and SQ groups separately. Four t-tests were conducted. One t-test was used to assess whether those who did meet the NNGB guideline differed in their subjective estimation of physical activity from those who did not meet this guideline. Two t-tests were conducted to assess whether the SQ and QS groups differed in their subjective estimation of physical activity and in the quantified behavioural self-report scores. In addition, Z-transformed mean scores of the difference between the objective and subjective measurements of behaviour were calculated for the QS and SQ groups separately and tested by means of a t-test.</p>",
+                            "<p>Two types of analyses were used to answer the additional research question, i.e. the effect of a person's involvement and reasons to be physically active on the occurrence of misperception and their possible relationship with the order of the questions. Two-way Anova's with Games-Howell post-hoc analyses [<xref ref-type=\"bibr\" rid=\"B36\">36</xref>] were conducted for the four categories of Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>, while hierarchical logistic regression analyses were carried out in two separate groups [one group in which overestimators were compared with realists (i.e., the combination of realistic low and realistic high categories) and one group in which underestimators were compared with realists. These analyses in separate groups were needed since overestimators and underestimators had to be compared separately with realists to prevent reciprocal influences (if overestimation and underestimation were taken together, their scores would average out). In the first logistic regression analysis, underestimators were omitted and overestimators were compared with realists. In the second logistic regression analysis, overestimators were omitted and underestimators were compared with realists. In both analyses, the main effects of the order of the questions, involvement and reasons to be active were tested by entering them as one block in the first step. Interactions were added in step two, using a hierarchical backward elimination procedure. Non-significant interaction terms (P &lt; .10) were removed one by one [<xref ref-type=\"bibr\" rid=\"B37\">37</xref>]. If any significant interaction remained between question order and one of the other variables, the effect of order was stratified to this variable.</p>",
+                            "<p>Demographic variables were not controlled for in the hierarchical logistic regression analyses nor in the linear regression analyses, since the experimental groups did not differ in demographic characteristics. All analyses were done using SPSS 11.0.5 for Windows [<xref ref-type=\"bibr\" rid=\"B38\">38</xref>].</p>",
+                            "<p>The sample included 44% men and 55% women, while 1% had not indicated their sex. The mean age was 53.7 years (SD = 17.8; range = 19\u201391). Thirty-one percent had followed primary education, junior general secondary education or preparatory secondary vocational education, 31% had followed senior general secondary education, senior secondary vocational education or pre-university education, and 38% had followed higher professional education or university. Almost 70% indicated not to be restricted in physical activity by (physical) complaints. Physical activity was found to be important to the respondents (M = 1.9; SD = 0.7; range 1 (very important) to 5 (very unimportant)). They also felt involved with being physically active (M = 2.2; SD = 0.8; range: 1 (very involved) to 5 (very uninvolved). Almost 17% of the participants were in the realistic low category, 16% were overestimators, 15% underestimators and 52% were in the realistic high category. This means that 67% of the respondents met the NNGB guideline and that misperception (overestimation plus underestimation) was prevalent in 31% of the respondents. Of those who did not meet the guideline, 48% estimated their physical activity to be sufficient or high.</p>",
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>",
+                            "<p>*X<sup>2 </sup>= 1.6; df = 3; P = .66</p>",
+                            "<p>The Anova analyses (Table <xref ref-type=\"table\" rid=\"T2\">2</xref>) showed that the four categories differed significantly in their mean scores on involvement and on all reasons to be physically active, except for weight control. The two experimental conditions (QS versus SQ) only resulted in different scores for 'being physically active for relaxation', though at p = .06. A post hoc t-test revealed however no significant differences between the two conditions (QS group (M = 2.54, SD = 0.98) and SQ group (M = 2.40, SD = 0.98), (t(481) = 1.569, P = .12). Feelings of involvement and all other reasons to be active did not differ between the QS and SQ groups. Nor were interaction effects found between question order and feeling of involvement or reasons to be active.</p>",
+                            "<p>Percentages of underestimators among subgroups<sup>a</sup>. <sup>a</sup>borderline significant differences (p &lt; .10) in percentages.</p>",
+                            "<p>In line with other studies [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B5\">5</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>], we found a low correlation between the quantified behavioural self-report and the subjective assessment of behaviour, a correlation which hardly differed between the two conditions (quantified self-report followed by subjective assessment (QS) or the other way round (SQ)). The results of the t-tests and linear regression showed no effect of the order in which the questions were presented on the subjective estimation of behaviour. Our Anova analysis of misperception from the perspective of four categories (underestimators, overestimators, realistic high estimators, realistic low estimators, all relative to the Dutch national guideline, Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>) did not show an influence of question order on the occurrence of misperception either. Nor did it reveal any interaction effects between outcome expectations, involvement and question order. The Anova analyses did, however, show that the four categories differed from each other in terms of involvement and of most outcome expectations. People who perceived their physical activity level as adequate (realistic high estimators and overestimators) had higher scores on all reasons to be active (except weight) than those who did not perceive their activity behaviour as adequate (realistic low estimators and underestimators). People with misperceptions did not differ in their judgment on the importance of health from those without misperception. There were two exceptions: overestimators saw relaxation as a more important reason to be active and expressed less involvement in physical activity than realistic low estimators and underestimators. The findings suggest that people may use not only health but also other benchmarks (e.g. relaxation) in their subjective estimation of the adequacy of their behaviour. The results do not, however, suggest that only misperceptors (i.e. overestimators and underestimators) use different benchmarks for assessing their physical activity involvement. For a detailed analysis of the differences between the categories in terms of involvement and outcome expectancies, we refer to a previous study by Lechner, Bolman and Van Dijke [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>].</p>",
+                            "<p>Contrary to what was expected from the Precaution Adoption model [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>,<xref ref-type=\"bibr\" rid=\"B14\">14</xref>] and the Information Processing theory [<xref ref-type=\"bibr\" rid=\"B25\">25</xref>], the quantified behavioural self-report did not seem to help respondents who did not meet the NNGB guideline to accurately estimate their own behaviour. This suggests that more is needed to estimate one's behaviour appropriately. Recent studies showed the efficacy and effectiveness of interventions that incorporate detailed quantified behavioural self-reports as a diagnostic tool, in combination with feedback, on correct estimation of fruit, vegetable and fat intake [<xref ref-type=\"bibr\" rid=\"B18\">18</xref>,<xref ref-type=\"bibr\" rid=\"B39\">39</xref>]. This implies that correcting misperceptions always requires a combination of detailed quantified behavioural self-report and feedback. The feedback should include information on whether the person meets the guideline.</p>",
+                            "<p>The present study showed that 67% of the respondents met the NNGB guideline, while 16% overestimated and 15% underestimated their physical activity. Overestimators were those who subjectively estimated their behaviour as sufficient while not actually meeting the NNGB guideline, as derived from the quantified behavioural self-report assessment by means of the SQUASH instrument. Underestimators were those who did meet the guideline, though they subjectively estimated their behaviour as insufficient. Half of those who did not meet the NNGB guideline thought that they were doing fine (the so-called overestimators). We found 10% less misperception than Ronda and colleagues [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>], though the percentage was comparable to that found by De Ridder and Lechner [<xref ref-type=\"bibr\" rid=\"B5\">5</xref>]. This might be partly explained by the fact that those researchers used a different instrument for the quantified self-report of physical activity. Our quantified assessment of physical activity with SQUASH [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>] was more detailed, and corrected for age. Also in line with the study by De Ridder &amp; Lechner, but different from other studies [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>,<xref ref-type=\"bibr\" rid=\"B40\">40</xref>,<xref ref-type=\"bibr\" rid=\"B41\">41</xref>], was our finding that two thirds of the respondents met the NNGB norm; the other studies reported 40\u201355%. Again, these differences might be related to the instruments that were used, and the age correction in the SQUASH. In agreement with the guidelines proposed by Wendel-Vos &amp; Schuit [<xref ref-type=\"bibr\" rid=\"B33\">33</xref>], the algorithm we used in the present study to calculate the total SQUASH score took age into account in calculating intensity categories (light, moderate and vigorous) for physical activities. For example, vigorous activities for 55+ participants meant \u2265 5 MET, while for adults they were \u2265 6.5 MET. Previous studies may not have applied the age corrections.</p>"
+                        ]
+                    },
+                    {
+                        "content": "Question order",
+                        "cited_in": [
+                            "<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>"
+                        ]
+                    },
+                    {
+                        "content": "-.46",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".27",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.63",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".09",
+                        "cited_in": [
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>"
+                        ]
+                    },
+                    {
+                        "content": "Involvement",
+                        "cited_in": [
+                            "<p>Our comparison of underestimators with realists showed that involvement in physical activity predicted underestimation of the behaviour, while the effect of the order of questions was borderline significant. Underestimators of physical activity are, however, not very interesting to health educators, since these persons are already meeting the national Dutch (NNGB) guideline and therefore do not need to change their physical activity behaviour. This means that there is no urgency for health educators to invest in this group. In order to increase public health, they should primarily invest in persons who are not meeting the guideline (overestimators and low realists). From the perspective of the aim of this study, the important finding is that the extent of overestimation is not influenced by the order of the questions. Involvement and health moderated the effect of question order on the degree of underestimation. Stratified analyses among those who perceived health as an important or very important reason to be physically active showed that those who filled in the quantified behavioural self report before the subjective assessment were more likely to underestimate their physical activity than those who completed them in the opposite order. The same was true for those who were less involved in physical activity. Both findings were borderline significant. Rimal and Real [<xref ref-type=\"bibr\" rid=\"B24\">24</xref>], who assessed the perceived importance of skin cancer related to issue involvement and question-order effects, also found an interaction effect between involvement and question order. Like us, these researchers found that high involvement was not associated with question-order effects, but low involvement was (at borderline significance in our study). This is in agreement with the Elaboration Likelihood Model, which assumes greater context-related effects (i.e. those of question order) among respondents with low involvement, because they process information via a peripheral route [<xref ref-type=\"bibr\" rid=\"B26\">26</xref>]. It is harder to understand why those who rate health as the most important reason to be active are affected by question order (at borderline significance in our study).</p>"
+                        ]
+                    },
+                    {
+                        "content": ".60",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".22",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.83",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".005",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Question order",
+                        "cited_in": [
+                            "<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>"
+                        ]
+                    },
+                    {
+                        "content": "4.54",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.11",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "93",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".03",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Involvement",
+                        "cited_in": [
+                            "<p>Our comparison of underestimators with realists showed that involvement in physical activity predicted underestimation of the behaviour, while the effect of the order of questions was borderline significant. Underestimators of physical activity are, however, not very interesting to health educators, since these persons are already meeting the national Dutch (NNGB) guideline and therefore do not need to change their physical activity behaviour. This means that there is no urgency for health educators to invest in this group. In order to increase public health, they should primarily invest in persons who are not meeting the guideline (overestimators and low realists). From the perspective of the aim of this study, the important finding is that the extent of overestimation is not influenced by the order of the questions. Involvement and health moderated the effect of question order on the degree of underestimation. Stratified analyses among those who perceived health as an important or very important reason to be physically active showed that those who filled in the quantified behavioural self report before the subjective assessment were more likely to underestimate their physical activity than those who completed them in the opposite order. The same was true for those who were less involved in physical activity. Both findings were borderline significant. Rimal and Real [<xref ref-type=\"bibr\" rid=\"B24\">24</xref>], who assessed the perceived importance of skin cancer related to issue involvement and question-order effects, also found an interaction effect between involvement and question order. Like us, these researchers found that high involvement was not associated with question-order effects, but low involvement was (at borderline significance in our study). This is in agreement with the Elaboration Likelihood Model, which assumes greater context-related effects (i.e. those of question order) among respondents with low involvement, because they process information via a peripheral route [<xref ref-type=\"bibr\" rid=\"B26\">26</xref>]. It is harder to understand why those who rate health as the most important reason to be active are affected by question order (at borderline significance in our study).</p>"
+                        ]
+                    },
+                    {
+                        "content": "1.09",
+                        "cited_in": [
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>"
+                        ]
+                    },
+                    {
+                        "content": ".33",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.97",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".001",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Health",
+                        "cited_in": [
+                            "<p>Misperceptions about health-related behaviour are often measured by combining and comparing two types of self-report [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B12\">12</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. The first type is a self-report in which the behaviour is assessed in detail by quantitative measurements, often by means of validated questionnaires [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>-<xref ref-type=\"bibr\" rid=\"B21\">21</xref>]. The behaviour is subsequently scored on the basis of accepted guidelines for health-enhancing behaviours. Instruments frequently used for such quantified behavioural self-reports are the validated Short Questionnaire to Assess Health Enhancing physical activity (SQUASH) [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>] and the validated 25-item fat intake food frequency questionnaire [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>,<xref ref-type=\"bibr\" rid=\"B21\">21</xref>]. The scores are then compared with the relevant guidelines to determine whether people do or do not meet these health guidelines. The second type of self-report provides a subjective (self-rated) general evaluative estimation of the behaviour [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Self-rated dietary fat intake, for example, is measured by asking respondents to evaluate their fat intake on a bipolar five-point scale including answering categories ranging from very low fat intake to very high fat intake [<xref ref-type=\"bibr\" rid=\"B17\">17</xref>]. Misperception is then assessed by comparing the subjective self-rated estimation of behaviour with the findings of the quantified behavioural self-report indicating whether subjects meet the health guideline.</p>"
+                        ]
+                    },
+                    {
+                        "content": ".42",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".36",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.52",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".25",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Order with involvement (interaction)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-.90",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".43",
+                        "cited_in": [
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>"
+                        ]
+                    },
+                    {
+                        "content": "0.41",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".04",
+                        "cited_in": [
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>"
+                        ]
+                    },
+                    {
+                        "content": "Order with health (interaction)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-.93",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".46",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.39",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".04",
+                        "cited_in": [
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>"
+                        ]
+                    }
+                ]
+            },
+            {
+                "table_id": "T5",
+                "body": "<thead><tr><td /><td align=\"left\">\u03b2 coefficient</td><td align=\"left\">SE</td><td align=\"left\">Odds Ratio</td><td align=\"left\">P<sup>b</sup></td></tr></thead><tbody><tr><td align=\"left\">Those who found health an <italic>important </italic>reason to be active (n = 380)</td><td /><td /><td /><td /></tr><tr><td align=\"left\">\u2003Question order<sup>c</sup></td><td align=\"left\">-.54</td><td align=\"left\">.27</td><td align=\"left\">0.63</td><td align=\"left\">.09</td></tr><tr><td align=\"left\">Those who found health an <italic>unimportant </italic>reason to be active (n = 55)</td><td /><td /><td /><td /></tr><tr><td align=\"left\">\u2003Question order<sup>c</sup></td><td align=\"left\">.87</td><td align=\"left\">.97</td><td align=\"left\">2.39</td><td align=\"left\">.32</td></tr><tr><td align=\"left\">Those who are <italic>involved </italic>with being active (n = 366)</td><td /><td /><td /><td /></tr><tr><td align=\"left\">\u2003Question order<sup>c</sup></td><td align=\"left\">-.16</td><td align=\"left\">.29</td><td align=\"left\">0.85</td><td align=\"left\">.58</td></tr><tr><td align=\"left\">Those who are <italic>not involved </italic>with being active (n = 67)</td><td /><td /><td /><td /></tr><tr><td align=\"left\">\u2003Question order<sup>c</sup></td><td align=\"left\">-.87</td><td align=\"left\">.53</td><td align=\"left\">0.42</td><td align=\"left\">.10</td></tr></tbody>",
+                "caption": "<p>Summary of stratified analyses on the effects of question order on underestimation<sup>a</sup></p>",
+                "foots": [
+                    "<p><sup>a</sup>Demographic characteristics were not controlled for since groups did not differ in these characteristics; <sup>b</sup>Wald test statistic; <sup>c</sup>QS is the reference category</p>"
+                ],
+                "paragraphs": [
+                    {
+                        "text": "<p>Hierarchical logistic regression analysis using underestimation (scored as 1) versus no misperception (scored as 0 (reference group) as the dependent variable and order, involvement and the six reasons to be active as predictors showed a main effect of involvement, a borderline significant effect of question order and interactions between (1) health as a reason to be active and order and (2) involvement and order (Table <xref ref-type=\"table\" rid=\"T4\">4</xref>). Since interactions may cause unreliable odds ratios and p-values [<xref ref-type=\"bibr\" rid=\"B37\">37</xref>], four additional logistic regression analyses were carried out in which the effects of order were tested for a number of subgroups, based on 'health as a reason to be active' and 'involvement'. For the purpose of these stratified analyses, two subgroups were formed on the basis of 'health as a reason to be active'. One subgroup consisted of respondents who stated that health was an important or very important reason for them to be active (n = 380), while the other subgroup consisted of people for whom health was no reason or only a minor reason to be active (n = 55). We also formed a subgroup with respondents who were not or hardly involved in physical activity (n = 67) and a group of involved or highly involved respondents (n = 366). Table <xref ref-type=\"table\" rid=\"T5\">5</xref> shows the results of the stratified analyses for each of the four subgroups. Among those who considered health to be an important or very important reason to be physically active, the SQ condition resulted in less underestimation, though at borderline significance. In those who were not involved in physical activity, the SQ condition also resulted in less underestimation, also at borderline significance. No effects of question order were found in the other subgroups.</p>",
+                        "citations": [
+                            "<ref id=\"B37\"><citation citation-type=\"book\"><person-group person-group-type=\"author\"><name><surname>Tabachnick</surname><given-names>BG</given-names></name><name><surname>Fidell</surname><given-names>LS</given-names></name></person-group><source>Using multivariate statistics</source><year>2001</year><edition>4</edition><publisher-name>Boston: Allyn and Bacon</publisher-name></citation></ref>"
+                        ]
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "\u03b2 coefficient",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "SE",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Odds Ratio",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "P",
+                        "cited_in": [
+                            "<p>People often have misperceptions (overestimation or underestimation) about the health-related behaviours they engage in, which may have adverse consequences for their susceptibility to behavioural change. Misperception is usually measured by combining and comparing quantified behavioural self-reports with subjective classification of the behaviour. Researchers assume that such assessments of misperception are not influenced by the order of the two types of measurement, but this has never been studied. Based on the precaution adoption model and the information processing theory, it might be expected that taking the subjective measurement after a detailed quantified behavioural self-report would improve the accuracy of the subjective measurement because the quantified report urges a person to think more in detail about their own behaviour.</p>",
+                            "<p>Studies show that people often have misperceptions about the health-related behaviours they engage in [<xref ref-type=\"bibr\" rid=\"B1\">1</xref>-<xref ref-type=\"bibr\" rid=\"B12\">12</xref>]. People usually assume that their behaviour is adequate to prevent disease even if in reality it does not meet the health guidelines. Studies have shown that people often overestimate their physical activity level [<xref ref-type=\"bibr\" rid=\"B5\">5</xref>-<xref ref-type=\"bibr\" rid=\"B7\">7</xref>] and their fruit and vegetable consumption [<xref ref-type=\"bibr\" rid=\"B8\">8</xref>-<xref ref-type=\"bibr\" rid=\"B10\">10</xref>], but underestimate their fat intake [<xref ref-type=\"bibr\" rid=\"B11\">11</xref>] and alcohol consumption [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>]. Misperceptions often relate to behaviours for which there is no obvious dividing line between what is healthy or unhealthy or adequate to prevent disease [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>]. For example, whereas it is well-known that smoking is bad for someone's health, and people obviously know whether they smoke or not, it is less clear what exactly constitutes a healthy diet and when a persons' diet is healthy or adequate to prevent disease.</p>",
+                            "<p>Misperceptions may have adverse consequences for people's susceptibility to behavioural change and health education. According to the Precaution Adoption Process Model [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>,<xref ref-type=\"bibr\" rid=\"B14\">14</xref>], people need to be aware of their own risk behaviour before they are susceptible to behavioural change and may change their risk behaviour. Furthermore, it is likely that people with misperceptions about their own behaviour do not pay attention to messages in health education interventions because they think these messages do not apply to them. Studies of the consequences of misperception have shown that people who think that their behaviour is adequate have less intention to change [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>-<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>]. In terms of their attitude, self-efficacy and the social influence they perceive, these people are comparable to those who actually behave in accordance with the health guidelines [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>-<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>].</p>",
+                            "<p>A few studies have assessed the determinants of misperception [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B12\">12</xref>,<xref ref-type=\"bibr\" rid=\"B16\">16</xref>]. These studies, on fruit [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B16\">16</xref>], vegetable [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B16\">16</xref>], alcohol consumption [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>] and physical activity [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>], showed that misperception is correlated with the way in which and the extent to which persons make interpersonal comparisons. People who erroneously classify themselves as behaving in a healthy way are more likely to compare themselves with those who are perceived to engage in equally healthy or less healthy behaviour (downward comparison) and rate their own behaviour as healthier than that of these others (optimistic bias) [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>,<xref ref-type=\"bibr\" rid=\"B16\">16</xref>].</p>",
+                            "<p>Previous studies in the area of question-order effects, however, have demonstrated systematic differences in people's responses that could be attributed to the order in which questions were presented [<xref ref-type=\"bibr\" rid=\"B22\">22</xref>-<xref ref-type=\"bibr\" rid=\"B24\">24</xref>]. This might imply that question order could also influence the extent of misperception. Therefore, this study assessed whether the order of the subjective and quantified behavioural self-reports influenced the results (i.e. the extent of misperception). Answering this question is relevant to future studies that try to explain and change health behaviours in general and those on misperceptions about health behaviours in particular. We chose physical activity behaviour as the behaviour to test this on.</p>",
+                            "<p>As mentioned above, it would be good for the evaluation of findings of past and future research into health promotion practices if we found that the order of the two types of question did not influence the measurement of misperceptions. This would justify the measurement procedure used so far. Nevertheless, the studies on question-order effects referred to above suggested that there might be an influence. Furthermore, based on the Precaution Adoption Process Model [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>,<xref ref-type=\"bibr\" rid=\"B14\">14</xref>] and the Information Processing Theory [<xref ref-type=\"bibr\" rid=\"B25\">25</xref>], we considered it likely that filling in a detailed quantified questionnaire on physical activity behaviour would help respondents become aware of their own behaviour (in terms of risk) and would therefore result in a more accurate subjective estimation of the behaviour (i.e. in less misperception). Based on these two theories [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>,<xref ref-type=\"bibr\" rid=\"B14\">14</xref>,<xref ref-type=\"bibr\" rid=\"B25\">25</xref>], we therefore expected that a detailed quantified behavioural self-report in our study would activate prior knowledge (revealing respondents' own activities and knowledge about physical activity behaviour) and would induce respondents to think about their own behaviour in more detail. This was then expected to result in fewer misperceptions (in terms of overestimation and underestimation) about the behaviour.</p>",
+                            "<p>The overall SQUASH score was then compared with the Dutch guidelines for healthy physical activity (NNGB guideline) [<xref ref-type=\"bibr\" rid=\"B34\">34</xref>] and the international guidelines of the American College of Sports Medicine [<xref ref-type=\"bibr\" rid=\"B35\">35</xref>], resulting in two groups of people. Persons were meeting the physical activity guidelines if they were at least moderately physically active for a minimum of five days a week for at least 30 minutes a day (received score 1). All others were categorized as not meeting the physical activity guidelines (score 0).</p>",
+                            "<p>Pearson correlations between the total score on physical activity (based on SQUASH) and the score on the subjective assessment were computed for the whole group and for the QS and SQ groups separately. Four t-tests were conducted. One t-test was used to assess whether those who did meet the NNGB guideline differed in their subjective estimation of physical activity from those who did not meet this guideline. Two t-tests were conducted to assess whether the SQ and QS groups differed in their subjective estimation of physical activity and in the quantified behavioural self-report scores. In addition, Z-transformed mean scores of the difference between the objective and subjective measurements of behaviour were calculated for the QS and SQ groups separately and tested by means of a t-test.</p>",
+                            "<p>Two types of analyses were used to answer the additional research question, i.e. the effect of a person's involvement and reasons to be physically active on the occurrence of misperception and their possible relationship with the order of the questions. Two-way Anova's with Games-Howell post-hoc analyses [<xref ref-type=\"bibr\" rid=\"B36\">36</xref>] were conducted for the four categories of Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>, while hierarchical logistic regression analyses were carried out in two separate groups [one group in which overestimators were compared with realists (i.e., the combination of realistic low and realistic high categories) and one group in which underestimators were compared with realists. These analyses in separate groups were needed since overestimators and underestimators had to be compared separately with realists to prevent reciprocal influences (if overestimation and underestimation were taken together, their scores would average out). In the first logistic regression analysis, underestimators were omitted and overestimators were compared with realists. In the second logistic regression analysis, overestimators were omitted and underestimators were compared with realists. In both analyses, the main effects of the order of the questions, involvement and reasons to be active were tested by entering them as one block in the first step. Interactions were added in step two, using a hierarchical backward elimination procedure. Non-significant interaction terms (P &lt; .10) were removed one by one [<xref ref-type=\"bibr\" rid=\"B37\">37</xref>]. If any significant interaction remained between question order and one of the other variables, the effect of order was stratified to this variable.</p>",
+                            "<p>Demographic variables were not controlled for in the hierarchical logistic regression analyses nor in the linear regression analyses, since the experimental groups did not differ in demographic characteristics. All analyses were done using SPSS 11.0.5 for Windows [<xref ref-type=\"bibr\" rid=\"B38\">38</xref>].</p>",
+                            "<p>The sample included 44% men and 55% women, while 1% had not indicated their sex. The mean age was 53.7 years (SD = 17.8; range = 19\u201391). Thirty-one percent had followed primary education, junior general secondary education or preparatory secondary vocational education, 31% had followed senior general secondary education, senior secondary vocational education or pre-university education, and 38% had followed higher professional education or university. Almost 70% indicated not to be restricted in physical activity by (physical) complaints. Physical activity was found to be important to the respondents (M = 1.9; SD = 0.7; range 1 (very important) to 5 (very unimportant)). They also felt involved with being physically active (M = 2.2; SD = 0.8; range: 1 (very involved) to 5 (very uninvolved). Almost 17% of the participants were in the realistic low category, 16% were overestimators, 15% underestimators and 52% were in the realistic high category. This means that 67% of the respondents met the NNGB guideline and that misperception (overestimation plus underestimation) was prevalent in 31% of the respondents. Of those who did not meet the guideline, 48% estimated their physical activity to be sufficient or high.</p>",
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>",
+                            "<p>*X<sup>2 </sup>= 1.6; df = 3; P = .66</p>",
+                            "<p>The Anova analyses (Table <xref ref-type=\"table\" rid=\"T2\">2</xref>) showed that the four categories differed significantly in their mean scores on involvement and on all reasons to be physically active, except for weight control. The two experimental conditions (QS versus SQ) only resulted in different scores for 'being physically active for relaxation', though at p = .06. A post hoc t-test revealed however no significant differences between the two conditions (QS group (M = 2.54, SD = 0.98) and SQ group (M = 2.40, SD = 0.98), (t(481) = 1.569, P = .12). Feelings of involvement and all other reasons to be active did not differ between the QS and SQ groups. Nor were interaction effects found between question order and feeling of involvement or reasons to be active.</p>",
+                            "<p>Percentages of underestimators among subgroups<sup>a</sup>. <sup>a</sup>borderline significant differences (p &lt; .10) in percentages.</p>",
+                            "<p>In line with other studies [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B5\">5</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>], we found a low correlation between the quantified behavioural self-report and the subjective assessment of behaviour, a correlation which hardly differed between the two conditions (quantified self-report followed by subjective assessment (QS) or the other way round (SQ)). The results of the t-tests and linear regression showed no effect of the order in which the questions were presented on the subjective estimation of behaviour. Our Anova analysis of misperception from the perspective of four categories (underestimators, overestimators, realistic high estimators, realistic low estimators, all relative to the Dutch national guideline, Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>) did not show an influence of question order on the occurrence of misperception either. Nor did it reveal any interaction effects between outcome expectations, involvement and question order. The Anova analyses did, however, show that the four categories differed from each other in terms of involvement and of most outcome expectations. People who perceived their physical activity level as adequate (realistic high estimators and overestimators) had higher scores on all reasons to be active (except weight) than those who did not perceive their activity behaviour as adequate (realistic low estimators and underestimators). People with misperceptions did not differ in their judgment on the importance of health from those without misperception. There were two exceptions: overestimators saw relaxation as a more important reason to be active and expressed less involvement in physical activity than realistic low estimators and underestimators. The findings suggest that people may use not only health but also other benchmarks (e.g. relaxation) in their subjective estimation of the adequacy of their behaviour. The results do not, however, suggest that only misperceptors (i.e. overestimators and underestimators) use different benchmarks for assessing their physical activity involvement. For a detailed analysis of the differences between the categories in terms of involvement and outcome expectancies, we refer to a previous study by Lechner, Bolman and Van Dijke [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>].</p>",
+                            "<p>Contrary to what was expected from the Precaution Adoption model [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>,<xref ref-type=\"bibr\" rid=\"B14\">14</xref>] and the Information Processing theory [<xref ref-type=\"bibr\" rid=\"B25\">25</xref>], the quantified behavioural self-report did not seem to help respondents who did not meet the NNGB guideline to accurately estimate their own behaviour. This suggests that more is needed to estimate one's behaviour appropriately. Recent studies showed the efficacy and effectiveness of interventions that incorporate detailed quantified behavioural self-reports as a diagnostic tool, in combination with feedback, on correct estimation of fruit, vegetable and fat intake [<xref ref-type=\"bibr\" rid=\"B18\">18</xref>,<xref ref-type=\"bibr\" rid=\"B39\">39</xref>]. This implies that correcting misperceptions always requires a combination of detailed quantified behavioural self-report and feedback. The feedback should include information on whether the person meets the guideline.</p>",
+                            "<p>The present study showed that 67% of the respondents met the NNGB guideline, while 16% overestimated and 15% underestimated their physical activity. Overestimators were those who subjectively estimated their behaviour as sufficient while not actually meeting the NNGB guideline, as derived from the quantified behavioural self-report assessment by means of the SQUASH instrument. Underestimators were those who did meet the guideline, though they subjectively estimated their behaviour as insufficient. Half of those who did not meet the NNGB guideline thought that they were doing fine (the so-called overestimators). We found 10% less misperception than Ronda and colleagues [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>], though the percentage was comparable to that found by De Ridder and Lechner [<xref ref-type=\"bibr\" rid=\"B5\">5</xref>]. This might be partly explained by the fact that those researchers used a different instrument for the quantified self-report of physical activity. Our quantified assessment of physical activity with SQUASH [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>] was more detailed, and corrected for age. Also in line with the study by De Ridder &amp; Lechner, but different from other studies [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B15\">15</xref>,<xref ref-type=\"bibr\" rid=\"B40\">40</xref>,<xref ref-type=\"bibr\" rid=\"B41\">41</xref>], was our finding that two thirds of the respondents met the NNGB norm; the other studies reported 40\u201355%. Again, these differences might be related to the instruments that were used, and the age correction in the SQUASH. In agreement with the guidelines proposed by Wendel-Vos &amp; Schuit [<xref ref-type=\"bibr\" rid=\"B33\">33</xref>], the algorithm we used in the present study to calculate the total SQUASH score took age into account in calculating intensity categories (light, moderate and vigorous) for physical activities. For example, vigorous activities for 55+ participants meant \u2265 5 MET, while for adults they were \u2265 6.5 MET. Previous studies may not have applied the age corrections.</p>"
+                        ]
+                    },
+                    {
+                        "content": "Those who found health an",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Question order",
+                        "cited_in": [
+                            "<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>"
+                        ]
+                    },
+                    {
+                        "content": "-.54",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".27",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.63",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".09",
+                        "cited_in": [
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>"
+                        ]
+                    },
+                    {
+                        "content": "Those who found health an",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Question order",
+                        "cited_in": [
+                            "<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>"
+                        ]
+                    },
+                    {
+                        "content": ".87",
+                        "cited_in": [
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>"
+                        ]
+                    },
+                    {
+                        "content": ".97",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.39",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".32",
+                        "cited_in": [
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>"
+                        ]
+                    },
+                    {
+                        "content": "Those who are",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Question order",
+                        "cited_in": [
+                            "<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>"
+                        ]
+                    },
+                    {
+                        "content": "-.16",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".29",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.85",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".58",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Those who are",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Question order",
+                        "cited_in": [
+                            "<p>Question order in questionnaires does not seem to influence misperceptions concerning physical activity in groups relevant for health education (overestimators: those who do not meet the guidelines forphysical activity while rating their physical activity as sufficient orhigh). The small order effect found in underestimators is less relevant for health education because this subgroup already meets the guideline and therefore does not need to change behaviour.</p>"
+                        ]
+                    },
+                    {
+                        "content": "-.87",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".53",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.42",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ".10",
+                        "cited_in": [
+                            "<p>Two types of analyses were used to answer the additional research question, i.e. the effect of a person's involvement and reasons to be physically active on the occurrence of misperception and their possible relationship with the order of the questions. Two-way Anova's with Games-Howell post-hoc analyses [<xref ref-type=\"bibr\" rid=\"B36\">36</xref>] were conducted for the four categories of Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>, while hierarchical logistic regression analyses were carried out in two separate groups [one group in which overestimators were compared with realists (i.e., the combination of realistic low and realistic high categories) and one group in which underestimators were compared with realists. These analyses in separate groups were needed since overestimators and underestimators had to be compared separately with realists to prevent reciprocal influences (if overestimation and underestimation were taken together, their scores would average out). In the first logistic regression analysis, underestimators were omitted and overestimators were compared with realists. In the second logistic regression analysis, overestimators were omitted and underestimators were compared with realists. In both analyses, the main effects of the order of the questions, involvement and reasons to be active were tested by entering them as one block in the first step. Interactions were added in step two, using a hierarchical backward elimination procedure. Non-significant interaction terms (P &lt; .10) were removed one by one [<xref ref-type=\"bibr\" rid=\"B37\">37</xref>]. If any significant interaction remained between question order and one of the other variables, the effect of order was stratified to this variable.</p>",
+                            "<p>An <italic>r </italic>of .41 was found for the total score on physical activity and the subjective assessment, while individual correlations for the QS and SQ groups were .38 and .43. All p-values were &lt; .01. A t-test showed that those who did not meet the norm of the NNGB guideline had significantly lower scores for subjective estimation of their physical activity level (M = 2.44, SD = .87) than those who did meet the guideline (M = 2.98, SD = .79), (t(512) = -6.78, P &lt; .0001). Z-transformed mean scores for the difference between the quantified behavioural self-report and subjective assessments of behaviour were not significantly different between the QS (M = .056, SD = 1.09) and SQ (M = -.047, SD = 1.10) groups (t(512) = 1.075, P = .28). T-tests showed no differences between the QS and SQ groups in terms of the total SQUASH scores nor in the scores on the subjective assessment of activity. Means of the total SQUASH scores for the QS and SQ groups were 7.55 (SD = 5.35) and 7.49 (5.38), respectively (t(514) = 0.135, P = .89). Means of the subjective assessment scores of the QS and SQ groups were 2.76 (SD = 0.81) and 2.84 (0.88), respectively (t(512) = -0.994, P = .32). The linear regression analyses showed that quantified behavioural self-report explained 41% of the variance in subjective assessment (t(1, 513) = 10.04, \u03b2 = .41, P &lt; .0001) while question order did not add any significant explanation (\u03b2 = .05, P = .24).</p>",
+                            "<p>In line with the results of the regression analyses, chi-square analyses showed lower percentages of underestimators in the SQ group among those who mentioned health as an important reason to be active (X<sup>2 </sup>(1, 380) = 2.94, p = .08) and among those who were not involved in physical activity (X<sup>2</sup>(1, 67) = 2.71, p = .10) (see Figure <xref ref-type=\"fig\" rid=\"F2\">2</xref> for percentages). These differences were however only borderline significant.</p>",
+                            "<p>Percentages of underestimators among subgroups<sup>a</sup>. <sup>a</sup>borderline significant differences (p &lt; .10) in percentages.</p>"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "figures": [
+            {
+                "fig_id": "F1",
+                "caption": "<caption><p>Classification of respondents in categories of misperception<sup>6</sup>. * answering categories in subjective assessment.</p></caption>",
+                "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2064926/bin/1479-5868-4-42-1.jpg"
+            },
+            {
+                "fig_id": "F2",
+                "caption": "<caption><p>Percentages of underestimators among subgroups<sup>a</sup>. <sup>a</sup>borderline significant differences (p &lt; .10) in percentages.</p></caption>",
+                "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2064926/bin/1479-5868-4-42-2.jpg"
+            }
+        ]
+    }
+}

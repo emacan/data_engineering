@@ -1,0 +1,373 @@
+{
+    "pmcid": "PMC2940914",
+    "content": {
+        "title": "The effects of air pollution on vitamin D status in healthy women: A cross sectional study",
+        "abstract": "<p>Inadequate radiation or insufficient cutaneous absorption of UVB is one of the cardinal causes of vitamin D deficiency. The aim of this study is to determine whether air pollution and low ground level of ultra-violet B light (UVB; 290-315) can deteriorate the body vitamin D status in healthy women.</p>\n<p>In this cross sectional study 200, free-living, housewives, aged between 20 to 55 years, from Tehran (high polluted area) and Ghazvin (low polluted area) were included. The Tehranian women were selected randomly from participants of the Tehran Lipid and Glucose Study (TLGS) and the Ghazvinian females from patients who came to public health centers. Participants were excluded for disease and drugs which affect vitamin D status and also if they were pregnant or breast feeding. We measured the ground level of UVB using a Haze meter as a surrogate of air pollution. In order to calculate the adjusted mean difference of 25-OH-D, ANCOVA analysis was used. Moreover, Binary logistic regression model was developed to determine the odds of living in Tehran for having serum 25-OH-D less than 20 ng/ml.</p>\n<p>The mean \u00b1 SD of serum 25-OH-D was significantly higher in Ghazvinian women ((18 \u00b1 11 <italic>vs</italic>. 13 \u00b1 7), P-value &lt; 001). The prevalence of 25-OH-D less than 10 ng/ml, and 25-OH-D between 10 and 20 ng/ml were higher in Tehranian group (36% and 54% <italic>vs</italic>. 31% and 32% in respectively). Secondary hyperparathyroidism was also significantly higher in Tehranian women (47% <italic>vs</italic>. 32%). In ANCOVA analysis, after adjustment, the mean of 25-OH-D in the Ghazvinian group was still statistically significantly higher than Tehranians (13 vs. 17 ng/ml P-value = 0.04). In addition, in binary logistic model, the odd of living in Tehran for having serum 25-OH-D less than 20 ng/ml was 5.22 (95% confidence interval 2.2-12.2, P-value &lt; 0.001).</p>\n<p>We found that living in a polluted area plays a significant independent role in vitamin D deficiency and hence, residence can be one of the main reasons of vitamin D status of the women.</p>",
+        "keywords": [],
+        "tables": [
+            {
+                "table_id": "T1",
+                "body": "<thead><tr><th /><th align=\"left\">Tehran High pollution area</th><th align=\"left\">Ghazvin Low pollution area</th><th align=\"left\">Total</th></tr></thead><tbody><tr><td align=\"left\">Age (years)*</td><td align=\"left\">35 (29-42)</td><td align=\"left\">39 (31-44)***</td><td align=\"left\">37(31-44)</td></tr><tr><td colspan=\"4\"><hr /></td></tr><tr><td align=\"left\">BMI (kg/<italic>m</italic><sup>2</sup>)**</td><td align=\"left\">28 \u00b1 5</td><td align=\"left\">26 \u00b1 3***</td><td align=\"left\">27 \u00b1 4.6</td></tr><tr><td colspan=\"4\"><hr /></td></tr><tr><td align=\"left\">Daily dietary Calcium intake (mg)**</td><td align=\"left\">964 \u00b1 402</td><td align=\"left\">880 \u00b1 343</td><td align=\"left\">925 \u00b1 379</td></tr><tr><td colspan=\"4\"><hr /></td></tr><tr><td align=\"left\">Daily dietary Phosphor intake (mg)**</td><td align=\"left\">1255 \u00b1 491</td><td align=\"left\">1113 \u00b1 430</td><td align=\"left\">1184 \u00b1 424</td></tr><tr><td colspan=\"4\"><hr /></td></tr><tr><td align=\"left\">Daily dietary vitamin D intake (ug)*</td><td align=\"left\">1.67 (0.8-2.8)</td><td align=\"left\">1.60 (0.6-2.7)</td><td align=\"left\">1.60(0.9-2.7)</td></tr><tr><td colspan=\"4\"><hr /></td></tr><tr><td align=\"left\">Daily dietary protein intake (gr)**</td><td align=\"left\">67 \u00b1 27</td><td align=\"left\">62 \u00b1 35</td><td align=\"left\">64 \u00b1 27</td></tr><tr><td colspan=\"4\"><hr /></td></tr><tr><td align=\"left\">Housing status% ***</td><td /><td /><td /></tr><tr><td align=\"left\">Apartment</td><td align=\"left\">73(73)</td><td align=\"left\">47(47)</td><td align=\"left\">120(60)</td></tr><tr><td align=\"left\">Villa</td><td align=\"left\">27(27)</td><td align=\"left\">53(53)</td><td align=\"left\">80(40)</td></tr><tr><td colspan=\"4\"><hr /></td></tr><tr><td align=\"left\">Time spent outdoor% ***</td><td /><td /><td /></tr><tr><td align=\"left\">&gt;3 days in week</td><td align=\"left\">69(69)</td><td align=\"left\">85(85)</td><td align=\"left\">154(77)</td></tr><tr><td align=\"left\">&lt;3 days in week</td><td align=\"left\">31(31)</td><td align=\"left\">15(15)</td><td align=\"left\">46(23)</td></tr><tr><td colspan=\"4\"><hr /></td></tr><tr><td align=\"left\">Sun screen %</td><td /><td /><td /></tr><tr><td align=\"left\">Routine</td><td align=\"left\">33(33)</td><td align=\"left\">20(20)</td><td align=\"left\">53(26.5)</td></tr><tr><td align=\"left\">Never</td><td align=\"left\">41(41)</td><td align=\"left\">50(50)</td><td align=\"left\">91(45.5)</td></tr><tr><td align=\"left\">Occasion</td><td align=\"left\">26(26)</td><td align=\"left\">30(30)</td><td align=\"left\">56(28)</td></tr><tr><td colspan=\"4\"><hr /></td></tr><tr><td align=\"left\">UVB (W/m 2)**</td><td align=\"left\">0.16 \u00b1 0.03</td><td align=\"left\">0.31 \u00b1 0.07 ***</td><td align=\"left\">0.27 \u00b1 0.09</td></tr></tbody>",
+                "caption": "<p>Characteristics of the participants.</p>",
+                "foots": [
+                    "<p>* Median (IQ: 25-75). ** Mean \u00b1 SD. *** P-value &lt; 0.05</p>"
+                ],
+                "paragraphs": [
+                    {
+                        "text": "<p>Two hundred housewives, aged 20 to 55 years, from Tehran and Ghazvin, participated in this study. Ninety four (47%) were overweight and 38 (19%) were obese. The age and BMI of these 2 groups were statistically different but their values were clinically comparable. There were no significant differences between the daily dietary intakes of Ca, Pi, vitamin D, and protein of these groups. The sun exposure indices were higher in Ghazvinian participations (Table <xref ref-type=\"table\" rid=\"T1\">1</xref>).</p>",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "Age (years)*",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "35 (29-42)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "39 (31-44)***",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "37(31-44)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "BMI (kg/",
+                        "cited_in": [
+                            "<p>Student's t-test for unpaired data was used to compare groups and other than that the Mann-Whitney test was used. Correlation coefficients were calculated by Pearson's analysis. adjusted mean differences were calculated using ANCOVA. A binary logistic analysis was performed in all 200 subjects to determine the role of the city of residence per se, as an surrogate of air pollution, for having blood level of 25-OH-D less or more than 20 ng/ml following adjustment of the confounders, i.e. age (years), BMI (kg/m<sup>2</sup>), dietary usage of Ca (mg), Pi (mg), vitamin D (ug), and protein (gr), housing status (reference, villa), time spent outdoor (reference, &gt;3 days in week), the pattern of sunscreen usage (reference, routine), and the city of living (reference, Ghazvin). Vitamin D deficiency, insufficiency, and normal cut offs considered were as 25-OH-D &lt;10 ng/ml, 12 to &lt;20 ng/ml, and \u226520 ng/ml, respectively [<xref ref-type=\"bibr\" rid=\"B15\">15</xref>]. P-values &lt;0.05 were considered statistically significant.</p>"
+                        ]
+                    },
+                    {
+                        "content": "28 \u00b1 5",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "26 \u00b1 3***",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "27 \u00b1 4.6",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Daily dietary Calcium intake (mg)**",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "964 \u00b1 402",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "880 \u00b1 343",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "925 \u00b1 379",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Daily dietary Phosphor intake (mg)**",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1255 \u00b1 491",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1113 \u00b1 430",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1184 \u00b1 424",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Daily dietary vitamin D intake (ug)*",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.67 (0.8-2.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.60 (0.6-2.7)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.60(0.9-2.7)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Daily dietary protein intake (gr)**",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "67 \u00b1 27",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "62 \u00b1 35",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "64 \u00b1 27",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Housing status% ***",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Apartment",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "73(73)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "47(47)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "120(60)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Villa",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "27(27)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "53(53)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "80(40)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Time spent outdoor% ***",
+                        "cited_in": []
+                    },
+                    {
+                        "content": ">3 days in week",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "69(69)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "85(85)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "154(77)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "<3 days in week",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "31(31)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "15(15)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "46(23)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Sun screen %",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Routine",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "33(33)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "20(20)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "53(26.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Never",
+                        "cited_in": [
+                            "<p>Air pollution is one of the chief actors in determining the percentage of the ground level of UVB. The level of air pollution is inversely related to the extent of solar UVB that reaches earth surface, consequently, more pollutant areas, less UVB passage and as a result, lowers vitamin D cutaneous synthesis. Nevertheless, not enough studies have evaluated the probable relation between cutaneous vitamin D synthesis and the ground level of UVB, as a function of air pollution. one study in India has found that high atmospheric pollution decreases the percentage of UVB which reaches the earth surface and children in more pollutant areas are at higher risk of vitamin D deficiency [<xref ref-type=\"bibr\" rid=\"B9\">9</xref>]. Another study in Belgian postmenopausal women also confirmed the positive correlation between air pollution and hypovitaminosis D [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "41(41)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "50(50)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "91(45.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Occasion",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "26(26)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "30(30)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "56(28)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "UVB (W/m 2)**",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.16 \u00b1 0.03",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.31 \u00b1 0.07 ***",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.27 \u00b1 0.09",
+                        "cited_in": []
+                    }
+                ]
+            },
+            {
+                "table_id": "T2",
+                "body": "<thead><tr><th /><th align=\"left\">Tehran</th><th align=\"left\">Ghazvin</th><th align=\"left\">P-value</th></tr></thead><tbody><tr><td align=\"left\">25-OH-D (ng/ml)</td><td align=\"left\">11 (8-14)</td><td align=\"left\">15.5 (8.5-26)</td><td align=\"left\">&lt;001</td></tr><tr><td colspan=\"4\"><hr /></td></tr><tr><td align=\"left\">PTH(Pg/ml)</td><td align=\"left\">64 (60-68)</td><td align=\"left\">58 (45-65)</td><td align=\"left\">&lt;001</td></tr><tr><td colspan=\"4\"><hr /></td></tr><tr><td align=\"left\">ALP (u/l)</td><td align=\"left\">157.5 (133-180)</td><td align=\"left\">156.5 (126-185)</td><td align=\"left\">0.46</td></tr><tr><td colspan=\"4\"><hr /></td></tr><tr><td align=\"left\">Calcium (mg/dl)</td><td align=\"left\">9.43 (9.10-9.80)</td><td align=\"left\">9.67 (9.10-10.10)</td><td align=\"left\">0.001</td></tr><tr><td colspan=\"4\"><hr /></td></tr><tr><td align=\"left\">Phosphate (mg/dl)</td><td align=\"left\">3.6 (3.3-4)</td><td align=\"left\">3.5 (3-4)</td><td align=\"left\">0.15</td></tr></tbody>",
+                "caption": "<p>Comparison of biochemical parameters between Tehranian and Ghazvinian groups.</p>",
+                "foots": [
+                    "<p>Median (IQ: 25-75) of data are presented.</p>"
+                ],
+                "paragraphs": [
+                    {
+                        "text": "<p>Table <xref ref-type=\"table\" rid=\"T2\">2</xref> shows the differences in biochemical parameters of Tehranian and Ghazvin participants. Median serum 25-OH-D was significantly higher in Ghazvin women (11 <italic>vs</italic>. 15.5 ng/ml, P-value &lt; 001). The prevalence of vitamin D deficiency and insufficiency were higher in Tehranians (36%, 54% <italic>vs</italic>. 31%, 32%) (Fig <xref ref-type=\"fig\" rid=\"F1\">1</xref>). Secondary hyperparathyroidism was found in 32% of Ghazvin participants while, 47% of Tehranian women had secondary hyperparathyroidism. Median PTH was significantly lower in the Ghazvin group, compared to Tehranians (P-value &lt; 001). Serum Ca was significantly higher in Ghazvinian women (P-value= 0.001). The serum ALP and Pi were similar in both groups.</p>",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "25-OH-D (ng/ml)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "11 (8-14)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "15.5 (8.5-26)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "<001",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "PTH(Pg/ml)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "64 (60-68)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "58 (45-65)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "<001",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "ALP (u/l)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "157.5 (133-180)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "156.5 (126-185)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.46",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Calcium (mg/dl)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "9.43 (9.10-9.80)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "9.67 (9.10-10.10)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.001",
+                        "cited_in": [
+                            "<p>The mean \u00b1 SD of serum 25-OH-D was significantly higher in Ghazvinian women ((18 \u00b1 11 <italic>vs</italic>. 13 \u00b1 7), P-value &lt; 001). The prevalence of 25-OH-D less than 10 ng/ml, and 25-OH-D between 10 and 20 ng/ml were higher in Tehranian group (36% and 54% <italic>vs</italic>. 31% and 32% in respectively). Secondary hyperparathyroidism was also significantly higher in Tehranian women (47% <italic>vs</italic>. 32%). In ANCOVA analysis, after adjustment, the mean of 25-OH-D in the Ghazvinian group was still statistically significantly higher than Tehranians (13 vs. 17 ng/ml P-value = 0.04). In addition, in binary logistic model, the odd of living in Tehran for having serum 25-OH-D less than 20 ng/ml was 5.22 (95% confidence interval 2.2-12.2, P-value &lt; 0.001).</p>",
+                            "<p>Table <xref ref-type=\"table\" rid=\"T2\">2</xref> shows the differences in biochemical parameters of Tehranian and Ghazvin participants. Median serum 25-OH-D was significantly higher in Ghazvin women (11 <italic>vs</italic>. 15.5 ng/ml, P-value &lt; 001). The prevalence of vitamin D deficiency and insufficiency were higher in Tehranians (36%, 54% <italic>vs</italic>. 31%, 32%) (Fig <xref ref-type=\"fig\" rid=\"F1\">1</xref>). Secondary hyperparathyroidism was found in 32% of Ghazvin participants while, 47% of Tehranian women had secondary hyperparathyroidism. Median PTH was significantly lower in the Ghazvin group, compared to Tehranians (P-value &lt; 001). Serum Ca was significantly higher in Ghazvinian women (P-value= 0.001). The serum ALP and Pi were similar in both groups.</p>",
+                            "<p>In the binary logistic regression, serum 25-OH-D was significantly associated with the city of living. The odds ratio of living in Tehran and having serum 25-OH-D less than 20 ng/ml was 5.22 (95% confidence interval 2.2-12.2, P-value &lt; 0.001).</p>"
+                        ]
+                    },
+                    {
+                        "content": "Phosphate (mg/dl)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3.6 (3.3-4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3.5 (3-4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.15",
+                        "cited_in": []
+                    }
+                ]
+            }
+        ],
+        "figures": [
+            {
+                "fig_id": "F1",
+                "caption": "<caption><p><bold>Median (IQ: 25-75) of serum 25-OH-D in Tehranian and Ghazvinian participations</bold>.</p></caption>",
+                "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2940914/bin/1471-2458-10-519-1.jpg"
+            }
+        ]
+    }
+}

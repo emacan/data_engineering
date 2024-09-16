@@ -1,0 +1,1541 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+    article-type="research-article" xml:lang="en">
+    <?properties open_access?>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">BMC Public Health</journal-id>
+            <journal-id journal-id-type="iso-abbrev">BMC Public Health</journal-id>
+            <journal-title-group>
+                <journal-title>BMC Public Health</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">1471-2458</issn>
+            <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmid">22870945</article-id>
+            <article-id pub-id-type="pmc">PMC3519711</article-id>
+            <article-id pub-id-type="publisher-id">1471-2458-12-618</article-id>
+            <article-id pub-id-type="doi">10.1186/1471-2458-12-618</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Legionella on board trains: effectiveness of environmental
+                    surveillance and decontamination</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" id="A1">
+                    <name>
+                        <surname>Quaranta</surname>
+                        <given-names>Gianluigi</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>gianluigi.quaranta@rm.unicatt.it</email>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes" id="A2">
+                    <name>
+                        <surname>Vincenti</surname>
+                        <given-names>Sara</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>sara.vincenti@rm.unicatt.it</email>
+                </contrib>
+                <contrib contrib-type="author" id="A3">
+                    <name>
+                        <surname>Ferriero</surname>
+                        <given-names>Anna Maria</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>annamariaferriero@hotmail.it</email>
+                </contrib>
+                <contrib contrib-type="author" id="A4">
+                    <name>
+                        <surname>Boninti</surname>
+                        <given-names>Federica</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>bfede77@hotmail.com</email>
+                </contrib>
+                <contrib contrib-type="author" id="A5">
+                    <name>
+                        <surname>Sezzatini</surname>
+                        <given-names>Romina</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>rominasez@libero.it</email>
+                </contrib>
+                <contrib contrib-type="author" id="A6">
+                    <name>
+                        <surname>Turnaturi</surname>
+                        <given-names>Cinzia</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>cincin60@tiscali.it</email>
+                </contrib>
+                <contrib contrib-type="author" id="A7">
+                    <name>
+                        <surname>Gliubizzi</surname>
+                        <given-names>Maria Daniela</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>dani_gliu@hotmail.com</email>
+                </contrib>
+                <contrib contrib-type="author" id="A8">
+                    <name>
+                        <surname>Munaf&#x000f2;</surname>
+                        <given-names>Elio</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I2">2</xref>
+                    <email>elio.munafo@gmail.com</email>
+                </contrib>
+                <contrib contrib-type="author" id="A9">
+                    <name>
+                        <surname>Ceccarelli</surname>
+                        <given-names>Gianluca</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I2">2</xref>
+                    <email>Gi.ceccarelli@rfi.it</email>
+                </contrib>
+                <contrib contrib-type="author" id="A10">
+                    <name>
+                        <surname>Causarano</surname>
+                        <given-names>Carmelo</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I2">2</xref>
+                    <email>c.causarano@rfi.it</email>
+                </contrib>
+                <contrib contrib-type="author" id="A11">
+                    <name>
+                        <surname>Accorsi</surname>
+                        <given-names>Massimo</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I2">2</xref>
+                    <email>m.accorsi@rfi.it</email>
+                </contrib>
+                <contrib contrib-type="author" id="A12">
+                    <name>
+                        <surname>Del Nord</surname>
+                        <given-names>Pasquale</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I3">3</xref>
+                    <email>p.delnord@rfi.it</email>
+                </contrib>
+                <contrib contrib-type="author" id="A13">
+                    <name>
+                        <surname>Ricciardi</surname>
+                        <given-names>Walter</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>wricciardi@rm.unicatt.it</email>
+                </contrib>
+                <contrib contrib-type="author" id="A14">
+                    <name>
+                        <surname>Laurenti</surname>
+                        <given-names>Patrizia</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="I1">1</xref>
+                    <email>plaurenti@rm.unicatt.it</email>
+                </contrib>
+            </contrib-group>
+            <aff id="I1"><label>1</label>Institute of Hygiene, Universit&#x000e0; Cattolica del
+                Sacro Cuore, L.go F. Vito 1, 00168, Rome, Italy</aff>
+            <aff id="I2"><label>2</label>RFI (Italian Railway) Health Service, Via F. A. Pigafetta
+                3, 00154, Rome, Italy</aff>
+            <aff id="I3"><label>3</label>Trenitalia Environmental Work Quality and Safety, Via F. A.
+                Pigafetta 3, 00154, Rome, Italy</aff>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>7</day>
+                <month>8</month>
+                <year>2012</year>
+            </pub-date>
+            <volume>12</volume>
+            <fpage>618</fpage>
+            <lpage>618</lpage>
+            <history>
+                <date date-type="received">
+                    <day>20</day>
+                    <month>1</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>30</day>
+                    <month>7</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Copyright &#x000a9;2012 Quaranta et al.; licensee BioMed
+                    Central Ltd.</copyright-statement>
+                <copyright-year>2012</copyright-year>
+                <copyright-holder>Quaranta et al.; licensee BioMed Central Ltd.</copyright-holder>
+                <license license-type="open-access"
+                    xlink:href="http://creativecommons.org/licenses/by/2.0">
+                    <license-p>This is an Open Access article distributed under the terms of the
+                        Creative Commons Attribution License ( <ext-link ext-link-type="uri"
+                            xlink:href="http://creativecommons.org/licenses/by/2.0">
+                        http://creativecommons.org/licenses/by/2.0</ext-link>), which permits
+                        unrestricted use, distribution, and reproduction in any medium, provided the
+                        original work is properly cited.</license-p>
+                </license>
+            </permissions>
+            <self-uri xlink:href="http://www.biomedcentral.com/1471-2458/12/618" />
+            <abstract>
+                <sec>
+                    <title>Background</title>
+                    <p><italic>Legionella pneumophila</italic> is increasingly recognised as a
+                        significant cause of sporadic and epidemic community-acquired and nosocomial
+                        pneumonia. Many studies describe the frequency and severity of <italic>
+                        Legionella</italic> spp. contamination in spa pools, natural pools, hotels
+                        and ships, but there is no study analysing the environmental monitoring of <italic>
+                        Legionella</italic> on board trains. The aims of the present study were to
+                        conduct periodic and precise environmental surveillance of <italic>
+                        Legionella</italic> spp. in water systems and water tanks that supply the
+                        toilet systems on trains, to assess the degree of contamination of such
+                        structures and to determine the effectiveness of decontamination.</p>
+                </sec>
+                <sec>
+                    <title>Methods</title>
+                    <p>A comparative pre-post ecological study was conducted from September 2006 to
+                        January 2011. A total of 1,245 water samples were collected from plumbing
+                        and toilet water tanks on passenger trains. The prevalence proportion of all
+                        positive samples was calculated. The unpaired <italic>t</italic>-test was
+                        performed to evaluate statistically significant differences between the mean
+                        load values before and after the decontamination procedures; statistical
+                        significance was set at <italic>p</italic>&#x02009;&#x02264;&#x02009;0.05.</p>
+                </sec>
+                <sec>
+                    <title>Results</title>
+                    <p>In the pre-decontamination period, 58% of the water samples were positive for <italic>
+                        Legionella</italic>. Only <italic>Legionella pneumophila</italic> was
+                        identified: 55.84% were serogroup 1, 19.03% were serogroups 2&#x02013;14 and
+                        25.13% contained both serogroups. The mean bacterial load value was
+                        2.14&#x02009;&#x000d7;&#x02009;10<sup>3</sup>&#x02009;CFU/L. During the
+                        post-decontamination period, 42.75% of water samples were positive for <italic>
+                        Legionella</italic> spp.; 98.76% were positive for <italic>Legionella
+                        pneumophila</italic>: 74.06% contained serogroup 1, 16.32% contained
+                        serogroups 2&#x02013;14 and 9.62% contained both. The mean bacterial load in
+                        the post-decontamination period was 1.72&#x02009;&#x000d7;&#x02009;10<sup>3</sup>&#x02009;CFU/L.
+                        According to the <italic>t</italic>-test, there was a statistically
+                        significant decrease in total bacterial load until approximately one and a
+                        half year after beginning the decontamination programme (<italic>p</italic>
+                        &#x02009;=&#x02009;0.0097).</p>
+                </sec>
+                <sec>
+                    <title>Conclusions</title>
+                    <p>This study indicates that systematic environmental surveillance could be a
+                        useful approach for assessing the risk of exposure to <italic>Legionella</italic>
+                        bacteria, which still represents a public health threat. According to the
+                        study results, an environmental surveillance programme, followed by
+                        decontamination procedures where necessary, would decrease the total
+                        bacterial count, protecting the health of travellers and workers.</p>
+                </sec>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>Background</title>
+            <p><italic>Legionella pneumophila</italic> is increasingly recognized as a significant
+                cause of sporadic and epidemic community-acquired and nosocomial pneumonia.</p>
+            <p>In recent years, our understanding of Legionnaires&#x02019; Disease (LD) has improved
+                substantially and new diagnostic and treatment strategies have been introduced [<xref
+                    ref-type="bibr" rid="B1">1</xref>].</p>
+            <p>To share knowledge and monitor trends of LD across Europe, the European Working Group
+                for <italic>Legionella</italic> Infections (EWGLI) was established in 1986 to better
+                protect the health of travellers by improving the detection and control of infection
+                sources in European countries [<xref ref-type="bibr" rid="B2">2</xref>].</p>
+            <p>Members of EWGLI established a European surveillance scheme for travel-associated
+                infections in 1987; this surveillance scheme, named EWGLINET in 2002, is the
+                EU&#x02019;s surveillance network dedicated to collecting data on cases of LD in the
+                EU, including travel-associated LD (TALD) [<xref ref-type="bibr" rid="B3">3</xref>,<xref
+                    ref-type="bibr" rid="B4">4</xref>].</p>
+            <p>Since April 2010, the programme has also been coordinated by European Centre for
+                Disease Prevention and Control (ECDC), and the name of the scheme has changed to the
+                European Legionnaires&#x02019; Disease Surveillance Network (ELDSNet) [<xref
+                    ref-type="bibr" rid="B4">4</xref>].</p>
+            <p>In the beginning of July 2002, the European Guidelines for Control and Prevention of
+                Travel Associated LD [<xref ref-type="bibr" rid="B5">5</xref>] were introduced in an
+                attempt to standardise the investigation of clusters in EWGLINET countries and their
+                Ministers of Health were asked to support the use of these guidelines.</p>
+            <p>In 2009, the EWGLINET surveillance scheme reported a total of 818 cases (794
+                confirmed and 24 presumptive) of travel-associated LD with onset of illness, which
+                is a decrease of 52 cases compared with 2008 and is 129 fewer than in 2007. The
+                countries that reported the most cases by country of residence were the UK
+                (n&#x02009;=&#x02009;173), Italy (n&#x02009;=&#x02009;169) and the Netherlands
+                (n&#x02009;=&#x02009;109). These three countries have consistently reported the
+                greatest number of cases to EWGLINET for several years [<xref ref-type="bibr"
+                    rid="B4">4</xref>].</p>
+            <p>The Italian National Surveillance System has reported that, in Italy, the incidence
+                of Legionellosis has been increasing in the last ten years despite a slightly
+                decreasing number of notified cases in the time periods from 2002&#x02013;2004 and
+                2005&#x02013;2006. In 2009, 1,200 cases of Legionellosis were diagnosed and reported
+                (1,146 confirmed and 54 presumptive), with an incidence proportion of twenty cases
+                per million (Figure <xref ref-type="fig" rid="F1">1</xref>) [<xref ref-type="bibr"
+                    rid="B6">6</xref>].</p>
+            <fig id="F1" position="float">
+                <label>Figure 1</label>
+                <caption>
+                    <p>Cases of Legionellosis notified in Italy, 2000&#x02013;2009 (Data source:
+                        Italian Ministry of Health).</p>
+                </caption>
+                <graphic xlink:href="1471-2458-12-618-1" />
+            </fig>
+            <p>In Italy, in 2009, a total of 281 TALD cases, including both Italian and foreign
+                tourists, were reported to the National Health Institute [<xref ref-type="bibr"
+                    rid="B6">6</xref>]. Among these, 178 cases of legionellosis concern to Italian
+                Tourists. The 86% of them stayed at the hotels, the 5.6% stayed at camping and the
+                8,4% in other structures. The 10% of 178 cases have travelled in foreign locations.</p>
+            <p>Many studies describe the frequency and strength of <italic>Legionella</italic> spp.
+                contamination in spa pools, natural pools, hotels and ships [<xref ref-type="bibr"
+                    rid="B7">7</xref>-<xref ref-type="bibr" rid="B17">17</xref>], but no study has
+                been conducted that addresses the environmental monitoring of <italic>Legionella</italic>
+                on board trains.</p>
+            <p>To protect the health of travellers and workers, the Health Service of Italian
+                Railways and the Hygiene Institute of the Catholic University in Rome established
+                for the first time an environmental surveillance programme to evaluate the degree of
+                contamination on trains and the effectiveness and length of water tank
+                decontamination.</p>
+            <p>We have examined air conditioning plants and toilet water tanks, which are the
+                primary sources of biological agents. The air conditioning plants on board
+                Trenitalia trains are planned and built to avoid condensed water stagnation. Water
+                is directly drained out of the trains by canalisations that prevent microorganism
+                proliferation. Passenger trains contain water tanks made of steel or resin that
+                supply hygienic services by falling water and they may have a varied capacity (from
+                200 to 1,800 litres) [<xref ref-type="bibr" rid="B18">18</xref>].</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>A comparative pre-post ecological study was conducted from September 2006 to January
+                2011.</p>
+            <sec>
+                <title>Water sampling and microbiological analysis</title>
+                <p>Plumbing and toilet water tanks on passenger trains were examined.</p>
+                <p>Two samples were collected from every sampling site at a single time point: one
+                    sample was harvested immediately after the tap was switched on and without
+                    flaming for qualitative evaluation of the <italic>Legionella</italic> species
+                    and serogroup and the second sample was collected for quantitative determination
+                    (<italic>Legionella</italic> CFU/L of water) after the water ran for at least
+                    5&#x02013;10 minutes, which is more representative of the water flowing in the
+                    system. At least 6 to 12 water samples were collected weekly.</p>
+                <p>One litre of water was collected in sterile bottles with 0.01% sodium
+                    thiosulphate to neutralise any residual chlorine; water samples were transported
+                    in a suitable cool box, protected from direct light and processed within four
+                    hours after collection.</p>
+                <p>Microbiological detection of <italic>Legionella</italic> spp. was conducted
+                    following the methods described in the &#x0201c;Italian Guidelines for
+                    Legionellosis prevention and control&#x0201d; [<xref ref-type="bibr" rid="B19">
+                    19</xref>,<xref ref-type="bibr" rid="B20">20</xref>].</p>
+                <p>Ten millilitres of the sample were first put into a sterile screw-capped Falcon
+                    tube, and then, a one-litre sample of water was concentrated by filtration on a
+                    0.20&#x02009;&#x003bc;m pore-diameter cellulose membrane filter.</p>
+                <p>The membranes were aseptically removed and placed into the sterile screw-capped
+                    Falcon tube previously filled with 10&#x02009;ml of water sample collected; the
+                    material collected onto the membrane filter was vortex-mixed continuously for
+                    2&#x02009;min.</p>
+                <p>Ten millilitres of the sample was divided into two aliquots of 5&#x02009;ml each;
+                    one aliquot was incubated at 50&#x000b0;C in a water bath for 30 minutes
+                    (treated sample) and the second aliquot remained at room temperature
+                    (non-treated sample).</p>
+                <p>Next, 0.1&#x02009;ml of the treated and non-treated samples was spread on a
+                    90&#x02009;mm Petri dish containing GVPC-selective medium (glycine, polymyxin B,
+                    vancomycin and cycloheximide). These plates were incubated at 37&#x000b0;C in a
+                    humidified atmosphere with 2.5% CO<sub>2</sub>. Plates were evaluated for a
+                    maximum of 14&#x02009;days before reporting them negative.</p>
+                <p>Suspected colonies that displayed a distinctive surface with an iridescent and
+                    faceted cut glass appearance were counted from each sampling. Gram staining was
+                    performed on the suspected colonies; weakly staining, gram-negative bacilli were
+                    observable. Suspicious colonies were sub-cultured both onto buffered charcoal
+                    yeast extract (BCYE) agar with cysteine and charcoal yeast extract agar (CYE
+                    Agar Base &#x02013; Oxoid) for verification.</p>
+                <p>These plates were incubated at 37&#x000b0;C in a humidified atmosphere with 2.5%
+                    CO<sub>2</sub> for &#x02265;2&#x02009;days.</p>
+                <p>The isolated colonies growing only on BCYE, but that did not grow on CYE, were
+                    determined to be <italic>Legionella</italic> colonies. Subsequently, these
+                    colonies were serotyped by the agglutination <italic>Legionella</italic> Latex
+                    Test (Oxoid) that provides separate identification of <italic>L. pneumophila</italic>
+                    serogroup 1, <italic>L. pneumophila</italic> serogroups 2&#x02013;14 and other
+                    species of <italic>Legionella</italic> spp. that have been implicated in human
+                    disease: <italic>L. longbeachae</italic> 1 and 2, <italic>L. bozemanii</italic>
+                    1 and 2, <italic>L. dumoffii</italic>, <italic>L. gormanii</italic>, <italic>L.
+                    jordanis</italic>, <italic>L. micdadei</italic> and <italic>L. anisa.</italic></p>
+                <p>According to the Italian Guidelines [<xref ref-type="bibr" rid="B19">19</xref>],
+                    quantitative evaluation (CFU/L) was performed considering the following items:
+                    the count of colonies growth in each plate, the concentration of the original
+                    sample and the dilutions successively made.</p>
+            </sec>
+            <sec>
+                <title>Water supply on board trains and environmental decontamination procedures</title>
+                <p>The water distributed in the toilets of passenger cars, both for the washbasin
+                    and for sanitary services, must have, at the time of supply, the characteristics
+                    required for human consumption. Because of the characteristics of hydraulic
+                    systems on board, these requirements cannot be fully insured, so water is
+                    labelled "no drinking".</p>
+                <p>Passenger railway cars are fitted with steel or resin tanks in which the total
+                    volume of water is variable depending on the type of car (ranging from 200 to
+                    1,800 litres).</p>
+                <p>The water tanks are located under the car&#x02019;s roof and the water flows into
+                    the toilets by gravity.</p>
+                <p>Tanks are refilled at stations or through installation maintenance by jet spouts
+                    placed on side rails and discharge takes place through a special tap below the
+                    wagon.</p>
+                <p>When <italic>Legionella</italic> bacterial load was greater than 10<sup>3</sup>&#x02009;CFU/L,
+                    decontamination procedures were performed [<xref ref-type="bibr" rid="B19">19</xref>
+                    ,<xref ref-type="bibr" rid="B20">20</xref>]. Decontamination was completed in
+                    September 2008 (pre-decontamination step&#x02009;=&#x02009;September
+                    2006-September 2008), so October 2008 is considered the beginning of the
+                    post-decontamination period.</p>
+                <p>The measures of supply reservoir and pipeline decontamination involve chemical
+                    de-scaling with 20% acetic acid and hyper-chlorination with 20&#x02009;mg/l for
+                    2 hours or 50&#x02009;mg/l for 1 hour [<xref ref-type="bibr" rid="B19">19</xref>
+                    ,<xref ref-type="bibr" rid="B20">20</xref>], followed by washing to reach
+                    0.2&#x02009;mg/l of free residual chlorine concentration, or even replacement in
+                    limited cases of obvious damage.</p>
+            </sec>
+            <sec>
+                <title>Statistical methods</title>
+                <p>The prevalence proportion of all positive samples was calculated; the following
+                    bacterial load values were adopted to perform a statistical analysis:
+                    &#x0003c;100&#x02009;CFU/L, 100&#x02013;999&#x02009;CFU/L,
+                    1,000-9,999&#x02009;CFU/L, &#x0003e;10,000&#x02009;CFU/L.</p>
+                <p>The unpaired <italic>t</italic>-test was performed to evaluate statistically
+                    significant differences between the mean load values before and after the
+                    decontamination procedures; statistical significance was set at <italic>p</italic>
+                    &#x02009;&#x02264;&#x02009;0.05.</p>
+            </sec>
+        </sec>
+        <sec sec-type="results">
+            <title>Results</title>
+            <p>The overall number of water samples collected from different trains and analysed from
+                September 2006 to January 2011 was 1,245 (Table <xref ref-type="table" rid="T1">1</xref>).
+                Of those, 679 were collected during the pre-decontamination period.</p>
+            <table-wrap position="float" id="T1">
+                <label>Table 1</label>
+                <caption>
+                    <p>Results of the microbiological analysis performed on the water samples
+                        collected</p>
+                </caption>
+                <table frame="hsides" rules="groups" border="1">
+                    <colgroup>
+                        <col align="left" />
+                        <col align="left" />
+                        <col align="left" />
+                        <col align="left" />
+                    </colgroup>
+                    <thead valign="top">
+                        <tr>
+                            <th align="left">&#x000a0;</th>
+                            <th align="left">
+                                <bold>Pre-decontamination period</bold>
+                            </th>
+                            <th align="left">
+                                <bold>Post-decontamination period</bold>
+                            </th>
+                            <th align="left">
+                                <bold>Total</bold>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody valign="top">
+                        <tr>
+                            <td align="left" valign="bottom">
+                                <italic>Number of water samples analysed</italic>
+                                <hr />
+                            </td>
+                            <td align="left" valign="bottom">679 (54.538% of total samples analyzed)<hr /></td>
+                            <td align="left" valign="bottom">566 (45.462% of total samples analyzed)<hr /></td>
+                            <td align="left" valign="bottom">1245<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom"><italic>Number of samples positive for
+                                Legionella</italic> spp.<hr /></td>
+                            <td align="left" valign="bottom">394 (58.027%)<hr /></td>
+                            <td align="left" valign="bottom">242 (42.756%)<hr /></td>
+                            <td align="left" valign="bottom">636<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom"><italic>Number of samples positive for
+                                L. pneumophila</italic> 1<hr /></td>
+                            <td align="left" valign="bottom">220 (55.838%)<hr /></td>
+                            <td align="left" valign="bottom">177 (73.140%)<hr /></td>
+                            <td align="left" valign="bottom">397<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom"><italic>Number of samples positive for
+                                L. pneumophila</italic> 2 -14<hr /></td>
+                            <td align="left" valign="bottom">75 (19.036%)<hr /></td>
+                            <td align="left" valign="bottom">39 (16.116%)<hr /></td>
+                            <td align="left" valign="bottom">114<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom"><italic>Number of samples positive for
+                                L. pneumophila</italic> 1 and 2 -14<hr /></td>
+                            <td align="left" valign="bottom">99 (25.127%)<hr /></td>
+                            <td align="left" valign="bottom">23 (9.504%)<hr /></td>
+                            <td align="left" valign="bottom">122<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom"><italic>Number of samples positive for
+                                Legionella other</italic> species<hr /></td>
+                            <td align="left" valign="bottom">0 (0.000%)<hr /></td>
+                            <td align="left" valign="bottom">3 (1.240%)<hr /></td>
+                            <td align="left" valign="bottom">3<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom"><italic>Number of samples with</italic>
+                                load values&#x02009;&#x0003c;&#x02009;100&#x02009;CFU/L<hr /></td>
+                            <td align="left" valign="bottom">69 (17.513%)<hr /></td>
+                            <td align="left" valign="bottom">14 (5.785%)<hr /></td>
+                            <td align="left" valign="bottom">83<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom"><italic>Number of samples with</italic>
+                                load values 100&#x02013;999&#x02009;CFU/L<hr /></td>
+                            <td align="left" valign="bottom">155 (39.340%)<hr /></td>
+                            <td align="left" valign="bottom">121 (50.000%)<hr /></td>
+                            <td align="left" valign="bottom">276<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom"><italic>Number of samples with</italic>
+                                load values 1,000-9,999 CFU/L<hr /></td>
+                            <td align="left" valign="bottom">138 (35.025%)<hr /></td>
+                            <td align="left" valign="bottom">85 (35.124%)<hr /></td>
+                            <td align="left" valign="bottom">223<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left"><italic>Number of samples with</italic> load
+                                values&#x02009;&#x02265;&#x02009;10,000 CFU/L</td>
+                            <td align="left">32 (8.122%)</td>
+                            <td align="left">22 (9.091%)</td>
+                            <td align="left">54</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>In the pre-decontamination period, 58% of water samples were positive for <italic>
+                Legionella</italic> and only <italic>L. pneumophila</italic> was identified; 55.84%
+                contained serogroup 1, 19.03% contained serogroups 2&#x02013;14 and 25.13% contained
+                both serogroups.</p>
+            <p>The mean bacterial load value was 2.14&#x02009;&#x000d7;&#x02009;10<sup>3</sup>&#x02009;CFU/L;
+                17.51% of positive samples had a load value&#x02009;&#x0003c;&#x02009;100, 39.34%
+                ranged from 100 to 999, 35.03% ranged from 1,000 to 9,999 and 8.12%
+                were&#x02009;&#x0003e;&#x02009;10,000&#x02009;CFU/L.</p>
+            <p>During the post-decontamination period, 566 water samples were collected and
+                analysed: 42.75% were positive for <italic>Legionella</italic> and <italic>Legionella
+                pneumophila</italic> was identified in 98.76% of the positive samples; 74.06%
+                contained serogroup 1, 16.32% contained serogroups 2&#x02013;14 and 9.62% contained
+                both serogroups.</p>
+            <p>The mean bacterial load of positive samples in the post-decontamination period was
+                1.72&#x02009;&#x000d7;&#x02009;10<sup>3</sup>&#x02009;CFU/L: 5.79% had a load
+                value&#x02009;&#x0003c;&#x02009;100, 50% were between 100 and 999, 35.12% were
+                between 1,000, and 9,999 and 9.09%
+                were&#x02009;&#x0003e;&#x02009;10,000&#x02009;CFU/L.</p>
+            <p>The unpaired <italic>t</italic>-test was performed to compare post-decontamination
+                results to pre-decontamination levels; there was a statistically significant
+                decrease in total bacterial load after January 2009: <italic>p</italic>&#x02009;=&#x02009;0.0309
+                (Table <xref ref-type="table" rid="T2">2</xref>). The statistically significant
+                decrease in total bacterial load continued until March 2010 (<italic>p</italic>&#x02009;=&#x02009;0.0097),
+                confirming the intervention&#x02019;s effectiveness until approximately one and a
+                half years after beginning the decontamination period.</p>
+            <table-wrap position="float" id="T2">
+                <label>Table 2</label>
+                <caption>
+                    <p>
+                        <bold>Effectiveness of decontamination on</bold>
+                        <bold>
+                            <italic>Legionella</italic>
+                        </bold>
+                        <bold>bacterial loading</bold>
+                    </p>
+                </caption>
+                <table frame="hsides" rules="groups" border="1">
+                    <colgroup>
+                        <col align="left" />
+                        <col align="char" />
+                        <col align="left" />
+                        <col align="left" />
+                        <col align="left" />
+                    </colgroup>
+                    <thead valign="top">
+                        <tr>
+                            <th align="left">
+                                <bold>Month</bold>
+                            </th>
+                            <th align="char">
+                                <bold>Mean of load value (CFU/l) (post-decontamination period)</bold>
+                            </th>
+                            <th align="left">
+                                <bold>Mean of bacterial load in natural logarithmic numbers</bold>
+                            </th>
+                            <th align="left">
+                                <bold>t</bold>
+                            </th>
+                            <th align="left">
+                                <bold>
+                                    <italic>p</italic>
+                                </bold>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody valign="top">
+                        <tr>
+                            <td align="left" valign="bottom">October 2008<hr /></td>
+                            <td align="char" valign="bottom" char=".">992.2414<hr /></td>
+                            <td align="left" valign="bottom">6.9000<hr /></td>
+                            <td align="left" valign="bottom">0.6591<hr /></td>
+                            <td align="left" valign="bottom">0.2550<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">November 2008<hr /></td>
+                            <td align="char" valign="bottom" char=".">583.8235<hr /></td>
+                            <td align="left" valign="bottom">6.3696<hr /></td>
+                            <td align="left" valign="bottom">1.1843<hr /></td>
+                            <td align="left" valign="bottom">0.1183<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">December 2008<hr /></td>
+                            <td align="char" valign="bottom" char=".">397.0000<hr /></td>
+                            <td align="left" valign="bottom">5.9839<hr /></td>
+                            <td align="left" valign="bottom">1.6083<hr /></td>
+                            <td align="left" valign="bottom">0.0541<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">January 2009<hr /></td>
+                            <td align="char" valign="bottom" char=".">320.1613<hr /></td>
+                            <td align="left" valign="bottom">5.7688<hr /></td>
+                            <td align="left" valign="bottom">1.8698<hr /></td>
+                            <td align="left" valign="bottom">0.0309<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">February 2009<hr /></td>
+                            <td align="char" valign="bottom" char=".">295.1282<hr /></td>
+                            <td align="left" valign="bottom">5.6874<hr /></td>
+                            <td align="left" valign="bottom">2.1259<hr /></td>
+                            <td align="left" valign="bottom">0.0169<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">March 2009<hr /></td>
+                            <td align="char" valign="bottom" char=".">306.3265<hr /></td>
+                            <td align="left" valign="bottom">5.7247<hr /></td>
+                            <td align="left" valign="bottom">2.3673<hr /></td>
+                            <td align="left" valign="bottom">0.0091<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">April 2009<hr /></td>
+                            <td align="char" valign="bottom" char=".">315.3801<hr /></td>
+                            <td align="left" valign="bottom">5.7538<hr /></td>
+                            <td align="left" valign="bottom">2.5402<hr /></td>
+                            <td align="left" valign="bottom">0.0056<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">May 2009<hr /></td>
+                            <td align="char" valign="bottom" char=".">295.0256<hr /></td>
+                            <td align="left" valign="bottom">5.6871<hr /></td>
+                            <td align="left" valign="bottom">2.7428<hr /></td>
+                            <td align="left" valign="bottom">0.0031<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">June 2009<hr /></td>
+                            <td align="char" valign="bottom" char=".">417.9909<hr /></td>
+                            <td align="left" valign="bottom">6.0355<hr /></td>
+                            <td align="left" valign="bottom">2.7060<hr /></td>
+                            <td align="left" valign="bottom">0.0035<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">July 2009<hr /></td>
+                            <td align="char" valign="bottom" char=".">498.4615<hr /></td>
+                            <td align="left" valign="bottom">6.2115<hr /></td>
+                            <td align="left" valign="bottom">2.6624<hr /></td>
+                            <td align="left" valign="bottom">0.0039<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">August 2009<hr /></td>
+                            <td align="char" valign="bottom" char=".">554.6850<hr /></td>
+                            <td align="left" valign="bottom">6.3184<hr /></td>
+                            <td align="left" valign="bottom">2.6735<hr /></td>
+                            <td align="left" valign="bottom">0.0038<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">September 2009<hr /></td>
+                            <td align="char" valign="bottom" char=".">592.1561<hr /></td>
+                            <td align="left" valign="bottom">6.3838<hr /></td>
+                            <td align="left" valign="bottom">2.6817<hr /></td>
+                            <td align="left" valign="bottom">0.0037<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">October 2009<hr /></td>
+                            <td align="char" valign="bottom" char=".">753.6237<hr /></td>
+                            <td align="left" valign="bottom">6.6249<hr /></td>
+                            <td align="left" valign="bottom">2.4677<hr /></td>
+                            <td align="left" valign="bottom">0.0069<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">November 2009<hr /></td>
+                            <td align="char" valign="bottom" char=".">752.5163<hr /></td>
+                            <td align="left" valign="bottom">6.6234<hr /></td>
+                            <td align="left" valign="bottom">2.5500<hr /></td>
+                            <td align="left" valign="bottom">0.0055<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">December 2009<hr /></td>
+                            <td align="char" valign="bottom" char=".">748.6751<hr /></td>
+                            <td align="left" valign="bottom">6.6183<hr /></td>
+                            <td align="left" valign="bottom">2.6023<hr /></td>
+                            <td align="left" valign="bottom">0.0047<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">January 2010<hr /></td>
+                            <td align="char" valign="bottom" char=".">726.0479<hr /></td>
+                            <td align="left" valign="bottom">6.5876<hr /></td>
+                            <td align="left" valign="bottom">2.7144<hr /></td>
+                            <td align="left" valign="bottom">0.0034<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">February 2010<hr /></td>
+                            <td align="char" valign="bottom" char=".">934.4538<hr /></td>
+                            <td align="left" valign="bottom">6.8400<hr /></td>
+                            <td align="left" valign="bottom">2.3195<hr /></td>
+                            <td align="left" valign="bottom">0.0103<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">March 2010<hr /></td>
+                            <td align="char" valign="bottom" char=".">962.5000<hr /></td>
+                            <td align="left" valign="bottom">6.8695<hr /></td>
+                            <td align="left" valign="bottom">2.3432<hr /></td>
+                            <td align="left" valign="bottom">0.0097<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">April 2010<hr /></td>
+                            <td align="char" valign="bottom" char=".">1369.3270<hr /></td>
+                            <td align="left" valign="bottom">7.2221<hr /></td>
+                            <td align="left" valign="bottom">1.3341<hr /></td>
+                            <td align="left" valign="bottom">0.0912<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">May 2010<hr /></td>
+                            <td align="char" valign="bottom" char=".">1314.9530<hr /></td>
+                            <td align="left" valign="bottom">7.1816<hr /></td>
+                            <td align="left" valign="bottom">1.4680<hr /></td>
+                            <td align="left" valign="bottom">0.0712<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">June 2010<hr /></td>
+                            <td align="char" valign="bottom" char=".">1521.4860<hr /></td>
+                            <td align="left" valign="bottom">7.3274<hr /></td>
+                            <td align="left" valign="bottom">1.0917<hr /></td>
+                            <td align="left" valign="bottom">0.1376<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">July 2010<hr /></td>
+                            <td align="char" valign="bottom" char=".">1482.9550<hr /></td>
+                            <td align="left" valign="bottom">7.3018<hr /></td>
+                            <td align="left" valign="bottom">1.1885<hr /></td>
+                            <td align="left" valign="bottom">0.1174<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">August 2010<hr /></td>
+                            <td align="char" valign="bottom" char=".">1707.7110<hr /></td>
+                            <td align="left" valign="bottom">7.4429<hr /></td>
+                            <td align="left" valign="bottom">0.7837<hr /></td>
+                            <td align="left" valign="bottom">0.2167<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">September 2010<hr /></td>
+                            <td align="char" valign="bottom" char=".">1697.6230<hr /></td>
+                            <td align="left" valign="bottom">7.4370<hr /></td>
+                            <td align="left" valign="bottom">0.8044<hr /></td>
+                            <td align="left" valign="bottom">0.2107<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">October 2010<hr /></td>
+                            <td align="char" valign="bottom" char=".">1684.2690<hr /></td>
+                            <td align="left" valign="bottom">7.4291<hr /></td>
+                            <td align="left" valign="bottom">0.8432<hr /></td>
+                            <td align="left" valign="bottom">0.1996<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">November 2010<hr /></td>
+                            <td align="char" valign="bottom" char=".">1635.7890<hr /></td>
+                            <td align="left" valign="bottom">7.3999<hr /></td>
+                            <td align="left" valign="bottom">0.9556<hr /></td>
+                            <td align="left" valign="bottom">0.1697<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">December 2010<hr /></td>
+                            <td align="char" valign="bottom" char=".">1719.8530<hr /></td>
+                            <td align="left" valign="bottom">7.4500<hr /></td>
+                            <td align="left" valign="bottom">0.8037<hr /></td>
+                            <td align="left" valign="bottom">0.2109<hr /></td>
+                        </tr>
+                        <tr>
+                            <td align="left">January 2011</td>
+                            <td align="char" char=".">1721.6250</td>
+                            <td align="left">7.4510</td>
+                            <td align="left">0.8141</td>
+                            <td align="left">0.2079</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table-wrap-foot>
+                    <p>[In Table <xref ref-type="table" rid="T2">2</xref> are reported the results
+                        of the unpaired t-tests performed to compare the mean value of the bacterial
+                        load in the pre-decontamination period (grand mean: 2142.7840&#x02009;CFU/L
+                        &#x02013; 7.6698 in logarithmic value) with the ones of the
+                        post-decontamination period].</p>
+                </table-wrap-foot>
+            </table-wrap>
+        </sec>
+        <sec sec-type="discussion">
+            <title>Discussion</title>
+            <p>Several studies describe the frequency of <italic>Legionella</italic> spp.
+                contamination in spa pools, natural pools and hotels [<xref ref-type="bibr" rid="B7">
+                7</xref>-<xref ref-type="bibr" rid="B9">9</xref>]. Cases of LD are also well
+                documented among cruise ship passengers [<xref ref-type="bibr" rid="B9">9</xref>-<xref
+                    ref-type="bibr" rid="B17">17</xref>]. To date, this is the first study
+                concerning the environmental monitoring of <italic>Legionella</italic> on board
+                trains.</p>
+            <p>This study demonstrates the necessity for periodic evaluation on trains to assess the
+                potential contamination of <italic>Legionella</italic> spp., with the aim to drive
+                decontamination efforts in the absence of specific guidelines. We hypothesized that
+                an environmental surveillance programme, followed by decontamination procedures when
+                necessary, would decrease the total bacterial load, thereby protecting the health of
+                travellers and workers.</p>
+            <p>This study demonstrated a statistically significant decrease in total bacterial load
+                after decontamination procedures. The <italic>t</italic>-test indicated a decrease
+                in bacterial load since October 2008, with statistical significance from January
+                2009 to March 2010, suggesting that a disinfection treatment performed every one and
+                a half years could reduce environmental contamination.</p>
+            <p>Moreover, this study demonstrated a decrease in <italic>Legionella</italic>-positive
+                samples after decontamination procedures: 58% in the pre-decontamination period and
+                42.75% in post one were positive for <italic>Legionella.</italic> Although there was
+                a decrease in the total <italic>Legionella</italic>-positive samples, we observed an
+                increase of <italic>Legionella</italic> serogroup 1 (55.84% pre- vs. 74.06%
+                post-decontamination), which is responsible for approximately 70% of <italic>
+                Legionella</italic> infections in Europe [<xref ref-type="bibr" rid="B21">21</xref>].
+                This increase could have been due to the development of a protective biofilm,
+                especially when load values were high. As demonstrated in this study, the
+                disinfection treatments were more effective when the bacterial load was lower
+                (17.51% of positive samples with a load
+                value&#x02009;&#x0003c;&#x02009;100&#x02009;CFU/L in pre- vs. 5.79% in
+                post-decontamination).</p>
+            <p>Even if hyper-chlorination of the water is consistently performed, this approach is
+                particularly appropriate for the treatment and removal of planktonic cultures of <italic>L.
+                pneumophila</italic>, but remains ineffective against sessile communities of the
+                bacterium [<xref ref-type="bibr" rid="B22">22</xref>].</p>
+            <p>This study suggests that the resistance to chlorination of <italic>L. pneumophila</italic>
+                serogroup 1 could be due to the biofilm that facilitates a higher tolerance to the
+                disinfectant. In fact, we observed limestone deposits in different water tanks in
+                which the biofilm could have been developed. Environmental strains could develop a
+                resistance mechanism to chlorine-based disinfection treatments, so these
+                decontamination procedures are not completely appropriate for removing the bacterium
+                from plumbing and tanks. As these procedures do not lead to a definitive solution to
+                the problem, we suggest that mechanical cleaning could increase the effectiveness
+                and length of chemical decontamination procedures, thereby reducing bacterial load
+                values and increasing the amount of time that the water can be considered safe.</p>
+            <p>We aimed to highlight that environmental surveillance represents an evidence-based
+                approach for evaluating the contamination of the water supply on board trains. This
+                work stresses the effectiveness of decontamination and, above all, provides
+                information about the required frequency of disinfection procedures to achieve a
+                statistically significant decrease in total bacterial load.</p>
+            <p>Periodic environmental surveillance could be a useful approach for assessing the risk
+                of exposure to <italic>Legionella</italic> bacteria, which still poses a threat to
+                public health. <italic>Legionella</italic> spp. are opportunists par excellence and
+                are therefore especially dangerous for vulnerable individuals (e.g., older people,
+                current tobacco smokers, immune-compromised or immune-suppressed persons, patients
+                with chronic degenerative diseases and transplanted people).</p>
+            <p>Our purpose is to ensure the safety of the passengers and the workers on board trains
+                by defining proper preventive measures to be implemented with an established
+                frequency.</p>
+            <p>The primary limitation of this study concerns the use of the <italic>t</italic>-test;
+                a paired <italic>t</italic>-test was not performed because this study focused on the
+                general trend of contamination/decontamination on board trains as opposed to a
+                specific sampling site.</p>
+            <p>Moreover in this study we analyzed only environmental data because we were given the
+                responsibility of doing only the environmental surveillance; in fact, clinical
+                surveillance was carried out by other institutions and, up to date, we have no
+                information about cases of Legionellosis linked to our environmental data.</p>
+            <p>The lengthy time period of the environmental surveillance and the large number of
+                water samples collected and analysed represent a point of strength in this study.</p>
+        </sec>
+        <sec sec-type="conclusions">
+            <title>Conclusions</title>
+            <p>Public health programmes should focus on reducing the risk for LD among travellers.</p>
+            <p>In addition to cruise ships and ferries [<xref ref-type="bibr" rid="B16">16</xref>],
+                the routine monitoring of water on board trains must be considered an essential
+                measure of primary prevention for guaranteeing water safety and, consequently, to
+                avoid cases of LD. For these reasons, the drafting of guidelines for LD prevention
+                on public transportation may be necessary to protect the health of travellers and
+                workers. According to our experience, it is necessary to pay close attention to
+                water quality on board trains, especially after decontamination procedures to
+                prevent bacterial colonization.</p>
+            <p>Although the eradication of <italic>Legionella</italic> spp. in plumbing and water
+                tanks is difficult to achieve, our approach can be considered an evidence-based
+                method for assessing and managing <italic>Legionella</italic> infection risk on
+                trains.</p>
+            <p>The air conditioning plants on board Trenitalia trains are designed to avoid air
+                conditioner condensation drip. The particular characteristics of water supply
+                facilities on trains, which work by gravity at a low pressure, and the lack of
+                showers reduce the possibility of the formation of aerosol, which is potentially
+                dangerous for Legionellosis. Nevertheless, Italian Railways have carried out the
+                present study in collaboration with Catholic University in Rome and the positive
+                results may improve future train sanitation following the practical measures
+                described in detail in this article.</p>
+        </sec>
+        <sec>
+            <title>Abbreviations</title>
+            <p>CFU: Colony forming unit; CFU/L: Colony forming unit/litre.</p>
+        </sec>
+        <sec>
+            <title>Competing interests</title>
+            <p>The authors declare that they have no competing interests.</p>
+        </sec>
+        <sec>
+            <title>Authors' contributions</title>
+            <p>GQ participated in the design of the study, contributed to draft the manuscript and
+                performed the statistical analysis. SV performed the microbiological analysis,
+                conceived of the study and helped to draft the manuscript. AMF conceived of the
+                study and helped to manage the database and to draft the manuscript. FB performed
+                the microbiological analysis. RS performed the microbiological analysis. CT
+                performed the microbiological analysis. MDG helped to manage the database and draft
+                the manuscript. GC,CC, MA and PDN conceived of the study and participated in its
+                design and coordination. EM conceived of the study and participated in its design
+                and coordination, allowing the surveillance on board train. WR conceived of the
+                study and participated in its design and coordination. PL conceived of the study,
+                participated in its design and coordination, carried out the surveillance and helped
+                to draft the manuscript. All authors read and approved the final manuscript.</p>
+        </sec>
+        <sec>
+            <title>Pre-publication history</title>
+            <p>The pre-publication history for this paper can be accessed here:</p>
+            <p>
+                <ext-link ext-link-type="uri"
+                    xlink:href="http://www.biomedcentral.com/1471-2458/12/618/prepub">
+                    http://www.biomedcentral.com/1471-2458/12/618/prepub</ext-link>
+            </p>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <ref id="B1">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Carratal&#x000e0;</surname>
+                        <given-names>J</given-names>
+                    </name>
+                    <name>
+                        <surname>Garcia-Vidal</surname>
+                        <given-names>C</given-names>
+                    </name>
+                    <article-title>An update on Legionella</article-title>
+                    <source>Curr Opin Infect Dis</source>
+                    <year>2010</year>
+                    <volume>23</volume>
+                    <fpage>152</fpage>
+                    <lpage>157</lpage>
+                    <pub-id pub-id-type="doi">10.1097/QCO.0b013e328336835b</pub-id>
+                    <pub-id pub-id-type="pmid">20051846</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="B2">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Ricketts</surname>
+                        <given-names>K</given-names>
+                    </name>
+                    <name>
+                        <surname>Joseph</surname>
+                        <given-names>CA</given-names>
+                    </name>
+                    <name>
+                        <surname>Yadav</surname>
+                        <given-names>R</given-names>
+                    </name>
+                    <article-title>Travel-associated Legionnaires&#x02019; Disease in Europe in
+                        2008. On behalf of the European Working Group for Legionella Infections</article-title>
+                    <source>Euro Surveill</source>
+                    <year>2010</year>
+                    <volume>15</volume>
+                    <issue>21</issue>
+                    <fpage>19578</fpage>
+                    <comment><ext-link ext-link-type="uri"
+                            xlink:href="http//www.eurosurveillance.org/ViewArticle.aspx?Articled=19578">
+                        http//www.eurosurveillance.org/ViewArticle.aspx?Articled=19578</ext-link>.</comment>
+                    <pub-id pub-id-type="pmid">20519105</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="B3">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Ricketts</surname>
+                        <given-names>KD</given-names>
+                    </name>
+                    <name>
+                        <surname>Joseph</surname>
+                        <given-names>CA</given-names>
+                    </name>
+                    <article-title>The impact of new guidelines in Europe for the control and
+                        prevention of travel-associated Legionnaires&#x02019; Disease. On behalf of
+                        the European Working Group for Legionella Infections</article-title>
+                    <source>Int J Hyg Environ Health</source>
+                    <year>2006</year>
+                    <volume>209</volume>
+                    <fpage>547</fpage>
+                    <lpage>552</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.ijheh.2006.05.003</pub-id>
+                    <pub-id pub-id-type="pmid">16815095</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="B4">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Joseph</surname>
+                        <given-names>CA</given-names>
+                    </name>
+                    <name>
+                        <surname>Ricketts</surname>
+                        <given-names>KD</given-names>
+                    </name>
+                    <name>
+                        <surname>Yadav</surname>
+                        <given-names>R</given-names>
+                    </name>
+                    <name>
+                        <surname>Patel</surname>
+                        <given-names>S</given-names>
+                    </name>
+                    <collab>on behalf of the European Working Group for Legionella Infections</collab>
+                    <article-title>Travel-associated Legionnaires&#x02019; Disease in Europe in 2009</article-title>
+                    <source>Euro Surveill</source>
+                    <year>2010</year>
+                    <volume>15</volume>
+                    <issue>41</issue>
+                    <fpage>19683</fpage>
+                    <comment><ext-link ext-link-type="uri"
+                            xlink:href="http://www.eurosurveillance.org/ViewArticle.aspx?Articled=19683">
+                        http://www.eurosurveillance.org/ViewArticle.aspx?Articled=19683</ext-link>.</comment>
+                    <pub-id pub-id-type="pmid">20961516</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="B5">
+                <mixed-citation publication-type="other">
+                    <collab>European Working Group of Legionella Infections</collab>
+                    <source>European Guidelines for control and prevention of travel associated
+                        Legionnaires&#x02019; Disease</source>
+                    <year>2002</year>
+                    <comment><ext-link ext-link-type="uri"
+                            xlink:href="http://www.hpa.org.uk/Topics/InfectiousDisease/InfectionsAZ/LegionnairesDisease/Guidelines/legiEuropeanAdviceandGuidance">
+                        http://www.hpa.org.uk/Topics/InfectiousDisease/InfectionsAZ/LegionnairesDisease/Guidelines/legiEuropeanAdviceandGuidance</ext-link>
+                        .</comment>
+                </mixed-citation>
+            </ref>
+            <ref id="B6">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Rota</surname>
+                        <given-names>MC</given-names>
+                    </name>
+                    <name>
+                        <surname>Caporali</surname>
+                        <given-names>MG</given-names>
+                    </name>
+                    <name>
+                        <surname>Giannitelli</surname>
+                        <given-names>S</given-names>
+                    </name>
+                    <name>
+                        <surname>Mandarino</surname>
+                        <given-names>G</given-names>
+                    </name>
+                    <name>
+                        <surname>Scaturro</surname>
+                        <given-names>M</given-names>
+                    </name>
+                    <name>
+                        <surname>Ricci</surname>
+                        <given-names>ML</given-names>
+                    </name>
+                    <article-title>Rapporto annuale sulla Legionellosi in Italia nel 2009</article-title>
+                    <source>Not Ist Super Sanit&#x000e0;</source>
+                    <year>2010</year>
+                    <volume>239</volume>
+                    <fpage>3</fpage>
+                    <lpage>9</lpage>
+                </mixed-citation>
+            </ref>
+            <ref id="B7">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Huhn</surname>
+                        <given-names>GD</given-names>
+                    </name>
+                    <name>
+                        <surname>Adam</surname>
+                        <given-names>B</given-names>
+                    </name>
+                    <name>
+                        <surname>Ruden</surname>
+                        <given-names>R</given-names>
+                    </name>
+                    <name>
+                        <surname>Hilliard</surname>
+                        <given-names>L</given-names>
+                    </name>
+                    <name>
+                        <surname>Kirkpatrick</surname>
+                        <given-names>P</given-names>
+                    </name>
+                    <name>
+                        <surname>Todd</surname>
+                        <given-names>J</given-names>
+                    </name>
+                    <name>
+                        <surname>Crafts</surname>
+                        <given-names>W</given-names>
+                    </name>
+                    <name>
+                        <surname>Passaro</surname>
+                        <given-names>D</given-names>
+                    </name>
+                    <name>
+                        <surname>Dworkin</surname>
+                        <given-names>MS</given-names>
+                    </name>
+                    <article-title>Outbreak of travel-related pontiac fever among hotel guests
+                        illustrating the need for better diagnostic tests</article-title>
+                    <source>J Travel Med</source>
+                    <year>2005</year>
+                    <volume>12</volume>
+                    <issue>4</issue>
+                    <fpage>173</fpage>
+                    <lpage>179</lpage>
+                    <pub-id pub-id-type="pmid">16086890</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="B8">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Modi</surname>
+                        <given-names>A</given-names>
+                    </name>
+                    <name>
+                        <surname>Gardner</surname>
+                        <given-names>J</given-names>
+                    </name>
+                    <name>
+                        <surname>Lighton</surname>
+                        <given-names>L</given-names>
+                    </name>
+                    <name>
+                        <surname>Coetzee</surname>
+                        <given-names>N</given-names>
+                    </name>
+                    <article-title>Pontiac fever outbreak associated with a spa-pool</article-title>
+                    <source>United Kingdom Euro Surveill</source>
+                    <year>2008</year>
+                    <volume>24</volume>
+                    <issue>30</issue>
+                    <fpage>13</fpage>
+                </mixed-citation>
+            </ref>
+            <ref id="B9">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Guyard</surname>
+                        <given-names>C</given-names>
+                    </name>
+                    <name>
+                        <surname>Low</surname>
+                        <given-names>DE</given-names>
+                    </name>
+                    <article-title>Legionella infections and travel associated legionellosis</article-title>
+                    <source>Travel Med Infect Dis</source>
+                    <year>2011</year>
+                    <volume>9</volume>
+                    <issue>4</issue>
+                    <fpage>176</fpage>
+                    <lpage>186</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.tmaid.2010.05.006</pub-id>
+                    <pub-id pub-id-type="pmid">21995862</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="B10">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Jernigan</surname>
+                        <given-names>DB</given-names>
+                    </name>
+                    <name>
+                        <surname>Hofmann</surname>
+                        <given-names>J</given-names>
+                    </name>
+                    <name>
+                        <surname>Cetron</surname>
+                        <given-names>MS</given-names>
+                    </name>
+                    <name>
+                        <surname>Genese</surname>
+                        <given-names>CA</given-names>
+                    </name>
+                    <name>
+                        <surname>Nuorti</surname>
+                        <given-names>JP</given-names>
+                    </name>
+                    <name>
+                        <surname>Fields</surname>
+                        <given-names>BS</given-names>
+                    </name>
+                    <name>
+                        <surname>Benson</surname>
+                        <given-names>RF</given-names>
+                    </name>
+                    <name>
+                        <surname>Carter</surname>
+                        <given-names>RJ</given-names>
+                    </name>
+                    <name>
+                        <surname>Edelstein</surname>
+                        <given-names>PH</given-names>
+                    </name>
+                    <name>
+                        <surname>Guerrero</surname>
+                        <given-names>IC</given-names>
+                    </name>
+                    <name>
+                        <surname>Paul</surname>
+                        <given-names>SM</given-names>
+                    </name>
+                    <name>
+                        <surname>Lipman</surname>
+                        <given-names>HB</given-names>
+                    </name>
+                    <name>
+                        <surname>Breiman</surname>
+                        <given-names>R</given-names>
+                    </name>
+                    <article-title>Outbreak of Legionnaires&#x02019; Disease among cruise ship
+                        passengers exposed to a contaminated whirlpool spa</article-title>
+                    <source>Lancet</source>
+                    <year>1996</year>
+                    <volume>24</volume>
+                    <issue>3479000</issue>
+                    <fpage>494</fpage>
+                    <lpage>499</lpage>
+                    <pub-id pub-id-type="pmid">8596266</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="B11">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Rowbotham</surname>
+                        <given-names>TJ</given-names>
+                    </name>
+                    <article-title>Legionellosis associated with ships: 1977 to 1997</article-title>
+                    <source>Commun Dis Public Health</source>
+                    <year>1998</year>
+                    <volume>13</volume>
+                    <fpage>146</fpage>
+                    <lpage>151</lpage>
+                    <pub-id pub-id-type="pmid">9782626</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="B12">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Minooee</surname>
+                        <given-names>A</given-names>
+                    </name>
+                    <name>
+                        <surname>Rickman</surname>
+                        <given-names>LS</given-names>
+                    </name>
+                    <article-title>Infectious diseases on cruise ships</article-title>
+                    <source>Clin Infect Dis</source>
+                    <year>1999</year>
+                    <volume>29</volume>
+                    <issue>4</issue>
+                    <fpage>737</fpage>
+                    <lpage>743</lpage>
+                    <pub-id pub-id-type="doi">10.1086/520426</pub-id>
+                    <pub-id pub-id-type="pmid">10589880</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="B13">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Cayla</surname>
+                        <given-names>JA</given-names>
+                    </name>
+                    <name>
+                        <surname>Maldonado</surname>
+                        <given-names>R</given-names>
+                    </name>
+                    <name>
+                        <surname>Gonzales</surname>
+                        <given-names>J</given-names>
+                    </name>
+                    <name>
+                        <surname>Pellicer</surname>
+                        <given-names>T</given-names>
+                    </name>
+                    <name>
+                        <surname>Ferrer</surname>
+                        <given-names>D</given-names>
+                    </name>
+                    <name>
+                        <surname>Pelaz</surname>
+                        <given-names>C</given-names>
+                    </name>
+                    <name>
+                        <surname>Gracia</surname>
+                        <given-names>J</given-names>
+                    </name>
+                    <name>
+                        <surname>Baladron</surname>
+                        <given-names>B</given-names>
+                    </name>
+                    <name>
+                        <surname>Plasencia</surname>
+                        <given-names>A</given-names>
+                    </name>
+                    <article-title>Legionellosis study group: a small outbreak of
+                        Legionnaires&#x02019;s Disease in a cargo ship under repair</article-title>
+                    <source>Eur Resp</source>
+                    <year>2001</year>
+                    <volume>176</volume>
+                    <fpage>1322</fpage>
+                    <lpage>1327</lpage>
+                </mixed-citation>
+            </ref>
+            <ref id="B14">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Regan</surname>
+                        <given-names>CM</given-names>
+                    </name>
+                    <name>
+                        <surname>McCann</surname>
+                        <given-names>B</given-names>
+                    </name>
+                    <name>
+                        <surname>Syed</surname>
+                        <given-names>Q</given-names>
+                    </name>
+                    <name>
+                        <surname>Christie</surname>
+                        <given-names>P</given-names>
+                    </name>
+                    <name>
+                        <surname>Joseph</surname>
+                        <given-names>C</given-names>
+                    </name>
+                    <name>
+                        <surname>Colligan</surname>
+                        <given-names>J</given-names>
+                    </name>
+                    <name>
+                        <surname>McGaffin</surname>
+                        <given-names>A</given-names>
+                    </name>
+                    <article-title>Outbreak of Legionnaires&#x02019; Disease on a cruise ship:
+                        lessons for International surveillance and control</article-title>
+                    <source>Commun Dis Public Health</source>
+                    <year>2003</year>
+                    <volume>62</volume>
+                    <fpage>152</fpage>
+                    <lpage>156</lpage>
+                    <pub-id pub-id-type="pmid">12889297</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="B15">
+                <mixed-citation publication-type="journal">
+                    <collab>MMWR Morb Mortal Wkly Rep</collab>
+                    <article-title>Cruise-ship-associated Legionnaires disease</article-title>
+                    <source>Centers Dis Control Prev (CDC)</source>
+                    <year>2005</year>
+                    <volume>54</volume>
+                    <issue>45</issue>
+                    <fpage>1153</fpage>
+                    <lpage>1155</lpage>
+                </mixed-citation>
+            </ref>
+            <ref id="B16">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Azara</surname>
+                        <given-names>A</given-names>
+                    </name>
+                    <name>
+                        <surname>Piana</surname>
+                        <given-names>A</given-names>
+                    </name>
+                    <name>
+                        <surname>Sotgiu</surname>
+                        <given-names>G</given-names>
+                    </name>
+                    <name>
+                        <surname>Dettori</surname>
+                        <given-names>M</given-names>
+                    </name>
+                    <name>
+                        <surname>Deriu</surname>
+                        <given-names>MG</given-names>
+                    </name>
+                    <name>
+                        <surname>Masia</surname>
+                        <given-names>MD</given-names>
+                    </name>
+                    <name>
+                        <surname>Are</surname>
+                        <given-names>BM</given-names>
+                    </name>
+                    <name>
+                        <surname>Maresu</surname>
+                        <given-names>E</given-names>
+                    </name>
+                    <article-title>Prevalence study of Legionella spp. contamination in ferries and
+                        cruise ships</article-title>
+                    <source>BMC Public Health</source>
+                    <year>2006</year>
+                    <volume>18</volume>
+                    <issue>6</issue>
+                    <fpage>100</fpage>
+                    <pub-id pub-id-type="pmid">16620388</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="B17">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Goutziana</surname>
+                        <given-names>G</given-names>
+                    </name>
+                    <name>
+                        <surname>Mouchtouri</surname>
+                        <given-names>VA</given-names>
+                    </name>
+                    <name>
+                        <surname>Karanika</surname>
+                        <given-names>M</given-names>
+                    </name>
+                    <name>
+                        <surname>Kavagias</surname>
+                        <given-names>A</given-names>
+                    </name>
+                    <name>
+                        <surname>Stathakis</surname>
+                        <given-names>NE</given-names>
+                    </name>
+                    <name>
+                        <surname>Gorgoulianis</surname>
+                        <given-names>K</given-names>
+                    </name>
+                    <name>
+                        <surname>Kremastinou</surname>
+                        <given-names>J</given-names>
+                    </name>
+                    <name>
+                        <surname>Hadjichristodoulou</surname>
+                        <given-names>C</given-names>
+                    </name>
+                    <article-title>Legionella species colonization of water distribution systems,
+                        pools and air conditioning systems in cruise ships and ferries</article-title>
+                    <source>BMC Public Health</source>
+                    <year>2008</year>
+                    <volume>24</volume>
+                    <issue>8</issue>
+                    <fpage>390</fpage>
+                    <pub-id pub-id-type="pmid">19025638</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="B18">
+                <mixed-citation publication-type="book">
+                    <name>
+                        <surname>Munaf&#x000f2;</surname>
+                        <given-names>E</given-names>
+                    </name>
+                    <name>
+                        <surname>Accorsi</surname>
+                        <given-names>M</given-names>
+                    </name>
+                    <name>
+                        <surname>Del Nord</surname>
+                        <given-names>P</given-names>
+                    </name>
+                    <name>
+                        <surname>Mansi</surname>
+                        <given-names>A</given-names>
+                    </name>
+                    <name>
+                        <surname>Laurenti</surname>
+                        <given-names>P</given-names>
+                    </name>
+                    <article-title>Guidelines for the prevention and control of the Legionella spp
+                        contamination in the water tanks of railways cars</article-title>
+                    <source>Proceedings of the Union International des Services Medicaux des Chemins
+                        de Fer (UIMC) Congress</source>
+                    <year>2007</year>
+                    <publisher-name>Brussels</publisher-name>
+                </mixed-citation>
+            </ref>
+            <ref id="B19">
+                <mixed-citation publication-type="other">
+                    <collab>Gazzetta Ufficiale n.103 del 5 maggio</collab>
+                    <source>Linee guida per la prevenzione e il controllo della Legionellosi</source>
+                    <year>2000</year>
+                    <comment><ext-link ext-link-type="uri"
+                            xlink:href="http://www.guritel.it/free-sum/ARTI/2000/05/05/sommario.html">
+                        http://www.guritel.it/free-sum/ARTI/2000/05/05/sommario.html</ext-link>.</comment>
+                </mixed-citation>
+            </ref>
+            <ref id="B20">
+                <mixed-citation publication-type="other">
+                    <collab>Gazzetta Ufficiale n.29 del 5 febbraio</collab>
+                    <source>Linee guida recanti indicazioni ai laboratori con attivit&#x000e0; di
+                        diagnosi microbiologica e controllo ambientale della Legionellosi</source>
+                    <year>2005</year>
+                    <comment><ext-link ext-link-type="uri"
+                            xlink:href="http://www.guritel.it/free-sum/ARTI/2005/02/05/sommario.html">
+                        http://www.guritel.it/free-sum/ARTI/2005/02/05/sommario.html</ext-link>.</comment>
+                </mixed-citation>
+            </ref>
+            <ref id="B21">
+                <mixed-citation publication-type="other">
+                    <collab>World Health Organization</collab>
+                    <source>Legionella and the prevention of legionellosis</source>
+                    <year>2007</year>
+                    <comment><ext-link ext-link-type="uri"
+                            xlink:href="http://www.who.int/water_sanitation_health/emerging/legionella.pdf">
+                        http://www.who.int/water_sanitation_health/emerging/legionella.pdf</ext-link>
+                        .</comment>
+                </mixed-citation>
+            </ref>
+            <ref id="B22">
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Cooper</surname>
+                        <given-names>IR</given-names>
+                    </name>
+                    <name>
+                        <surname>Hanlon</surname>
+                        <given-names>GW</given-names>
+                    </name>
+                    <article-title>Resistance of Legionella pneumophila serotype 1 biofilms to
+                        chlorine-based disinfection</article-title>
+                    <source>J Hosp Infect</source>
+                    <year>2010</year>
+                    <volume>74</volume>
+                    <fpage>152</fpage>
+                    <lpage>159</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.jhin.2009.07.005</pub-id>
+                    <pub-id pub-id-type="pmid">19783074</pub-id>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

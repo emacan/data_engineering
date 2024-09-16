@@ -1,0 +1,148 @@
+{
+    "pmcid": "PMC5897438",
+    "content": {
+        "title": null,
+        "abstract": "<p>Shuxuening injection (SXNI) is a widely prescribed herbal medicine of Ginkgo biloba extract (EGB) for cerebral and cardiovascular diseases in China. However, its curative effects on ischemic stroke and heart diseases and the underlying mechanisms remain unknown. Taking an integrated approach of RNA-seq and network pharmacology analysis, we compared transcriptome profiles of brain and heart ischemia reperfusion injury in C57BL/6J mice to identify common and differential target genes by SXNI. Models for myocardial ischemia reperfusion injury (MIRI) by ligating left anterior descending coronary artery (LAD) for 30 min ischemia and 24 h reperfusion and cerebral ischemia reperfusion injury (CIRI) by middle cerebral artery occlusion (MCAO) for 90 min ischemia and 24 h reperfusion were employed to identify the common mechanisms of SXNI on both cerebral and myocardial ischemia reperfusion. In the CIRI model, ischemic infarct volume was markedly decreased after pre-treatment with SXNI at 0.5, 2.5, and 12.5 mL/kg. In the MIRI model, pre-treatment with SXNI at 2.5 and 12.5 mL/kg improved cardiac function and coronary blood flow and decreased myocardial infarction area. Besides, SXNI at 2.5 mL/kg also markedly reduced the levels of LDH, AST, CK-MB, and CK in serum. RNA-seq analysis identified 329 differentially expressed genes (DEGs) in brain and 94 DEGs in heart after SXNI treatment in CIRI or MIRI models, respectively. Core analysis by Ingenuity Pathway Analysis (IPA) revealed that atherosclerosis signaling and inflammatory response were top-ranked in the target profiles for both CIRI and MIRI after pre-treatment with SXNI. Specifically, <italic>Tnfrsf12a</italic> was recognized as an important common target, and was regulated by SXNI in CIRI and MIRI. In conclusion, our study showed that SXNI effectively protects brain and heart from I/R injuries via a common <italic>Tnfrsf12a</italic>-mediated pathway involving atherosclerosis signaling and inflammatory response. It provides a novel knowledge of active ingredients of Ginkgo biloba on cardio-cerebral vascular diseases in future clinical application.</p>",
+        "keywords": [
+            "Shuxuening injection",
+            "myocardial ischemia-reperfusion",
+            "cerebral ischemia-reperfusion",
+            "atherosclerosis signaling",
+            "inflammatory response",
+            null
+        ],
+        "tables": [
+            {
+                "table_id": "T1",
+                "body": "<thead><tr><th valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">Primer name</th><th valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">Primer sequence (5\u2032\u20133\u2032)</th></tr></thead><tbody><tr><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">Tnfrsf12a sense</td><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">CCCCAGTACACACGGAAACAA</td></tr><tr><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">Tnfrsf12a antisense</td><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">CTCCCTCCCCTCCAAACATTA</td></tr><tr><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">IL6 sense</td><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">GCCCACCAAGAACGATAGTCA</td></tr><tr><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">IL6 antisense</td><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">ACCAGCATCAGTCCCAAGAAG</td></tr><tr><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">Col3a1 sense</td><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">AGCGGCTGAGTTTTATGACG</td></tr><tr><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">Col3a1 antisense</td><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">CAGGTGTAGAAGGCTGTGGG</td></tr><tr><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">Pla2g2f sense</td><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">TACGGCTGCTACTGCGGG</td></tr><tr><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">Pla2g2f antisense</td><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">GTAGACCCCAGCGGGACAT</td></tr><tr><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">GAPDH sense</td><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">TGGTGAAGCAGGCATCTGAG</td></tr><tr><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">GAPDH antisense</td><td valign=\"top\" align=\"left\" rowspan=\"1\" colspan=\"1\">TGCTGTTGAAGTCGCAGGAG</td></tr></tbody>",
+                "caption": "<p>Primer sequences.</p>",
+                "foots": [],
+                "paragraphs": [
+                    {
+                        "text": "<bold>Table <xref ref-type=\"table\" rid=\"T1\">1</xref></bold>).",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "Tnfrsf12a sense",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "CCCCAGTACACACGGAAACAA",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Tnfrsf12a antisense",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "CTCCCTCCCCTCCAAACATTA",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "IL6 sense",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "GCCCACCAAGAACGATAGTCA",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "IL6 antisense",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "ACCAGCATCAGTCCCAAGAAG",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Col3a1 sense",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "AGCGGCTGAGTTTTATGACG",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Col3a1 antisense",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "CAGGTGTAGAAGGCTGTGGG",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Pla2g2f sense",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "TACGGCTGCTACTGCGGG",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Pla2g2f antisense",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "GTAGACCCCAGCGGGACAT",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "GAPDH sense",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "TGGTGAAGCAGGCATCTGAG",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "GAPDH antisense",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "TGCTGTTGAAGTCGCAGGAG",
+                        "cited_in": []
+                    }
+                ]
+            }
+        ],
+        "figures": [
+            {
+                "fig_id": "F1",
+                "caption": "<caption><p>Echocardiographic evaluation of SXNI on cardiac function in MIRI mice. After 30 min of ischemia and 18 h of reperfusion, the curative effect of SXNI (2.5 mL/kg), SXNI (12.5 mL/kg), and valsartan (20 mg/kg) on cardiac function was evaluated. <bold>(A)</bold> Representative images of echocardiography. Cardiac performance was determined by echocardiography with different groups. <bold>(B)</bold> LVEF %, <bold>(C)</bold> LVFS %, <bold>(D)</bold> CO, <bold>(E)</bold> stroke volume, <bold>(F)</bold> LVIDd, <bold>(G)</bold> LVIDs, <bold>(H)</bold> LVPWd, <bold>(I)</bold> LVPWs, <bold>(J)</bold> LV Vold, <bold>(K)</bold> LV Vols, <bold>(L)</bold> heart rate, and <bold>(M)</bold> LV Mass were measured in M-mode. Results were presented as mean \u00b1 SEM (<italic>n</italic> = 7-10). <sup>#</sup><italic>P</italic> &lt; 0.05, <sup>##</sup><italic>P</italic> &lt; 0.01 vs. Sham group, <sup>\u2217</sup><italic>P</italic> &lt; 0.05, <sup>\u2217\u2217</sup><italic>P</italic> &lt; 0.01 vs. I/R group. (LV, left ventricular; EF, ejection fraction; FS, LV fractional shortening; CO, cardiac output; LVIDd, LV internal dimensions at diastole; LVIDs, LV internal diameter systole; LVPWd, LV posterior wall diastole; LVPWs, LV posterior wall systole; LV Vols, LV systole volume; LV Vold, LV diastole volume).</p></caption>",
+                "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5897438/bin/fphar-09-00312-g001.jpg"
+            },
+            {
+                "fig_id": "F2",
+                "caption": "<caption><p>Effects of SXNI on coronary blood flow in MIRI mice. After 30 min of ischemia and 18 h of reperfusion, the curative effect of SXNI (2.5 and 12.5 mL/kg) and valsartan (20 mg/kg) on coronary blood flow was evaluated. <bold>(A)</bold> Representative echocardiography images of coronary blood flow were determined with different groups. <bold>(B)</bold> AV peak velocity, <bold>(C)</bold> AV peak pressure, and <bold>(D)</bold> AoV VTI were measured in Color Doppler mode. Results were presented as mean \u00b1 SEM (<italic>n</italic> = 7\u201310). <sup>#</sup><italic>P</italic> &lt; 0.05, <sup>##</sup><italic>P</italic> &lt; 0.01 vs. Sham group, <sup>\u2217</sup><italic>P</italic> &lt; 0.05 vs. I/R group. (AV Peak Vel, aortic valve peak velocity; AoV VTI, aorta velocity-time integral mean velocity).</p></caption>",
+                "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5897438/bin/fphar-09-00312-g002.jpg"
+            },
+            {
+                "fig_id": "F3",
+                "caption": "<caption><p>Effects of SXNI on myocardial injury in MIRI mice. After 30 min of ischemia and 24 h of reperfusion, the effect of SXNI on myocardial injury was evaluated. <bold>(A)</bold> TTC staining determined the effect of SXNI (2.5 mL/kg) and valsartan (20 mg/kg) on myocardial infarct area. <bold>(B)</bold> Bar graphic representation of myocardial infarct size (<italic>n</italic> = 4). <bold>(C)</bold> Representative H&amp;E staining (100\u00d7 and 400\u00d7 magnification) pictures indicating the histopathological changes in I/R model as well as that caused by SXNI and valsartan. Yellow arrows indicated myocardium damage sections (<italic>n</italic> = 4). <bold>(D\u2013G)</bold> The effect of SXNI and valsartan on release of LDH, AST, CK-MB, and CK in serum at the end of reperfusion (<italic>n</italic> = 6). Results were presented as mean \u00b1 SEM. <sup>#</sup><italic>P</italic> &lt; 0.05, <sup>##</sup><italic>P</italic> &lt; 0.01 vs. Sham group, <sup>\u2217</sup><italic>P</italic> &lt; 0.05, <sup>\u2217\u2217</sup><italic>P</italic> &lt; 0.01 vs. I/R group.</p></caption>",
+                "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5897438/bin/fphar-09-00312-g003.jpg"
+            },
+            {
+                "fig_id": "F4",
+                "caption": "<caption><p>Effects of SXNI on cerebral injury in CIRI mice. After 90 min of ischemia and 24 h of reperfusion, the curative effect of SXNI on cerebral injury was evaluated. <bold>(A)</bold> Representative images of brain sections stained with TTC. After reperfusion for 24 h, five groups of mice were treated intravenously with saline (model), SXNI at 0.5, 2.5, and 12.5 mL/kg as well as edaravone (9 ml/kg), respectively. Ischemic infarctions (white area) were detected in all groups. <bold>(B)</bold> At 24 h after stroke, the percentage of infarct volumes was quantified (<italic>n</italic> = 6\u20138). Results were presented as mean \u00b1 SEM. <sup>\u2217\u2217</sup><italic>P</italic> &lt; 0.01 vs. I/R group.</p></caption>",
+                "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5897438/bin/fphar-09-00312-g004.jpg"
+            },
+            {
+                "fig_id": "F5",
+                "caption": "<caption><p>Differentially expressed gene (DEGs) of SXNI vs. CIRI and SXNI vs. MIRI. The overall distribution of differentially expressed genes (fold change \u2265 2 and <italic>p</italic>-Value \u2264 0.05) was reflected by the volcanic map. The <italic>X</italic>-axis represents the changes of gene expression in different samples and <italic>Y</italic>-axis represents the statistical significance of the difference in the gene expression. The up-regulated genes were in red and down-regulated genes in green. <bold>(A)</bold> The distribution of differently expressed genes between SXNI vs. CIRI samples, while <bold>(B)</bold> for the SXNI <italic>vs.</italic> MIRI samples. Hierarchical clustering representing the overall profiles of the transcripts that were significantly and differently expressed in <bold>(C)</bold> SXNI vs. CIRI samples, and <bold>(D)</bold> SXNI vs. MIRI samples.</p></caption>",
+                "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5897438/bin/fphar-09-00312-g005.jpg"
+            },
+            {
+                "fig_id": "F6",
+                "caption": "<caption><p>Shared mechanisms of SXNI on both MIRI and CIRI. DEGs with top 10 pathways in groups of <bold>(A)</bold> CIRI+SXNI vs. CIRI, and <bold>(B)</bold> MIRI+SXNI vs. MIRI (upregulated genes in red color, downregulated genes in blue and two amplifying common genes). The top 10 canonical pathways (CP) in groups of <bold>(C)</bold> CIRI+SXNI vs. CIRI, and <bold>(D)</bold> MIRI+SXNI vs. MIRI. Atherosclerosis signaling was shared in both groups. The top 6 functions in groups of <bold>(E)</bold> CIRI+SXNI vs. CIRI, and <bold>(F)</bold> MIRI+SXNI vs. MIRI. Inflammatory response was existed in both groups. The importance was ordered from top to bottom by \u2013log (<italic>p</italic>-value).</p></caption>",
+                "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5897438/bin/fphar-09-00312-g006.jpg"
+            },
+            {
+                "fig_id": "F7",
+                "caption": "<caption><p>Validation of SXNI regulated genes in inflammatory and atherosclerosis signaling. <bold>(A)</bold> The details of atherosclerosis signaling with DEGs in two groups of SXNI vs. CIRI (blue) and SXNI vs. MIRI (yellow) were shown, <italic>TNFRSF12A</italic> was shared in both groups (green). <bold>(B)</bold> The relationship between inflammatory response and atherosclerosis signaling with the 10 genes was displayed. <bold>(C</bold>) <italic>TNFRSF12A</italic> and <italic>IL6</italic> in atherosclerosis signaling in heart were validated. <bold>(D)</bold>\n<italic>TNFRSF12A, Pla2g2f</italic>, and <italic>Col3a1</italic> in atherosclerosis signaling in brain were validated. Results were presented as mean \u00b1 SD, <italic>n</italic> = 3. <sup>\u2217</sup><italic>P</italic> &lt; 0.05, <sup>\u2217\u2217</sup><italic>P</italic> &lt; 0.01 vs. I/R group.</p></caption>",
+                "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5897438/bin/fphar-09-00312-g007.jpg"
+            }
+        ]
+    }
+}

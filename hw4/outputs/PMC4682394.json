@@ -1,0 +1,1258 @@
+{
+    "pmcid": "PMC4682394",
+    "content": {
+        "title": "How vital are the vital signs? a multi-center observational study from emergency departments of Pakistan",
+        "abstract": "<p>Vital signs play a critical role in prioritizing patients in emergency departments (EDs), and are the foundation of most triage methods and disposition decisions. This study was conducted to determine the frequency of vital signs documentation anytime during emergency department treatment and to explore if abnormal vital signs were associated with the likelihood of admission for a set of common presenting complaints.</p>\n<p>Data were collected over a four-month period from the EDs of seven urban tertiary care hospitals in Pakistan. The variables included age, sex, hospital type (government run vs. private), presenting complaint, ED vital signs, and final disposition. Patients who were &gt;12 years of age were included in the analysis. The data were analyzed to describe the proportion of patients with documented vitals signs, which was then crossed-tabulated with top the ten presenting complaints to identify high-acuity patients and correlation with their admission status.</p>\n<p>A total of 274,436 patients were captured in the Pakistan National Emergency Department Surveillance (Pak-NEDS), out of which 259,288 patients were included in our study. Vital signs information was available for 90,569 (34.9%) patients and the most commonly recorded vitals sign was pulse (25.7%). Important information such as level of consciousness was missing in the majority of patients with head injuries. Based on available information, only 13.3% with chest pain, 12.8% with fever and 12.8% patients with diarrhea could be classified as high-acuity. In addition, hospital admission rates were two- to four-times higher among patients with abnormal vital signs, compared with those with normal vital signs.</p>\n<p>Most patients seen in the EDs in Pakistan did not have any documented vital signs during their visit. Where available, the presence of abnormal vital signs were associated with higher chances of admission to the hospital for the most common presenting symptoms.</p>",
+        "keywords": [
+            "Emergency Department",
+            "Triage",
+            "Guidelines",
+            "Surveillance",
+            "Pakistan"
+        ],
+        "tables": [
+            {
+                "table_id": "T1",
+                "body": "<thead><tr><th align=\"center\" colspan=\"2\">Characteristics</th><th align=\"center\" colspan=\"2\">Sample for current analysis<break />(n = 259,288)</th><th align=\"center\" colspan=\"2\">Patients with triage done<break />(n = 72,789)</th></tr><tr><th /><th /><th colspan=\"4\"><hr /></th></tr><tr><th /><th /><th align=\"center\">N</th><th align=\"center\">% [95% CI]</th><th align=\"center\">N</th><th align=\"center\">% [95% CI]</th></tr></thead><tbody><tr><td align=\"center\"><italic>Sex</italic></td><td align=\"center\">Male</td><td align=\"center\">153,298</td><td align=\"center\">59.1</td><td align=\"center\">41,996</td><td align=\"center\">57.7</td></tr><tr><td /><td align=\"center\">Female</td><td align=\"center\">99,303</td><td align=\"center\">38.3</td><td align=\"center\">29,760</td><td align=\"center\">40.9</td></tr><tr><td /><td align=\"center\">Missing</td><td align=\"center\">6,687</td><td align=\"center\">2.6</td><td align=\"center\">1,033</td><td align=\"center\">1.4</td></tr><tr><td align=\"center\"><italic>Age Group</italic></td><td align=\"center\">12-14 y</td><td align=\"center\">3,136</td><td align=\"center\">1.2</td><td align=\"center\">818</td><td align=\"center\">1.1</td></tr><tr><td /><td align=\"center\">15-24 y</td><td align=\"center\">59,797</td><td align=\"center\">23.1</td><td align=\"center\">14,883</td><td align=\"center\">20.5</td></tr><tr><td /><td align=\"center\">25-44 y</td><td align=\"center\">123,421</td><td align=\"center\">47.6</td><td align=\"center\">35,458</td><td align=\"center\">48.7</td></tr><tr><td /><td align=\"center\">45-64 y</td><td align=\"center\">47,363</td><td align=\"center\">18.3</td><td align=\"center\">14,333</td><td align=\"center\">19.7</td></tr><tr><td /><td align=\"center\">65+ y</td><td align=\"center\">10,684</td><td align=\"center\">4.1</td><td align=\"center\">3,503</td><td align=\"center\">4.8</td></tr><tr><td /><td align=\"center\">Missing</td><td align=\"center\">14,887</td><td align=\"center\">5.4</td><td align=\"center\">3,794</td><td align=\"center\">5.2</td></tr><tr><td align=\"center\"><italic>Hospital</italic></td><td align=\"center\">Public</td><td align=\"center\">198,318</td><td align=\"center\">76.5 [76.3, 76.6]</td><td align=\"center\">42,275</td><td align=\"center\">58.1 [57.7, 58.4]</td></tr><tr><td /><td align=\"center\">Private</td><td align=\"center\">60,970</td><td align=\"center\">23.5 [23.4, 23.7]</td><td align=\"center\">30,514</td><td align=\"center\">41.9 [41.6, 42.3]</td></tr></tbody>",
+                "caption": "<p>General characteristics of study participants (patients &gt;12 years)</p>",
+                "foots": [
+                    "<p>Note: CI = confidence interval</p>"
+                ],
+                "paragraphs": [
+                    {
+                        "text": "<p>Among 259,288 patients who were &gt;12 years of age, 153, 298 (59.1%) were males. The most common age group to be seen in the ED was 25-44 years (47.6%), followed by 15-24 years (23.1%). Table <xref ref-type=\"table\" rid=\"T1\">1</xref> summarizes the demographic characteristics of our sample. The majority (76.5%, 95%CI = [76.3%, 76.6%]) of the subjects in our study were seen in the public sector hospitals. Overall, 90,569 (34.9%) patients had documented vital signs. The most commonly recorded vital signs were pulse 66,695 (25.7%), temperature 61,143 (23.6%), blood pressure 51,633 (19.9%), and respiratory rate 28,599 (11.0%). Oxygen saturation measured via pulse oximetry (12,450, 4.8%) and Glasgow coma score (GCS) (5,994, 2.3%), were infrequently recorded in the ED. A pain scale was available in 2,473 (1.1%) patients with various clinical conditions (Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>).</p>",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "Male",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "153,298",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "59.1",
+                        "cited_in": [
+                            "<p>Among 259,288 patients who were &gt;12 years of age, 153, 298 (59.1%) were males. The most common age group to be seen in the ED was 25-44 years (47.6%), followed by 15-24 years (23.1%). Table <xref ref-type=\"table\" rid=\"T1\">1</xref> summarizes the demographic characteristics of our sample. The majority (76.5%, 95%CI = [76.3%, 76.6%]) of the subjects in our study were seen in the public sector hospitals. Overall, 90,569 (34.9%) patients had documented vital signs. The most commonly recorded vital signs were pulse 66,695 (25.7%), temperature 61,143 (23.6%), blood pressure 51,633 (19.9%), and respiratory rate 28,599 (11.0%). Oxygen saturation measured via pulse oximetry (12,450, 4.8%) and Glasgow coma score (GCS) (5,994, 2.3%), were infrequently recorded in the ED. A pain scale was available in 2,473 (1.1%) patients with various clinical conditions (Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>).</p>"
+                        ]
+                    },
+                    {
+                        "content": "41,996",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "57.7",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Female",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "99,303",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "38.3",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "29,760",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "40.9",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Missing",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6,687",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.6",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1,033",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.4",
+                        "cited_in": [
+                            "<p>Table <xref ref-type=\"table\" rid=\"T2\">2</xref> depicts the top ten presenting complaints and the corresponding vital signs information. The top ten complaints are fever (12.2% of total sample), non-head/face/neck injuries (11.4%), abdominal pain (8.9%), chest pain (7.8%), head/neck/face injuries (5.0%), vomiting (4.1%), headache (3.7%), shortness of breath (3.3%), back pain (3.2%) and diarrhea (2.3%). The most commonly available vital signs for these specific presenting complaints were blood pressure (27.8% of all ten top ten presenting complaints), pulse (25.8%) and temperature (24.0%). Important vital signs pertinent to each symptom were absent to varying extents; for example, temperature information was not available for 61.3% of patients with fever as a presenting complaint, and respiratory rate and oxygen saturation were not recorded in 83.3% patients presenting with a chief complaint of shortness of breath.</p>",
+                            "<p>Figure <xref ref-type=\"fig\" rid=\"F2\">2</xref> depicts the distribution and final disposition of the top 10 complaints in patients with either normal or abnormal vital signs. With respect to disposition from the ED, the majority of patients with fever, vomiting and diarrhea were discharged (95.6%, 94.1%, 96.2%, respectively). A larger proportion of patients with chest pain (18.7%), shortness of breath (12.3%), and head injury (11.4%) were admitted for further workup and treatment.</p>"
+                        ]
+                    },
+                    {
+                        "content": "12-14 y",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3,136",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.2",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "818",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.1",
+                        "cited_in": [
+                            "<p>Among 259,288 patients who were &gt;12 years of age, 153, 298 (59.1%) were males. The most common age group to be seen in the ED was 25-44 years (47.6%), followed by 15-24 years (23.1%). Table <xref ref-type=\"table\" rid=\"T1\">1</xref> summarizes the demographic characteristics of our sample. The majority (76.5%, 95%CI = [76.3%, 76.6%]) of the subjects in our study were seen in the public sector hospitals. Overall, 90,569 (34.9%) patients had documented vital signs. The most commonly recorded vital signs were pulse 66,695 (25.7%), temperature 61,143 (23.6%), blood pressure 51,633 (19.9%), and respiratory rate 28,599 (11.0%). Oxygen saturation measured via pulse oximetry (12,450, 4.8%) and Glasgow coma score (GCS) (5,994, 2.3%), were infrequently recorded in the ED. A pain scale was available in 2,473 (1.1%) patients with various clinical conditions (Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>).</p>"
+                        ]
+                    },
+                    {
+                        "content": "15-24 y",
+                        "cited_in": [
+                            "<p>Among 259,288 patients who were &gt;12 years of age, 153, 298 (59.1%) were males. The most common age group to be seen in the ED was 25-44 years (47.6%), followed by 15-24 years (23.1%). Table <xref ref-type=\"table\" rid=\"T1\">1</xref> summarizes the demographic characteristics of our sample. The majority (76.5%, 95%CI = [76.3%, 76.6%]) of the subjects in our study were seen in the public sector hospitals. Overall, 90,569 (34.9%) patients had documented vital signs. The most commonly recorded vital signs were pulse 66,695 (25.7%), temperature 61,143 (23.6%), blood pressure 51,633 (19.9%), and respiratory rate 28,599 (11.0%). Oxygen saturation measured via pulse oximetry (12,450, 4.8%) and Glasgow coma score (GCS) (5,994, 2.3%), were infrequently recorded in the ED. A pain scale was available in 2,473 (1.1%) patients with various clinical conditions (Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>).</p>"
+                        ]
+                    },
+                    {
+                        "content": "59,797",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "23.1",
+                        "cited_in": [
+                            "<p>Among 259,288 patients who were &gt;12 years of age, 153, 298 (59.1%) were males. The most common age group to be seen in the ED was 25-44 years (47.6%), followed by 15-24 years (23.1%). Table <xref ref-type=\"table\" rid=\"T1\">1</xref> summarizes the demographic characteristics of our sample. The majority (76.5%, 95%CI = [76.3%, 76.6%]) of the subjects in our study were seen in the public sector hospitals. Overall, 90,569 (34.9%) patients had documented vital signs. The most commonly recorded vital signs were pulse 66,695 (25.7%), temperature 61,143 (23.6%), blood pressure 51,633 (19.9%), and respiratory rate 28,599 (11.0%). Oxygen saturation measured via pulse oximetry (12,450, 4.8%) and Glasgow coma score (GCS) (5,994, 2.3%), were infrequently recorded in the ED. A pain scale was available in 2,473 (1.1%) patients with various clinical conditions (Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>).</p>"
+                        ]
+                    },
+                    {
+                        "content": "14,883",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "20.5",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "25-44 y",
+                        "cited_in": [
+                            "<p>Among 259,288 patients who were &gt;12 years of age, 153, 298 (59.1%) were males. The most common age group to be seen in the ED was 25-44 years (47.6%), followed by 15-24 years (23.1%). Table <xref ref-type=\"table\" rid=\"T1\">1</xref> summarizes the demographic characteristics of our sample. The majority (76.5%, 95%CI = [76.3%, 76.6%]) of the subjects in our study were seen in the public sector hospitals. Overall, 90,569 (34.9%) patients had documented vital signs. The most commonly recorded vital signs were pulse 66,695 (25.7%), temperature 61,143 (23.6%), blood pressure 51,633 (19.9%), and respiratory rate 28,599 (11.0%). Oxygen saturation measured via pulse oximetry (12,450, 4.8%) and Glasgow coma score (GCS) (5,994, 2.3%), were infrequently recorded in the ED. A pain scale was available in 2,473 (1.1%) patients with various clinical conditions (Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>).</p>"
+                        ]
+                    },
+                    {
+                        "content": "123,421",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "47.6",
+                        "cited_in": [
+                            "<p>Among 259,288 patients who were &gt;12 years of age, 153, 298 (59.1%) were males. The most common age group to be seen in the ED was 25-44 years (47.6%), followed by 15-24 years (23.1%). Table <xref ref-type=\"table\" rid=\"T1\">1</xref> summarizes the demographic characteristics of our sample. The majority (76.5%, 95%CI = [76.3%, 76.6%]) of the subjects in our study were seen in the public sector hospitals. Overall, 90,569 (34.9%) patients had documented vital signs. The most commonly recorded vital signs were pulse 66,695 (25.7%), temperature 61,143 (23.6%), blood pressure 51,633 (19.9%), and respiratory rate 28,599 (11.0%). Oxygen saturation measured via pulse oximetry (12,450, 4.8%) and Glasgow coma score (GCS) (5,994, 2.3%), were infrequently recorded in the ED. A pain scale was available in 2,473 (1.1%) patients with various clinical conditions (Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>).</p>"
+                        ]
+                    },
+                    {
+                        "content": "35,458",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "48.7",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "45-64 y",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "47,363",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "18.3",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "14,333",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "19.7",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "65+ y",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "10,684",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "4.1",
+                        "cited_in": [
+                            "<p>Table <xref ref-type=\"table\" rid=\"T2\">2</xref> depicts the top ten presenting complaints and the corresponding vital signs information. The top ten complaints are fever (12.2% of total sample), non-head/face/neck injuries (11.4%), abdominal pain (8.9%), chest pain (7.8%), head/neck/face injuries (5.0%), vomiting (4.1%), headache (3.7%), shortness of breath (3.3%), back pain (3.2%) and diarrhea (2.3%). The most commonly available vital signs for these specific presenting complaints were blood pressure (27.8% of all ten top ten presenting complaints), pulse (25.8%) and temperature (24.0%). Important vital signs pertinent to each symptom were absent to varying extents; for example, temperature information was not available for 61.3% of patients with fever as a presenting complaint, and respiratory rate and oxygen saturation were not recorded in 83.3% patients presenting with a chief complaint of shortness of breath.</p>",
+                            "<p>Figure <xref ref-type=\"fig\" rid=\"F2\">2</xref> depicts the distribution and final disposition of the top 10 complaints in patients with either normal or abnormal vital signs. With respect to disposition from the ED, the majority of patients with fever, vomiting and diarrhea were discharged (95.6%, 94.1%, 96.2%, respectively). A larger proportion of patients with chest pain (18.7%), shortness of breath (12.3%), and head injury (11.4%) were admitted for further workup and treatment.</p>"
+                        ]
+                    },
+                    {
+                        "content": "3,503",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "4.8",
+                        "cited_in": [
+                            "<p>Among 259,288 patients who were &gt;12 years of age, 153, 298 (59.1%) were males. The most common age group to be seen in the ED was 25-44 years (47.6%), followed by 15-24 years (23.1%). Table <xref ref-type=\"table\" rid=\"T1\">1</xref> summarizes the demographic characteristics of our sample. The majority (76.5%, 95%CI = [76.3%, 76.6%]) of the subjects in our study were seen in the public sector hospitals. Overall, 90,569 (34.9%) patients had documented vital signs. The most commonly recorded vital signs were pulse 66,695 (25.7%), temperature 61,143 (23.6%), blood pressure 51,633 (19.9%), and respiratory rate 28,599 (11.0%). Oxygen saturation measured via pulse oximetry (12,450, 4.8%) and Glasgow coma score (GCS) (5,994, 2.3%), were infrequently recorded in the ED. A pain scale was available in 2,473 (1.1%) patients with various clinical conditions (Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>).</p>"
+                        ]
+                    },
+                    {
+                        "content": "Missing",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "14,887",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5.4",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3,794",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5.2",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Public",
+                        "cited_in": [
+                            "<p xmlns:ns0=\"http://www.w3.org/1999/xlink\">This article has been published as part of <italic>BMC Emergency Medicine </italic>Volume 15 Supplement 2, 2015: Articles from the Pakistan National Emergency Departments Surveillance Study (Pak-NEDS). The full contents of the supplement are available online at <ext-link ext-link-type=\"uri\" ns0:href=\"http://www.biomedcentral.com/bmcemergmed/supplements/15/S2\">http://www.biomedcentral.com/bmcemergmed/supplements/15/S2</ext-link>. Publication of this supplement was funded by the Johns Hopkins School of Public Health.</p>"
+                        ]
+                    },
+                    {
+                        "content": "198,318",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "76.5 [76.3, 76.6]",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "42,275",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "58.1 [57.7, 58.4]",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Private",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "60,970",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "23.5 [23.4, 23.7]",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "30,514",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "41.9 [41.6, 42.3]",
+                        "cited_in": []
+                    }
+                ]
+            },
+            {
+                "table_id": "T2",
+                "body": "<thead><tr><th align=\"left\">Presenting complaints</th><th align=\"left\">N<break />(% of total sample n = 259288)</th><th align=\"left\">*Pulse</th><th align=\"left\">*BP</th><th align=\"left\">* T\u00b0C</th><th align=\"left\">*GCS</th><th align=\"left\">*RR</th><th align=\"left\">*SpO<sub>2</sub></th></tr><tr><th /><th /><th colspan=\"6\"><hr /></th></tr><tr><th /><th /><th align=\"center\" colspan=\"6\">N (% of each presenting complaints)</th></tr></thead><tbody><tr><td align=\"left\">Fever</td><td align=\"left\">31554 (12.2)</td><td align=\"left\">9964 (31.6)</td><td align=\"left\">9645 (30.6)</td><td align=\"left\">12528 (39.7)</td><td align=\"left\">1170 (3.7)</td><td align=\"left\">3797 (12.0)</td><td align=\"left\">1288 (4.1)</td></tr><tr><td align=\"left\">Injury (non-head/face/neck)</td><td align=\"left\">29695 (11.4)</td><td align=\"left\">2767 (9.3)</td><td align=\"left\">3200 (10.8)</td><td align=\"left\">2583 (8.7)</td><td align=\"left\">441 (1.5)</td><td align=\"left\">2267 (7.6)</td><td align=\"left\">1437 (4.8)</td></tr><tr><td align=\"left\">Abdominal pain</td><td align=\"left\">23170 (8.9)</td><td align=\"left\">5886 (25.4)</td><td align=\"left\">5986 (25.8)</td><td align=\"left\">4516 (19.5))</td><td align=\"left\">311 (1.3)</td><td align=\"left\">1520 (6.6)</td><td align=\"left\">732 (3.2)</td></tr><tr><td align=\"left\">Chest pain</td><td align=\"left\">20130 (7.8)</td><td align=\"left\">8630 (42.9)</td><td align=\"left\">9076 (45.1)</td><td align=\"left\">7008 (34.8)</td><td align=\"left\">1371 (6.8)</td><td align=\"left\">5157 (25.6)</td><td align=\"left\">1409 (7.0)</td></tr><tr><td align=\"left\">Injury (Head/face/neck)</td><td align=\"left\">13309 (5.0)</td><td align=\"left\">1769 (13.3)</td><td align=\"left\">2064 (15.5)</td><td align=\"left\">1669 (12.5)</td><td align=\"left\">394 (3.0)</td><td align=\"left\">1418 (10.7)</td><td align=\"left\">852 (6.4)</td></tr><tr><td align=\"left\">Vomiting</td><td align=\"left\">10629 (4.1)</td><td align=\"left\">3135 (29.5)</td><td align=\"left\">3372 (31.7)</td><td align=\"left\">2508 (23.6)</td><td align=\"left\">211 (2.0)</td><td align=\"left\">1098 (10.3)</td><td align=\"left\">606 (5.7)</td></tr><tr><td align=\"left\">Headache</td><td align=\"left\">9516 (3.7)</td><td align=\"left\">3267 (34.3)</td><td align=\"left\">3706 (38.9)</td><td align=\"left\">2779 (29.2)</td><td align=\"left\">286 (3.0)</td><td align=\"left\">887 (9.3)</td><td align=\"left\">271 (2.8)</td></tr><tr><td align=\"left\">Shortness of breath</td><td align=\"left\">8548 (3.3)</td><td align=\"left\">2711 (31.7)</td><td align=\"left\">3087 (36.1)</td><td align=\"left\">1936 (22.6)</td><td align=\"left\">219 (2.6)</td><td align=\"left\">1436 (16.8)</td><td align=\"left\">611 (7.2)</td></tr><tr><td align=\"left\">Back pain</td><td align=\"left\">8239 (3.2)</td><td align=\"left\">1557 (18.9)</td><td align=\"left\">1597 (19.4)</td><td align=\"left\">1392 (16.9)</td><td align=\"left\">39 (0.5)</td><td align=\"left\">368 (4.5)</td><td align=\"left\">169 (2.1)</td></tr><tr><td align=\"left\">Diarrhea</td><td align=\"left\">5954 (2.3)</td><td align=\"left\">1835 (30.8)</td><td align=\"left\">1916 (32.2)</td><td align=\"left\">1588 (26.7)</td><td align=\"left\">108 (1.8)</td><td align=\"left\">608 (10.2)</td><td align=\"left\">244 (4.1)</td></tr><tr><td align=\"left\">Total</td><td align=\"left\">160744<break />(62.0)</td><td align=\"left\">41521 (25.8)</td><td align=\"left\">43649 (27.8)</td><td align=\"left\">38507<break />(24.0)</td><td align=\"left\">4550<break />(2.8)</td><td align=\"left\">18556<break />(11.5)</td><td align=\"left\">7619<break />(4.7)</td></tr></tbody>",
+                "caption": "<p>Frequency of vital signs for top ten presenting complaints (patients &gt;12 years)</p>",
+                "foots": [
+                    "<p>Note:</p>",
+                    "<p>\u2022 BP = SBP (Systolic Blood Pressure) &amp; DBP (Diastolic Blood Pressure); T\u00b0C = temperature in Celsius; GCS = Gaslow Coma Scale; RR = Respiratory Rate; SpO<sub>2 </sub>= Oxygen saturation</p>",
+                    "<p>\u2022 * Number of cases (percentage) with available information</p>",
+                    "<p>\u2022 Bolded cells indicate critical information pertinent to case presentation</p>"
+                ],
+                "paragraphs": [
+                    {
+                        "text": "<p>Table <xref ref-type=\"table\" rid=\"T2\">2</xref> depicts the top ten presenting complaints and the corresponding vital signs information. The top ten complaints are fever (12.2% of total sample), non-head/face/neck injuries (11.4%), abdominal pain (8.9%), chest pain (7.8%), head/neck/face injuries (5.0%), vomiting (4.1%), headache (3.7%), shortness of breath (3.3%), back pain (3.2%) and diarrhea (2.3%). The most commonly available vital signs for these specific presenting complaints were blood pressure (27.8% of all ten top ten presenting complaints), pulse (25.8%) and temperature (24.0%). Important vital signs pertinent to each symptom were absent to varying extents; for example, temperature information was not available for 61.3% of patients with fever as a presenting complaint, and respiratory rate and oxygen saturation were not recorded in 83.3% patients presenting with a chief complaint of shortness of breath.</p>",
+                        "citations": []
+                    },
+                    {
+                        "text": "<p>Table <xref ref-type=\"table\" rid=\"T3\">3</xref> presents the distribution of high-acuity patients based on the presence of a priori defined abnormal vital signs and selected presenting complaints. When abnormal clinical signs were matched with the presenting conditions, we were able to identify 12.8% patients with an abnormal shock index (SI), and abnormal temperature (26.4%) who presented with fever. Similarly, 13.3% patients with chest pain, 12.9% with diarrhea and 10.2% patients with vomiting were found to be hemodynamically unstable, as indicated by an abnormal SI. The Glasgow coma score (GCS) was very infrequently recorded even among patients with closed head injuries and headaches (3.0% and 3.0% respectively). (Table <xref ref-type=\"table\" rid=\"T2\">2</xref>) Only 11.6% patients with shortness of breath had any information related to respiratory rate or oxygen saturation.</p>",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "Fever",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "31554 (12.2)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "9964 (31.6)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "9645 (30.6)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "12528 (39.7)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1170 (3.7)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3797 (12.0)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1288 (4.1)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Injury (non-head/face/neck)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "29695 (11.4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2767 (9.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3200 (10.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2583 (8.7)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "441 (1.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2267 (7.6)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1437 (4.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Abdominal pain",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "23170 (8.9)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5886 (25.4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5986 (25.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "4516 (19.5))",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "311 (1.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1520 (6.6)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "732 (3.2)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Chest pain",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "20130 (7.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "8630 (42.9)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "9076 (45.1)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "7008 (34.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1371 (6.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5157 (25.6)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1409 (7.0)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Injury (Head/face/neck)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "13309 (5.0)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1769 (13.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2064 (15.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1669 (12.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "394 (3.0)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1418 (10.7)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "852 (6.4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Vomiting",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "10629 (4.1)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3135 (29.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3372 (31.7)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2508 (23.6)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "211 (2.0)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1098 (10.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "606 (5.7)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Headache",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "9516 (3.7)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3267 (34.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3706 (38.9)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2779 (29.2)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "286 (3.0)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "887 (9.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "271 (2.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Shortness of breath",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "8548 (3.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2711 (31.7)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3087 (36.1)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1936 (22.6)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "219 (2.6)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1436 (16.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "611 (7.2)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Back pain",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "8239 (3.2)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1557 (18.9)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1597 (19.4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1392 (16.9)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "39 (0.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "368 (4.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "169 (2.1)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Diarrhea",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5954 (2.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1835 (30.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1916 (32.2)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1588 (26.7)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "108 (1.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "608 (10.2)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "244 (4.1)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Total",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "160744",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "41521 (25.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "43649 (27.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "38507",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "4550",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "18556",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "7619",
+                        "cited_in": []
+                    }
+                ]
+            },
+            {
+                "table_id": "T3",
+                "body": "<thead><tr><th align=\"center\">Presenting complaints</th><th align=\"center\">N (% of total sample n = 259288)</th><th align=\"center\">Abnormal Shock Index</th><th align=\"center\">Low GCS or Altered Consciousness</th><th align=\"center\">Abnormal Temperature</th><th align=\"center\">Abnormal RR or abnormal SpO<sub>2</sub></th><th align=\"center\">Very High Blood Pressure</th></tr><tr><th /><th /><th colspan=\"5\"><hr /></th></tr><tr><th /><th /><th align=\"center\" colspan=\"5\">(N, % of each complaint)</th></tr></thead><tbody><tr><td align=\"center\">Fever</td><td align=\"center\">31554 (12.2)</td><td align=\"center\">4050 (12.8)</td><td align=\"center\">--</td><td align=\"center\">8319 (26.4)</td><td align=\"center\">--</td><td align=\"center\">--</td></tr><tr><td align=\"center\">Abdominal pain</td><td align=\"center\">23170 (8.9)</td><td align=\"center\">1945 (8.4)</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">--</td></tr><tr><td align=\"center\">Chest pain</td><td align=\"center\">20130 (7.8)</td><td align=\"center\">2678 (13.3)</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">69 (0.3)</td></tr><tr><td align=\"center\">Vomiting</td><td align=\"center\">10629 (4.1)</td><td align=\"center\">1084 (10.2)</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">--</td></tr><tr><td align=\"center\">Diarrhea</td><td align=\"center\">5954 (2.3)</td><td align=\"center\">765 (12.9)</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">--</td></tr><tr><td align=\"center\">Back pain</td><td align=\"center\">8239 (3.2)</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">22 (0.3)</td></tr><tr><td align=\"center\">Head/face/neck injury</td><td align=\"center\">13309 (5.0)</td><td align=\"center\">--</td><td align=\"center\">746 (5.6)</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">--</td></tr><tr><td align=\"center\">Headache</td><td align=\"center\">9516 (3.7)</td><td align=\"center\">--</td><td align=\"center\">188 (2.0)</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">--</td></tr><tr><td align=\"center\">Shortness of breath</td><td align=\"center\">8548 (3.3)</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">--</td><td align=\"center\">994 (11.6)</td><td align=\"center\">--</td></tr></tbody>",
+                "caption": "<p>High-Acuity Patients in the Pak-NEDS Study, Based on Vital Signs and Selected Presenting Complaints (patients &gt;12 years)</p>",
+                "foots": [
+                    "<p>Note:</p>",
+                    "<p>\u2022 GCS = Gaslow Coma Scale; RR = Respiratory Rate; SpO<sub>2 </sub>= Oxygen saturation</p>",
+                    "<p>\u2022 Ranges for reported vital signs in this table are as follows: Abnormal shock index=\"shock index&lt;0.5 or &gt;0.7\"; Low GCS=\"3\u2264GCS\u226412\"; Abnormal temperature=\"&lt;36.5\u00b0C (97.8 \u00b0F) or &gt; 38\u00b0C (100.4 \u00b0F)\"; Abnormal RR=\"RR&lt;12/min or &gt;18/min\"; Abnormal SpO<sub>2 </sub>= \"SpO<sub>2 </sub>\u226494%\"; Very high blood pressure=\"Systolic Blood Pressure &gt;180 mm/Hg\"</p>"
+                ],
+                "paragraphs": [
+                    {
+                        "text": "<p>Table <xref ref-type=\"table\" rid=\"T3\">3</xref> presents the distribution of high-acuity patients based on the presence of a priori defined abnormal vital signs and selected presenting complaints. When abnormal clinical signs were matched with the presenting conditions, we were able to identify 12.8% patients with an abnormal shock index (SI), and abnormal temperature (26.4%) who presented with fever. Similarly, 13.3% patients with chest pain, 12.9% with diarrhea and 10.2% patients with vomiting were found to be hemodynamically unstable, as indicated by an abnormal SI. The Glasgow coma score (GCS) was very infrequently recorded even among patients with closed head injuries and headaches (3.0% and 3.0% respectively). (Table <xref ref-type=\"table\" rid=\"T2\">2</xref>) Only 11.6% patients with shortness of breath had any information related to respiratory rate or oxygen saturation.</p>",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "Fever",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "31554 (12.2)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "4050 (12.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "8319 (26.4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "Abdominal pain",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "23170 (8.9)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1945 (8.4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "Chest pain",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "20130 (7.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2678 (13.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "69 (0.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Vomiting",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "10629 (4.1)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1084 (10.2)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "Diarrhea",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5954 (2.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "765 (12.9)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "Back pain",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "8239 (3.2)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "22 (0.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Head/face/neck injury",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "13309 (5.0)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "746 (5.6)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "Headache",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "9516 (3.7)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "188 (2.0)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "Shortness of breath",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "8548 (3.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    },
+                    {
+                        "content": "994 (11.6)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "--",
+                        "cited_in": [
+                            "<p>In our study we found that that most of the critical information required for simple assessment among common clinical presentations in the EDs of Pakistan was missing. Only 11.6% patients with shortness of breath had any information related to abnormal respiratory rate or oxygen saturation, which suggests that the current decision-making was likely based on criteria that did not include considerations for vitals. The recording of ED vital signs is critical to identifying and treating those who need care first, thus maximizing the use of available resources for patient benefit and minimizing time to definitive treatment [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>,<xref ref-type=\"bibr\" rid=\"B18\">18</xref>]. Most urban tertiary centers in developing countries are overwhelmed with high volumes of semi-urgent conditions, and are facing resource constraints for critically ill patients [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>,<xref ref-type=\"bibr\" rid=\"B11\">11</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. Therefore, vital signs checked at the initial assessment along with other basic clinical information - often termed as \"triage\" -- is helpful in directing ED resources appropriately. Essential information such as signs of physiological deterioration work as a supplement to presenting symptoms, which allows for easier decision-making [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>"
+                        ]
+                    }
+                ]
+            },
+            {
+                "table_id": "T4",
+                "body": "<thead><tr><th align=\"center\">Presenting complaints</th><th align=\"center\">N</th><th align=\"center\">Vital sign available</th><th align=\"center\">Normal vital sign</th><th align=\"center\">Admitted</th><th align=\"center\">Abnormal vital sign</th><th align=\"center\">Admitted</th><th align=\"center\">P-Value***</th></tr></thead><tbody><tr><td /><td /><td align=\"center\"><bold>N (%)*</bold></td><td align=\"center\"><bold>N (%)*</bold></td><td align=\"center\"><bold>N (%)**</bold></td><td align=\"center\"><bold>N (%)*</bold></td><td align=\"center\"><bold>N (%)**</bold></td><td /></tr><tr><td colspan=\"8\"><hr /></td></tr><tr><td align=\"center\">Fever</td><td align=\"center\">31554</td><td align=\"center\">16800 (53.2)</td><td align=\"center\">6347 (20.1)</td><td align=\"center\"><bold>139 (2.2)</bold></td><td align=\"center\">10453 (33.1)</td><td align=\"center\"><bold>443 (4.2)</bold></td><td align=\"center\">0.000</td></tr><tr><td align=\"center\">Injury (non-head/face/neck)</td><td align=\"center\">29695</td><td align=\"center\">5786 (19.5)</td><td align=\"center\">3280 (11.0)</td><td align=\"center\"><bold>297 (9.1)</bold></td><td align=\"center\">2506 (8.4)</td><td align=\"center\"><bold>193 (7.7)</bold></td><td align=\"center\">0.067</td></tr><tr><td align=\"center\">Abdominal pain</td><td align=\"center\">23170</td><td align=\"center\">15947 (68.8)</td><td align=\"center\">12014 (51.9)</td><td align=\"center\"><bold>252 (2.1)</bold></td><td align=\"center\">3933 (17.0)</td><td align=\"center\"><bold>195 (5.0)</bold></td><td align=\"center\">0.000</td></tr><tr><td align=\"center\">Chest pain</td><td align=\"center\">20130</td><td align=\"center\">9921 (49.3)</td><td align=\"center\">4931 (24.5)</td><td align=\"center\"><bold>545 (11.1)</bold></td><td align=\"center\">4990 (24.8)</td><td align=\"center\"><bold>998 (20.0)</bold></td><td align=\"center\">0.000</td></tr><tr><td align=\"center\">Injury (Head/face/neck)</td><td align=\"center\">13309</td><td align=\"center\">3175 (23.9)</td><td align=\"center\">1523 (11.4)</td><td align=\"center\"><bold>156 (10.2)</bold></td><td align=\"center\">1652 (12.4)</td><td align=\"center\"><bold>187 (11.3)</bold></td><td align=\"center\">0.329</td></tr><tr><td align=\"center\">Vomiting</td><td align=\"center\">10629</td><td align=\"center\">6586 (62.0)</td><td align=\"center\">4415 (41.5)</td><td align=\"center\"><bold>87 (2.0)</bold></td><td align=\"center\">2171 (20.4)</td><td align=\"center\"><bold>95 (4.4)</bold></td><td align=\"center\">0.000</td></tr><tr><td align=\"center\">Headache</td><td align=\"center\">9516</td><td align=\"center\">5380 (56.5)</td><td align=\"center\">3201 (33.6)</td><td align=\"center\"><bold>39 (1.2)</bold></td><td align=\"center\">2179 (22.9)</td><td align=\"center\"><bold>53 (2.4)</bold></td><td align=\"center\">0.001</td></tr><tr><td align=\"center\">Shortness of breath</td><td align=\"center\">8548</td><td align=\"center\">4915 (57.5)</td><td align=\"center\">3462 (40.5)</td><td align=\"center\"><bold>153 (4.4)</bold></td><td align=\"center\">1453 (17.0)</td><td align=\"center\"><bold>250 (17.2)</bold></td><td align=\"center\">0.000</td></tr><tr><td align=\"center\">Back pain</td><td align=\"center\">8239</td><td align=\"center\">6342 (77.0)</td><td align=\"center\">5206 (63.2)</td><td align=\"center\"><bold>17 (0.3)</bold></td><td align=\"center\">1136 (13.8)</td><td align=\"center\"><bold>15 (1.3)</bold></td><td align=\"center\">0.000</td></tr><tr><td align=\"center\">Diarrhea</td><td align=\"center\">5954</td><td align=\"center\">3725 (62.6)</td><td align=\"center\">2645 (44.4)</td><td align=\"center\"><bold>44 (1.7)</bold></td><td align=\"center\">1080 (18.1)</td><td align=\"center\"><bold>54 (5.0)</bold></td><td align=\"center\">0.000</td></tr></tbody>",
+                "caption": "<p>Disposition of top ten presenting compliant patients with normal or abnormal vital signs (patients &gt;12 years)</p>",
+                "foots": [
+                    "<p>Note: Abnormal vital sign include the presence of any of the following conditions: Abnormal shock index=\"shock index&lt;0.5 or &gt;0.7\"; Low GCS=\"3\u2264GCS\u226412\"; Abnormal temperature=\"&lt;36.5\u00b0C (97.8 \u00b0F) or &gt; 38\u00b0C (100.4 \u00b0F)\"; Abnormal RR=\"RR&lt;12/min or &gt;18/min\"; Abnormal SpO<sub>2 </sub>= \"SpO<sub>2 </sub>\u226494%\"; Very high blood pressure=\"Systolic Blood Pressure &gt;180 mm/Hg\"</p>",
+                    "<p>* %: The percentage of available vital sign, normal vital sign, and abnormal vital sign compare to total sample size of each presenting complaint</p>",
+                    "<p>** %: The percentage of admitted patients within the number of patients with normal or abnormal vital sign</p>",
+                    "<p>***: P-value of chi-squared test to compare admission between patients with normal vital signs and those with abnormal vital signs</p>"
+                ],
+                "paragraphs": [
+                    {
+                        "text": "<p>In Table <xref ref-type=\"table\" rid=\"T4\">4</xref> the hospital admission percentage was separately presented for patients with normal vital signs and those with abnormal vital signs. The admission percentage is higher for patients with any abnormal signs who presented with fever, abdominal pain, chest pain, vomiting, headache, shortness of breath, back pain and diarrhea (P &lt; 0.01 respectively).</p>",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "Fever",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "31554",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "16800 (53.2)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6347 (20.1)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "10453 (33.1)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.000",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Injury (non-head/face/neck)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "29695",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5786 (19.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3280 (11.0)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2506 (8.4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.067",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Abdominal pain",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "23170",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "15947 (68.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "12014 (51.9)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3933 (17.0)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.000",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Chest pain",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "20130",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "9921 (49.3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "4931 (24.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "4990 (24.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.000",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Injury (Head/face/neck)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "13309",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3175 (23.9)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1523 (11.4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1652 (12.4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.329",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Vomiting",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "10629",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6586 (62.0)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "4415 (41.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2171 (20.4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.000",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Headache",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "9516",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5380 (56.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3201 (33.6)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2179 (22.9)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.001",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Shortness of breath",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "8548",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "4915 (57.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3462 (40.5)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1453 (17.0)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.000",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Back pain",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "8239",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6342 (77.0)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5206 (63.2)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1136 (13.8)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.000",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Diarrhea",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5954",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3725 (62.6)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2645 (44.4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1080 (18.1)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.000",
+                        "cited_in": []
+                    }
+                ]
+            }
+        ],
+        "figures": [
+            {
+                "fig_id": "F1",
+                "caption": "<caption><p><bold>Available vital signs for Pakistan National Emergency Department Surveillance patients (n = 259,288)</bold>.</p></caption>",
+                "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4682394/bin/1471-227X-15-S2-S10-1.jpg"
+            },
+            {
+                "fig_id": "F2",
+                "caption": "<caption><p><bold>Admission disposition of the top ten presenting complaints in Pakistan National Emergency Department Surveillance study (n = 259,288)</bold>. Note: Inj-NH = injuries (non head/face/neck); Abdo = abdominal pain; Chest = chest pain; Inj-H = head/face/neck injury; Vomit = vomiting; Head = headache; Back = back pain; Breath = shortness of breath; Diar = diarrhea.</p></caption>",
+                "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4682394/bin/1471-227X-15-S2-S10-2.jpg"
+            }
+        ]
+    }
+}

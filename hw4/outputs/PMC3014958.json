@@ -1,0 +1,647 @@
+{
+    "pmcid": "PMC3014958",
+    "content": {
+        "title": "Determining the association of medical co-morbidity with subjective and objective cognitive performance in an inner city memory disorders clinic: a retrospective chart review",
+        "abstract": "<p>Medical co-morbidity may be associated with impaired cognitive function based on prior studies. However, no studies to date have determined to what extent this association is linked to medical illness or other factors that may be linked to medical illness (such as education, income levels, depression or subjective memory loss). The present study examined how medical co-morbidity, socioeconomic status (defined as residential SES), education and depression are associated with subjective and objective memory function in a sample of patients recruited from a university affiliated Memory Disorders Clinic located in a large Canadian inner city teaching hospital.</p>\n<p>Data was collected from 85 consecutive referrals to an Inner City Memory Disorders Clinic including socio-demographic characteristics, cognitive status and medical co-morbidity. Descriptive and correlational analyses were conducted.</p>\n<p>Impaired objective cognitive function correlated significantly with increased medical co-morbidity and partially with education but not with residential SES or depression. Elevated memory complaints correlated significantly with depression, inversely with residential SES and not at all with medical co-morbidity or education.</p>\n<p>Increased medical co-morbidity is significantly associated with impaired cognitive performance but not with subjective memory complaints in an Inner City Memory Clinic sample.</p>",
+        "keywords": [],
+        "tables": [
+            {
+                "table_id": "T1",
+                "body": "<thead><tr><th align=\"left\">Characteristics</th><th align=\"center\">N</th><th align=\"center\">Mean (SD)</th><th align=\"center\">Range</th></tr></thead><tbody><tr><td align=\"left\">Age, in years</td><td align=\"center\">85</td><td align=\"center\">69.2(10.0)</td><td align=\"center\">50-89</td></tr><tr><td align=\"left\">Education, in years</td><td align=\"center\">84</td><td align=\"center\">14.0(3.5)</td><td align=\"center\">5-26</td></tr><tr><td align=\"left\">Cumulative Illness Rating</td><td align=\"center\">85</td><td align=\"center\">5.2(2.9)</td><td align=\"center\">0-12</td></tr><tr><td align=\"left\">Gender</td><td /><td /><td /></tr><tr><td align=\"left\">\u2003Male</td><td align=\"center\">48</td><td align=\"center\">50%</td><td /></tr><tr><td align=\"left\">\u2003Female</td><td align=\"center\">48</td><td align=\"center\">50%</td><td /></tr><tr><td align=\"left\">Depression</td><td /><td /><td /></tr><tr><td align=\"left\">\u2003Yes</td><td align=\"center\">38</td><td align=\"center\">44.70%</td><td /></tr><tr><td align=\"left\">\u2003No</td><td align=\"center\">47</td><td align=\"center\">55.30%</td><td /></tr><tr><td align=\"left\">Residential area SES</td><td /><td /><td /></tr><tr><td align=\"left\">\u2003Missing</td><td align=\"center\">4</td><td align=\"center\">4.70%</td><td /></tr><tr><td align=\"left\">\u2003Level 1 (low)</td><td align=\"center\">16</td><td align=\"center\">18.80%</td><td /></tr><tr><td align=\"left\">\u2003Level 2</td><td align=\"center\">11</td><td align=\"center\">12.90%</td><td /></tr><tr><td align=\"left\">\u2003Level 3</td><td align=\"center\">13</td><td align=\"center\">15.30%</td><td /></tr><tr><td align=\"left\">\u2003Level 4</td><td align=\"center\">11</td><td align=\"center\">12.90%</td><td /></tr><tr><td align=\"left\">\u2003Level 5 (high)</td><td align=\"center\">30</td><td align=\"center\">35.30%</td><td /></tr><tr><td align=\"left\">Diagnosis</td><td /><td /><td /></tr><tr><td align=\"left\">\u2003Normal</td><td align=\"center\">18</td><td align=\"center\">21.18%</td><td /></tr><tr><td align=\"left\">\u2003Alzheimer's Dementia</td><td align=\"center\">33</td><td align=\"center\">38.82%</td><td /></tr><tr><td align=\"left\">\u2003Mild Cognitive Impairment</td><td align=\"center\">26</td><td align=\"center\">30.59%</td><td /></tr><tr><td align=\"left\">\u2003Traumatic Brain Injury</td><td align=\"center\">2</td><td align=\"center\">2.35%</td><td /></tr><tr><td align=\"left\">\u2003Other</td><td align=\"center\">6</td><td align=\"center\">7.06%</td><td /></tr><tr><td align=\"left\">Behvioural Neurology Assessment</td><td align=\"center\">85</td><td align=\"center\">89.7(14.4)</td><td align=\"center\">59-111</td></tr><tr><td align=\"left\">Mini Mental State Examination Score</td><td align=\"center\">85</td><td align=\"center\">27(3)</td><td align=\"center\">16-30</td></tr></tbody>",
+                "caption": "<p>Sample characteristics (N = 85)</p>",
+                "foots": [],
+                "paragraphs": [
+                    {
+                        "text": "<p>In terms of descriptive statistics (see Table <xref ref-type=\"table\" rid=\"T1\">1</xref>), the mean age of the sample was 69.2(10.0) years, the mean level of education was 14.0(3.5) years and the mean CIRS score was 5.2(2.9), suggesting most patients had more than one chronic medical illness. Men and women were equally represented in the sample, and 45% had symptoms compatible with major depression. SES status based on residential income quintiles was evenly distributed across the subgroups. The mean MMSE score of subjects was 27/30 and the mean BNA score was 90/114. 22% of the sample was cognitively normal, 39% were demented (Alzheimer's disease, mixed dementia, dementia with lewy bodies, frontal-temporal dementia), 30% had mild cognitive impairment (MCI) and 9% had dementia secondary to some other cause (traumatic brain injury, lyme disease, cancer).</p>",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "Age, in years",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "85",
+                        "cited_in": [
+                            "<p>Data was collected from 85 consecutive referrals to an Inner City Memory Disorders Clinic including socio-demographic characteristics, cognitive status and medical co-morbidity. Descriptive and correlational analyses were conducted.</p>",
+                            "<p>Data from 85 patients aged 50 or above attending a Memory Disorders Clinic located in a large urban centre was examined retrospectively. The sample consisted of community dwelling patients with a variety of diagnoses (dementia, MCI, cognitively normal) referred by their family physicians with a complaint of memory loss. While patients were all medically stable many were on a number of medications. The study was approved by the St. Michaels Hospital Research Ethics Board.</p>",
+                            "<p>Sample characteristics (N = 85)</p>"
+                        ]
+                    },
+                    {
+                        "content": "69.2(10.0)",
+                        "cited_in": [
+                            "<p>In terms of descriptive statistics (see Table <xref ref-type=\"table\" rid=\"T1\">1</xref>), the mean age of the sample was 69.2(10.0) years, the mean level of education was 14.0(3.5) years and the mean CIRS score was 5.2(2.9), suggesting most patients had more than one chronic medical illness. Men and women were equally represented in the sample, and 45% had symptoms compatible with major depression. SES status based on residential income quintiles was evenly distributed across the subgroups. The mean MMSE score of subjects was 27/30 and the mean BNA score was 90/114. 22% of the sample was cognitively normal, 39% were demented (Alzheimer's disease, mixed dementia, dementia with lewy bodies, frontal-temporal dementia), 30% had mild cognitive impairment (MCI) and 9% had dementia secondary to some other cause (traumatic brain injury, lyme disease, cancer).</p>"
+                        ]
+                    },
+                    {
+                        "content": "50-89",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Education, in years",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "84",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "14.0(3.5)",
+                        "cited_in": [
+                            "<p>In terms of descriptive statistics (see Table <xref ref-type=\"table\" rid=\"T1\">1</xref>), the mean age of the sample was 69.2(10.0) years, the mean level of education was 14.0(3.5) years and the mean CIRS score was 5.2(2.9), suggesting most patients had more than one chronic medical illness. Men and women were equally represented in the sample, and 45% had symptoms compatible with major depression. SES status based on residential income quintiles was evenly distributed across the subgroups. The mean MMSE score of subjects was 27/30 and the mean BNA score was 90/114. 22% of the sample was cognitively normal, 39% were demented (Alzheimer's disease, mixed dementia, dementia with lewy bodies, frontal-temporal dementia), 30% had mild cognitive impairment (MCI) and 9% had dementia secondary to some other cause (traumatic brain injury, lyme disease, cancer).</p>"
+                        ]
+                    },
+                    {
+                        "content": "5-26",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Cumulative Illness Rating",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "85",
+                        "cited_in": [
+                            "<p>Data was collected from 85 consecutive referrals to an Inner City Memory Disorders Clinic including socio-demographic characteristics, cognitive status and medical co-morbidity. Descriptive and correlational analyses were conducted.</p>",
+                            "<p>Data from 85 patients aged 50 or above attending a Memory Disorders Clinic located in a large urban centre was examined retrospectively. The sample consisted of community dwelling patients with a variety of diagnoses (dementia, MCI, cognitively normal) referred by their family physicians with a complaint of memory loss. While patients were all medically stable many were on a number of medications. The study was approved by the St. Michaels Hospital Research Ethics Board.</p>",
+                            "<p>Sample characteristics (N = 85)</p>"
+                        ]
+                    },
+                    {
+                        "content": "5.2(2.9)",
+                        "cited_in": [
+                            "<p>In terms of descriptive statistics (see Table <xref ref-type=\"table\" rid=\"T1\">1</xref>), the mean age of the sample was 69.2(10.0) years, the mean level of education was 14.0(3.5) years and the mean CIRS score was 5.2(2.9), suggesting most patients had more than one chronic medical illness. Men and women were equally represented in the sample, and 45% had symptoms compatible with major depression. SES status based on residential income quintiles was evenly distributed across the subgroups. The mean MMSE score of subjects was 27/30 and the mean BNA score was 90/114. 22% of the sample was cognitively normal, 39% were demented (Alzheimer's disease, mixed dementia, dementia with lewy bodies, frontal-temporal dementia), 30% had mild cognitive impairment (MCI) and 9% had dementia secondary to some other cause (traumatic brain injury, lyme disease, cancer).</p>"
+                        ]
+                    },
+                    {
+                        "content": "0-12",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Gender",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Male",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "48",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "50%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Female",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "48",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "50%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Depression",
+                        "cited_in": [
+                            "<p>A diagnosis of dementia was made following comprehensive assessment by a behavioural neurologist and geriatric psychiatrist in accordance with DSM-IV criteria. All patients had brain imaging and routine blood work to rule out reversible causes of dementia as well as cognitive testing using the BNA and MMSE. While cut off scores were not routinely used, most patients with dementia scored below 26 out of 30 on the MMSE or below 80 on the BNA. Depression was diagnosed using DSM-IV criteria following comprehensive assessment by a geriatric psychiatrist.</p>",
+                            "<p>In terms of comparative statistics, medical co-morbidity as measured by the CIRS score correlated negatively with the MMSE score (p &lt; .001), BNA (p &lt; .05) and all BNA sub scores (see Table <xref ref-type=\"table\" rid=\"T2\">2</xref>). Conversely there was no correlation between medical co-morbidity and subjective memory complaints as measured by the PAOF (p &gt; .05). Furthermore, there was no correlation with any of the PAOF sub scores (p &gt; .05). Education correlated, as predicted, with cognition as measured by the MMSE (p &lt; .05), but surprisingly not with the BNA or any of the sub scores. Residential SES correlated negatively with overall subjective memory complaints (p &lt; .001), and with two sub scores, (memory complaints (p &lt; .001) and language complaints (p &lt; .01)) while it correlated positively with executive function (p &lt; .01). Depression did not correlate significantly with any measure of objective cognitive function (p &gt; .05) but positively with overall subjective general complaints (p &lt; .001), memory complaints (p &lt; .001) and language complaints (p &lt; .05) with the exception of complaints in motor function (p &gt; .05). Given that age may be a covariate or suppressor variable in the analyses, we reran the spearman rank correlations analyses with age as a co-variate and the results were similar except for a small change in the magnitude of the observed associations. In addition, we conducted multivariable linear regression to examine whether depression or subjective memory complaints are associated with objective memory/cognitive performance after the effects of medical co-morbidity are removed. We found no significant associations. We felt that it was important to run these additional analyses to ensure that the observed association between medical co-morbidity and objective memory impairment was not being driven by other confounders such as age, depression or subjective memory loss.</p>"
+                        ]
+                    },
+                    {
+                        "content": "Yes",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "38",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "44.70%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "No",
+                        "cited_in": [
+                            "<p>Table 2 presents the Spearman correlations between the independent variables (e.g., level of residential area SES) and outcome variables (e.g., subjective complains and objective measures of cognitive abilities). Note: * p &lt; .05, ** p &lt; .01, *** p &lt; .001.</p>"
+                        ]
+                    },
+                    {
+                        "content": "47",
+                        "cited_in": [
+                            "<p xmlns:ns0=\"http://www.w3.org/1999/xlink\"><ext-link ext-link-type=\"uri\" ns0:href=\"http://www.biomedcentral.com/1471-2318/10/89/prepub\">http://www.biomedcentral.com/1471-2318/10/89/prepub</ext-link></p>"
+                        ]
+                    },
+                    {
+                        "content": "55.30%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Residential area SES",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Missing",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "4",
+                        "cited_in": [
+                            "<p>Increased medical co-morbidity is commonly associated with the aging process [<xref ref-type=\"bibr\" rid=\"B1\">1</xref>,<xref ref-type=\"bibr\" rid=\"B2\">2</xref>]. There are many reasons for this. For example, age is a risk factor for many common diseases such as diabetes and chronic obstructive lung disease. According to previous research, medical co-morbidity rates tend to be higher among patients living in large urban centres, often due to low socioeconomic status and poorer access to health services [<xref ref-type=\"bibr\" rid=\"B3\">3</xref>]. High rates of medical co-morbidity have also been found to be associated with a number of adverse outcomes, including impaired function in activities of daily living, increased utilization of acute care services, and increased mortality [<xref ref-type=\"bibr\" rid=\"B2\">2</xref>,<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B5\">5</xref>]. The question of the impact of medical co-morbidity on cognitive function is a complex one. It is generally known that having multiple medical disorders may be associated with impaired brain function, partly due to the direct neurotoxic effects of disease on the brain and partly due to the possible neurotoxic effects of medications used to treat these diseases [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>]. Patients with low SES may be particularly at risk [<xref ref-type=\"bibr\" rid=\"B7\">7</xref>,<xref ref-type=\"bibr\" rid=\"B8\">8</xref>]. In spite of this common assertion, there have been few studies that have systematically evaluated the impact of medical co-morbidity on brain function and no studies that have controlled for SES.</p>",
+                            "<p>Medical co-morbidity was measured using the cumulative illness rating scale, geriatric version (CIRS-G). In this scale the body is divided into 13 different systems corresponding to 13 different organ areas. Based on the nature of the illness a severity score is assigned ranging from 0 (no impairment) to 4 (severe impairment). Certain illnesses that affect multiple organ systems may in some circumstances be coded more than once. The total score is then achieved by adding up the sub-scores for each organ system and indicates overall medical burden.</p>",
+                            "<p>The BNA is a clinician administered cognitive test that measures multiple cognitive domains including language, attention, visual spatial function, naming and executive function. It is scored out of 114, with the cut off for dementia being low 80. It has been validated in patients with dementia and has been demonstrated to be superior to the MMSE in detecting dementia [<xref ref-type=\"bibr\" rid=\"B24\">24</xref>].</p>",
+                            "<p>In terms of descriptive statistics (see Table <xref ref-type=\"table\" rid=\"T1\">1</xref>), the mean age of the sample was 69.2(10.0) years, the mean level of education was 14.0(3.5) years and the mean CIRS score was 5.2(2.9), suggesting most patients had more than one chronic medical illness. Men and women were equally represented in the sample, and 45% had symptoms compatible with major depression. SES status based on residential income quintiles was evenly distributed across the subgroups. The mean MMSE score of subjects was 27/30 and the mean BNA score was 90/114. 22% of the sample was cognitively normal, 39% were demented (Alzheimer's disease, mixed dementia, dementia with lewy bodies, frontal-temporal dementia), 30% had mild cognitive impairment (MCI) and 9% had dementia secondary to some other cause (traumatic brain injury, lyme disease, cancer).</p>",
+                            "<p xmlns:ns0=\"http://www.w3.org/1999/xlink\"><ext-link ext-link-type=\"uri\" ns0:href=\"http://www.biomedcentral.com/1471-2318/10/89/prepub\">http://www.biomedcentral.com/1471-2318/10/89/prepub</ext-link></p>"
+                        ]
+                    },
+                    {
+                        "content": "4.70%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Level 1 (low)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "16",
+                        "cited_in": [
+                            "<p>Subjective memory loss may or may not correlate with objective memory function based on previous research [<xref ref-type=\"bibr\" rid=\"B16\">16</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>]. What is clear is that depressive symptoms and personality traits may mediate part of this discrepancy. In other words, patients with depressive symptoms may have elevated subjective memory complaints in the face of normal cognition [<xref ref-type=\"bibr\" rid=\"B18\">18</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. The opposite pattern (normal subjective memory complaints in the face of objective memory function) may be observed in patients with poor frontal lobe function, such as patients with vascular dementia or advanced dementia [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>,<xref ref-type=\"bibr\" rid=\"B21\">21</xref>]. Patients with elevated medical co-morbidity are at risk on both counts. First, medical co-morbidity has been found to be associated with high levels of depression [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>-<xref ref-type=\"bibr\" rid=\"B15\">15</xref>]. Second, medical co-morbidity is often associated with dementia and cognitive dysfunction [<xref ref-type=\"bibr\" rid=\"B9\">9</xref>].</p>",
+                            "<p>Our study suggested a strong correlation between medical co-morbidity and objective memory function but a poor correlation with subjective memory function in our Memory Clinic sample. Thus, patients evaluated in our clinic with significant medical issues are clearly at risk for cognitive impairment. Subjective memory complaints are a measure of awareness of brain dysfunction. Awareness of such brain dysfunction is important as it may lead to the adoption of compensatory strategies, including use of calendars, aids, etc, which may enhance brain function. It may also make patients more likely to seek help or perhaps go on medications (such as cognitive enhancers) that may preserve their brain function. Previous studies have examined subjective memory complaints and have found a relatively poor correlation between complaints and actual cognitive performance [<xref ref-type=\"bibr\" rid=\"B16\">16</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>]. This study contributes further to our understanding of the link between subjective memory complaints and objective memory function by demonstrating that this lack of association persists even in the context of significant medical illness.</p>"
+                        ]
+                    },
+                    {
+                        "content": "18.80%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Level 2",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "11",
+                        "cited_in": [
+                            "<p>Of the existing studies that have examined the effect of medical co-morbidity on cognitive function, the majority have focused on objective function as opposed to subjective function. Lyketsos et al (2005) [<xref ref-type=\"bibr\" rid=\"B9\">9</xref>] examined a community sample and discovered medical co-morbidity was much higher among individuals with dementia. Cullum et al [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>] examined a sample of older medical inpatients and discovered a strong correlation between medical co-morbidity and depression but surprisingly no significant correlation with cognition. It is possible that the lack of an association found in this study may be attributable to the low sensitivity of the cognitive instrument used (AMTS) in picking up changes in cognitive functioning. Mariani et al [<xref ref-type=\"bibr\" rid=\"B11\">11</xref>] examined a sample of patients with amnestic MCI (aMCI) and discovered cognitive functioning was a strong predictor of IADL performance while co-morbidity was not, possibly due to the fact that traditionally changes in ADL performance are more strongly linked to medical co-morbidity. Salvi et al [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>] examined a cohort of acutely ill medical inpatients and found a strong correlation between medical co-morbidity, cognitive functioning, length of stay, depression and disability. Many studies have looked at the link between medical co-morbidity and depression in older adults, demonstrating a strong association [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>-<xref ref-type=\"bibr\" rid=\"B15\">15</xref>]. However, no studies to date have explored how SES might impact on this association.</p>",
+                            "<p>The BNA is a clinician administered cognitive test that measures multiple cognitive domains including language, attention, visual spatial function, naming and executive function. It is scored out of 114, with the cut off for dementia being low 80. It has been validated in patients with dementia and has been demonstrated to be superior to the MMSE in detecting dementia [<xref ref-type=\"bibr\" rid=\"B24\">24</xref>].</p>",
+                            "<p>In terms of descriptive statistics (see Table <xref ref-type=\"table\" rid=\"T1\">1</xref>), the mean age of the sample was 69.2(10.0) years, the mean level of education was 14.0(3.5) years and the mean CIRS score was 5.2(2.9), suggesting most patients had more than one chronic medical illness. Men and women were equally represented in the sample, and 45% had symptoms compatible with major depression. SES status based on residential income quintiles was evenly distributed across the subgroups. The mean MMSE score of subjects was 27/30 and the mean BNA score was 90/114. 22% of the sample was cognitively normal, 39% were demented (Alzheimer's disease, mixed dementia, dementia with lewy bodies, frontal-temporal dementia), 30% had mild cognitive impairment (MCI) and 9% had dementia secondary to some other cause (traumatic brain injury, lyme disease, cancer).</p>"
+                        ]
+                    },
+                    {
+                        "content": "12.90%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Level 3",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "13",
+                        "cited_in": [
+                            "<p>Of the existing studies that have examined the effect of medical co-morbidity on cognitive function, the majority have focused on objective function as opposed to subjective function. Lyketsos et al (2005) [<xref ref-type=\"bibr\" rid=\"B9\">9</xref>] examined a community sample and discovered medical co-morbidity was much higher among individuals with dementia. Cullum et al [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>] examined a sample of older medical inpatients and discovered a strong correlation between medical co-morbidity and depression but surprisingly no significant correlation with cognition. It is possible that the lack of an association found in this study may be attributable to the low sensitivity of the cognitive instrument used (AMTS) in picking up changes in cognitive functioning. Mariani et al [<xref ref-type=\"bibr\" rid=\"B11\">11</xref>] examined a sample of patients with amnestic MCI (aMCI) and discovered cognitive functioning was a strong predictor of IADL performance while co-morbidity was not, possibly due to the fact that traditionally changes in ADL performance are more strongly linked to medical co-morbidity. Salvi et al [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>] examined a cohort of acutely ill medical inpatients and found a strong correlation between medical co-morbidity, cognitive functioning, length of stay, depression and disability. Many studies have looked at the link between medical co-morbidity and depression in older adults, demonstrating a strong association [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>-<xref ref-type=\"bibr\" rid=\"B15\">15</xref>]. However, no studies to date have explored how SES might impact on this association.</p>",
+                            "<p>Subjective memory loss may or may not correlate with objective memory function based on previous research [<xref ref-type=\"bibr\" rid=\"B16\">16</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>]. What is clear is that depressive symptoms and personality traits may mediate part of this discrepancy. In other words, patients with depressive symptoms may have elevated subjective memory complaints in the face of normal cognition [<xref ref-type=\"bibr\" rid=\"B18\">18</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. The opposite pattern (normal subjective memory complaints in the face of objective memory function) may be observed in patients with poor frontal lobe function, such as patients with vascular dementia or advanced dementia [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>,<xref ref-type=\"bibr\" rid=\"B21\">21</xref>]. Patients with elevated medical co-morbidity are at risk on both counts. First, medical co-morbidity has been found to be associated with high levels of depression [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>-<xref ref-type=\"bibr\" rid=\"B15\">15</xref>]. Second, medical co-morbidity is often associated with dementia and cognitive dysfunction [<xref ref-type=\"bibr\" rid=\"B9\">9</xref>].</p>",
+                            "<p>Medical co-morbidity was measured using the cumulative illness rating scale, geriatric version (CIRS-G). In this scale the body is divided into 13 different systems corresponding to 13 different organ areas. Based on the nature of the illness a severity score is assigned ranging from 0 (no impairment) to 4 (severe impairment). Certain illnesses that affect multiple organ systems may in some circumstances be coded more than once. The total score is then achieved by adding up the sub-scores for each organ system and indicates overall medical burden.</p>"
+                        ]
+                    },
+                    {
+                        "content": "15.30%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Level 4",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "11",
+                        "cited_in": [
+                            "<p>Of the existing studies that have examined the effect of medical co-morbidity on cognitive function, the majority have focused on objective function as opposed to subjective function. Lyketsos et al (2005) [<xref ref-type=\"bibr\" rid=\"B9\">9</xref>] examined a community sample and discovered medical co-morbidity was much higher among individuals with dementia. Cullum et al [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>] examined a sample of older medical inpatients and discovered a strong correlation between medical co-morbidity and depression but surprisingly no significant correlation with cognition. It is possible that the lack of an association found in this study may be attributable to the low sensitivity of the cognitive instrument used (AMTS) in picking up changes in cognitive functioning. Mariani et al [<xref ref-type=\"bibr\" rid=\"B11\">11</xref>] examined a sample of patients with amnestic MCI (aMCI) and discovered cognitive functioning was a strong predictor of IADL performance while co-morbidity was not, possibly due to the fact that traditionally changes in ADL performance are more strongly linked to medical co-morbidity. Salvi et al [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>] examined a cohort of acutely ill medical inpatients and found a strong correlation between medical co-morbidity, cognitive functioning, length of stay, depression and disability. Many studies have looked at the link between medical co-morbidity and depression in older adults, demonstrating a strong association [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>-<xref ref-type=\"bibr\" rid=\"B15\">15</xref>]. However, no studies to date have explored how SES might impact on this association.</p>",
+                            "<p>The BNA is a clinician administered cognitive test that measures multiple cognitive domains including language, attention, visual spatial function, naming and executive function. It is scored out of 114, with the cut off for dementia being low 80. It has been validated in patients with dementia and has been demonstrated to be superior to the MMSE in detecting dementia [<xref ref-type=\"bibr\" rid=\"B24\">24</xref>].</p>",
+                            "<p>In terms of descriptive statistics (see Table <xref ref-type=\"table\" rid=\"T1\">1</xref>), the mean age of the sample was 69.2(10.0) years, the mean level of education was 14.0(3.5) years and the mean CIRS score was 5.2(2.9), suggesting most patients had more than one chronic medical illness. Men and women were equally represented in the sample, and 45% had symptoms compatible with major depression. SES status based on residential income quintiles was evenly distributed across the subgroups. The mean MMSE score of subjects was 27/30 and the mean BNA score was 90/114. 22% of the sample was cognitively normal, 39% were demented (Alzheimer's disease, mixed dementia, dementia with lewy bodies, frontal-temporal dementia), 30% had mild cognitive impairment (MCI) and 9% had dementia secondary to some other cause (traumatic brain injury, lyme disease, cancer).</p>"
+                        ]
+                    },
+                    {
+                        "content": "12.90%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Level 5 (high)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "30",
+                        "cited_in": [
+                            "<p>The MMSE is a measure of global memory function [<xref ref-type=\"bibr\" rid=\"B25\">25</xref>]. It is scored out of 30 and measures a variety of cognitive functions including recall, orientation, visual spatial function, etc. It has been extensively used in dementia trials, with the cut off for dementia being 26 or less.</p>",
+                            "<p>A diagnosis of dementia was made following comprehensive assessment by a behavioural neurologist and geriatric psychiatrist in accordance with DSM-IV criteria. All patients had brain imaging and routine blood work to rule out reversible causes of dementia as well as cognitive testing using the BNA and MMSE. While cut off scores were not routinely used, most patients with dementia scored below 26 out of 30 on the MMSE or below 80 on the BNA. Depression was diagnosed using DSM-IV criteria following comprehensive assessment by a geriatric psychiatrist.</p>",
+                            "<p>In terms of descriptive statistics (see Table <xref ref-type=\"table\" rid=\"T1\">1</xref>), the mean age of the sample was 69.2(10.0) years, the mean level of education was 14.0(3.5) years and the mean CIRS score was 5.2(2.9), suggesting most patients had more than one chronic medical illness. Men and women were equally represented in the sample, and 45% had symptoms compatible with major depression. SES status based on residential income quintiles was evenly distributed across the subgroups. The mean MMSE score of subjects was 27/30 and the mean BNA score was 90/114. 22% of the sample was cognitively normal, 39% were demented (Alzheimer's disease, mixed dementia, dementia with lewy bodies, frontal-temporal dementia), 30% had mild cognitive impairment (MCI) and 9% had dementia secondary to some other cause (traumatic brain injury, lyme disease, cancer).</p>"
+                        ]
+                    },
+                    {
+                        "content": "35.30%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Diagnosis",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Normal",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "18",
+                        "cited_in": [
+                            "<p>Subjective memory loss may or may not correlate with objective memory function based on previous research [<xref ref-type=\"bibr\" rid=\"B16\">16</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>]. What is clear is that depressive symptoms and personality traits may mediate part of this discrepancy. In other words, patients with depressive symptoms may have elevated subjective memory complaints in the face of normal cognition [<xref ref-type=\"bibr\" rid=\"B18\">18</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. The opposite pattern (normal subjective memory complaints in the face of objective memory function) may be observed in patients with poor frontal lobe function, such as patients with vascular dementia or advanced dementia [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>,<xref ref-type=\"bibr\" rid=\"B21\">21</xref>]. Patients with elevated medical co-morbidity are at risk on both counts. First, medical co-morbidity has been found to be associated with high levels of depression [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>-<xref ref-type=\"bibr\" rid=\"B15\">15</xref>]. Second, medical co-morbidity is often associated with dementia and cognitive dysfunction [<xref ref-type=\"bibr\" rid=\"B9\">9</xref>].</p>",
+                            "<p xmlns:ns0=\"http://www.w3.org/1999/xlink\"><ext-link ext-link-type=\"uri\" ns0:href=\"http://www.biomedcentral.com/1471-2318/10/89/prepub\">http://www.biomedcentral.com/1471-2318/10/89/prepub</ext-link></p>"
+                        ]
+                    },
+                    {
+                        "content": "21.18%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Alzheimer's Dementia",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "33",
+                        "cited_in": [
+                            "<p>Subjective memory complaints were measured using the Patient Assessment of Own Function (PAOF) [<xref ref-type=\"bibr\" rid=\"B23\">23</xref>]. The Patient Assessment of Own Functioning (PAOF) is a 33 item tool designed to measure subjective memory complaints. It includes questions about a variety of cognitive functions including memory, language and communication, sensory motor skills and higher level intellectual functions. Participants are asked to respond while thinking about the last two months and to rate their complaints on the 6 points scale. While it has not been validated in older patients with dementia it has been used in a number of cognitively impaired populations including those with psychiatric problems, HIV patients and those with chronic medical illnesses.</p>"
+                        ]
+                    },
+                    {
+                        "content": "38.82%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Mild Cognitive Impairment",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "26",
+                        "cited_in": [
+                            "<p>The MMSE is a measure of global memory function [<xref ref-type=\"bibr\" rid=\"B25\">25</xref>]. It is scored out of 30 and measures a variety of cognitive functions including recall, orientation, visual spatial function, etc. It has been extensively used in dementia trials, with the cut off for dementia being 26 or less.</p>",
+                            "<p>A diagnosis of dementia was made following comprehensive assessment by a behavioural neurologist and geriatric psychiatrist in accordance with DSM-IV criteria. All patients had brain imaging and routine blood work to rule out reversible causes of dementia as well as cognitive testing using the BNA and MMSE. While cut off scores were not routinely used, most patients with dementia scored below 26 out of 30 on the MMSE or below 80 on the BNA. Depression was diagnosed using DSM-IV criteria following comprehensive assessment by a geriatric psychiatrist.</p>",
+                            "<p>It is interesting to speculate as to why subjective memory complaints would be low in patients with elevated medical co-morbidity, especially given the strong correlation with reduced cognitive performance. One potential explanation is that such patients may be so preoccupied with issues regarding their physical health that they have little awareness of cognitive issues. In addition, it is possible that it may have something to do with the theory of cognitive reserve [<xref ref-type=\"bibr\" rid=\"B26\">26</xref>]. According to this theory, it is possible that patients with high medical co-morbidity have low cognitive reserve to begin with and therefore experience cognitive changes in a more gradual way, resulting in poor awareness. Finally, it is possible that the relationship between medical co-morbidity and subjective memory complaints may be mediated by some other correlate, such as low SES or limited education. Our study in fact showed only a partial correlation with education and a negative correlation with SES, suggesting this is not likely the mechanism.</p>"
+                        ]
+                    },
+                    {
+                        "content": "30.59%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Traumatic Brain Injury",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2",
+                        "cited_in": [
+                            "<p>Increased medical co-morbidity is commonly associated with the aging process [<xref ref-type=\"bibr\" rid=\"B1\">1</xref>,<xref ref-type=\"bibr\" rid=\"B2\">2</xref>]. There are many reasons for this. For example, age is a risk factor for many common diseases such as diabetes and chronic obstructive lung disease. According to previous research, medical co-morbidity rates tend to be higher among patients living in large urban centres, often due to low socioeconomic status and poorer access to health services [<xref ref-type=\"bibr\" rid=\"B3\">3</xref>]. High rates of medical co-morbidity have also been found to be associated with a number of adverse outcomes, including impaired function in activities of daily living, increased utilization of acute care services, and increased mortality [<xref ref-type=\"bibr\" rid=\"B2\">2</xref>,<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B5\">5</xref>]. The question of the impact of medical co-morbidity on cognitive function is a complex one. It is generally known that having multiple medical disorders may be associated with impaired brain function, partly due to the direct neurotoxic effects of disease on the brain and partly due to the possible neurotoxic effects of medications used to treat these diseases [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>]. Patients with low SES may be particularly at risk [<xref ref-type=\"bibr\" rid=\"B7\">7</xref>,<xref ref-type=\"bibr\" rid=\"B8\">8</xref>]. In spite of this common assertion, there have been few studies that have systematically evaluated the impact of medical co-morbidity on brain function and no studies that have controlled for SES.</p>",
+                            "<p>Of the existing studies that have examined the effect of medical co-morbidity on cognitive function, the majority have focused on objective function as opposed to subjective function. Lyketsos et al (2005) [<xref ref-type=\"bibr\" rid=\"B9\">9</xref>] examined a community sample and discovered medical co-morbidity was much higher among individuals with dementia. Cullum et al [<xref ref-type=\"bibr\" rid=\"B10\">10</xref>] examined a sample of older medical inpatients and discovered a strong correlation between medical co-morbidity and depression but surprisingly no significant correlation with cognition. It is possible that the lack of an association found in this study may be attributable to the low sensitivity of the cognitive instrument used (AMTS) in picking up changes in cognitive functioning. Mariani et al [<xref ref-type=\"bibr\" rid=\"B11\">11</xref>] examined a sample of patients with amnestic MCI (aMCI) and discovered cognitive functioning was a strong predictor of IADL performance while co-morbidity was not, possibly due to the fact that traditionally changes in ADL performance are more strongly linked to medical co-morbidity. Salvi et al [<xref ref-type=\"bibr\" rid=\"B12\">12</xref>] examined a cohort of acutely ill medical inpatients and found a strong correlation between medical co-morbidity, cognitive functioning, length of stay, depression and disability. Many studies have looked at the link between medical co-morbidity and depression in older adults, demonstrating a strong association [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>-<xref ref-type=\"bibr\" rid=\"B15\">15</xref>]. However, no studies to date have explored how SES might impact on this association.</p>",
+                            "<p>Subjective memory loss may or may not correlate with objective memory function based on previous research [<xref ref-type=\"bibr\" rid=\"B16\">16</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>]. What is clear is that depressive symptoms and personality traits may mediate part of this discrepancy. In other words, patients with depressive symptoms may have elevated subjective memory complaints in the face of normal cognition [<xref ref-type=\"bibr\" rid=\"B18\">18</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. The opposite pattern (normal subjective memory complaints in the face of objective memory function) may be observed in patients with poor frontal lobe function, such as patients with vascular dementia or advanced dementia [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>,<xref ref-type=\"bibr\" rid=\"B21\">21</xref>]. Patients with elevated medical co-morbidity are at risk on both counts. First, medical co-morbidity has been found to be associated with high levels of depression [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>-<xref ref-type=\"bibr\" rid=\"B15\">15</xref>]. Second, medical co-morbidity is often associated with dementia and cognitive dysfunction [<xref ref-type=\"bibr\" rid=\"B9\">9</xref>].</p>",
+                            "<p>Subjective memory complaints were measured using the Patient Assessment of Own Function (PAOF) [<xref ref-type=\"bibr\" rid=\"B23\">23</xref>]. The Patient Assessment of Own Functioning (PAOF) is a 33 item tool designed to measure subjective memory complaints. It includes questions about a variety of cognitive functions including memory, language and communication, sensory motor skills and higher level intellectual functions. Participants are asked to respond while thinking about the last two months and to rate their complaints on the 6 points scale. While it has not been validated in older patients with dementia it has been used in a number of cognitively impaired populations including those with psychiatric problems, HIV patients and those with chronic medical illnesses.</p>",
+                            "<p>The BNA is a clinician administered cognitive test that measures multiple cognitive domains including language, attention, visual spatial function, naming and executive function. It is scored out of 114, with the cut off for dementia being low 80. It has been validated in patients with dementia and has been demonstrated to be superior to the MMSE in detecting dementia [<xref ref-type=\"bibr\" rid=\"B24\">24</xref>].</p>",
+                            "<p>The MMSE is a measure of global memory function [<xref ref-type=\"bibr\" rid=\"B25\">25</xref>]. It is scored out of 30 and measures a variety of cognitive functions including recall, orientation, visual spatial function, etc. It has been extensively used in dementia trials, with the cut off for dementia being 26 or less.</p>",
+                            "<p>A diagnosis of dementia was made following comprehensive assessment by a behavioural neurologist and geriatric psychiatrist in accordance with DSM-IV criteria. All patients had brain imaging and routine blood work to rule out reversible causes of dementia as well as cognitive testing using the BNA and MMSE. While cut off scores were not routinely used, most patients with dementia scored below 26 out of 30 on the MMSE or below 80 on the BNA. Depression was diagnosed using DSM-IV criteria following comprehensive assessment by a geriatric psychiatrist.</p>",
+                            "<p>To avoid problems with confounders we ran two additional analyses. The first was a repeat of the spearman rank correlation analysis adjusting for the effects of age. The second was a multivariable linear regression analysis to determine if the effects remained when medical co-morbidity was removed from the analyses. Statistical analyses were performed using SAS Version 9.2 (SAS Institute, Cary, NC). All p-values were two-tailed and a p-value less than 0.05 was regarded as being significant.</p>",
+                            "<p>In terms of descriptive statistics (see Table <xref ref-type=\"table\" rid=\"T1\">1</xref>), the mean age of the sample was 69.2(10.0) years, the mean level of education was 14.0(3.5) years and the mean CIRS score was 5.2(2.9), suggesting most patients had more than one chronic medical illness. Men and women were equally represented in the sample, and 45% had symptoms compatible with major depression. SES status based on residential income quintiles was evenly distributed across the subgroups. The mean MMSE score of subjects was 27/30 and the mean BNA score was 90/114. 22% of the sample was cognitively normal, 39% were demented (Alzheimer's disease, mixed dementia, dementia with lewy bodies, frontal-temporal dementia), 30% had mild cognitive impairment (MCI) and 9% had dementia secondary to some other cause (traumatic brain injury, lyme disease, cancer).</p>",
+                            "<p>In terms of comparative statistics, medical co-morbidity as measured by the CIRS score correlated negatively with the MMSE score (p &lt; .001), BNA (p &lt; .05) and all BNA sub scores (see Table <xref ref-type=\"table\" rid=\"T2\">2</xref>). Conversely there was no correlation between medical co-morbidity and subjective memory complaints as measured by the PAOF (p &gt; .05). Furthermore, there was no correlation with any of the PAOF sub scores (p &gt; .05). Education correlated, as predicted, with cognition as measured by the MMSE (p &lt; .05), but surprisingly not with the BNA or any of the sub scores. Residential SES correlated negatively with overall subjective memory complaints (p &lt; .001), and with two sub scores, (memory complaints (p &lt; .001) and language complaints (p &lt; .01)) while it correlated positively with executive function (p &lt; .01). Depression did not correlate significantly with any measure of objective cognitive function (p &gt; .05) but positively with overall subjective general complaints (p &lt; .001), memory complaints (p &lt; .001) and language complaints (p &lt; .05) with the exception of complaints in motor function (p &gt; .05). Given that age may be a covariate or suppressor variable in the analyses, we reran the spearman rank correlations analyses with age as a co-variate and the results were similar except for a small change in the magnitude of the observed associations. In addition, we conducted multivariable linear regression to examine whether depression or subjective memory complaints are associated with objective memory/cognitive performance after the effects of medical co-morbidity are removed. We found no significant associations. We felt that it was important to run these additional analyses to ensure that the observed association between medical co-morbidity and objective memory impairment was not being driven by other confounders such as age, depression or subjective memory loss.</p>",
+                            "<p>Table 2 presents the Spearman correlations between the independent variables (e.g., level of residential area SES) and outcome variables (e.g., subjective complains and objective measures of cognitive abilities). Note: * p &lt; .05, ** p &lt; .01, *** p &lt; .001.</p>",
+                            "<p>It is interesting to speculate as to why subjective memory complaints would be low in patients with elevated medical co-morbidity, especially given the strong correlation with reduced cognitive performance. One potential explanation is that such patients may be so preoccupied with issues regarding their physical health that they have little awareness of cognitive issues. In addition, it is possible that it may have something to do with the theory of cognitive reserve [<xref ref-type=\"bibr\" rid=\"B26\">26</xref>]. According to this theory, it is possible that patients with high medical co-morbidity have low cognitive reserve to begin with and therefore experience cognitive changes in a more gradual way, resulting in poor awareness. Finally, it is possible that the relationship between medical co-morbidity and subjective memory complaints may be mediated by some other correlate, such as low SES or limited education. Our study in fact showed only a partial correlation with education and a negative correlation with SES, suggesting this is not likely the mechanism.</p>",
+                            "<p xmlns:ns0=\"http://www.w3.org/1999/xlink\"><ext-link ext-link-type=\"uri\" ns0:href=\"http://www.biomedcentral.com/1471-2318/10/89/prepub\">http://www.biomedcentral.com/1471-2318/10/89/prepub</ext-link></p>"
+                        ]
+                    },
+                    {
+                        "content": "2.35%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Other",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6",
+                        "cited_in": [
+                            "<p>Increased medical co-morbidity is commonly associated with the aging process [<xref ref-type=\"bibr\" rid=\"B1\">1</xref>,<xref ref-type=\"bibr\" rid=\"B2\">2</xref>]. There are many reasons for this. For example, age is a risk factor for many common diseases such as diabetes and chronic obstructive lung disease. According to previous research, medical co-morbidity rates tend to be higher among patients living in large urban centres, often due to low socioeconomic status and poorer access to health services [<xref ref-type=\"bibr\" rid=\"B3\">3</xref>]. High rates of medical co-morbidity have also been found to be associated with a number of adverse outcomes, including impaired function in activities of daily living, increased utilization of acute care services, and increased mortality [<xref ref-type=\"bibr\" rid=\"B2\">2</xref>,<xref ref-type=\"bibr\" rid=\"B4\">4</xref>,<xref ref-type=\"bibr\" rid=\"B5\">5</xref>]. The question of the impact of medical co-morbidity on cognitive function is a complex one. It is generally known that having multiple medical disorders may be associated with impaired brain function, partly due to the direct neurotoxic effects of disease on the brain and partly due to the possible neurotoxic effects of medications used to treat these diseases [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>]. Patients with low SES may be particularly at risk [<xref ref-type=\"bibr\" rid=\"B7\">7</xref>,<xref ref-type=\"bibr\" rid=\"B8\">8</xref>]. In spite of this common assertion, there have been few studies that have systematically evaluated the impact of medical co-morbidity on brain function and no studies that have controlled for SES.</p>",
+                            "<p>Subjective memory loss may or may not correlate with objective memory function based on previous research [<xref ref-type=\"bibr\" rid=\"B16\">16</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>]. What is clear is that depressive symptoms and personality traits may mediate part of this discrepancy. In other words, patients with depressive symptoms may have elevated subjective memory complaints in the face of normal cognition [<xref ref-type=\"bibr\" rid=\"B18\">18</xref>,<xref ref-type=\"bibr\" rid=\"B19\">19</xref>]. The opposite pattern (normal subjective memory complaints in the face of objective memory function) may be observed in patients with poor frontal lobe function, such as patients with vascular dementia or advanced dementia [<xref ref-type=\"bibr\" rid=\"B20\">20</xref>,<xref ref-type=\"bibr\" rid=\"B21\">21</xref>]. Patients with elevated medical co-morbidity are at risk on both counts. First, medical co-morbidity has been found to be associated with high levels of depression [<xref ref-type=\"bibr\" rid=\"B13\">13</xref>-<xref ref-type=\"bibr\" rid=\"B15\">15</xref>]. Second, medical co-morbidity is often associated with dementia and cognitive dysfunction [<xref ref-type=\"bibr\" rid=\"B9\">9</xref>].</p>",
+                            "<p>Subjective memory complaints were measured using the Patient Assessment of Own Function (PAOF) [<xref ref-type=\"bibr\" rid=\"B23\">23</xref>]. The Patient Assessment of Own Functioning (PAOF) is a 33 item tool designed to measure subjective memory complaints. It includes questions about a variety of cognitive functions including memory, language and communication, sensory motor skills and higher level intellectual functions. Participants are asked to respond while thinking about the last two months and to rate their complaints on the 6 points scale. While it has not been validated in older patients with dementia it has been used in a number of cognitively impaired populations including those with psychiatric problems, HIV patients and those with chronic medical illnesses.</p>",
+                            "<p>The MMSE is a measure of global memory function [<xref ref-type=\"bibr\" rid=\"B25\">25</xref>]. It is scored out of 30 and measures a variety of cognitive functions including recall, orientation, visual spatial function, etc. It has been extensively used in dementia trials, with the cut off for dementia being 26 or less.</p>",
+                            "<p>A diagnosis of dementia was made following comprehensive assessment by a behavioural neurologist and geriatric psychiatrist in accordance with DSM-IV criteria. All patients had brain imaging and routine blood work to rule out reversible causes of dementia as well as cognitive testing using the BNA and MMSE. While cut off scores were not routinely used, most patients with dementia scored below 26 out of 30 on the MMSE or below 80 on the BNA. Depression was diagnosed using DSM-IV criteria following comprehensive assessment by a geriatric psychiatrist.</p>",
+                            "<p>In terms of descriptive statistics (see Table <xref ref-type=\"table\" rid=\"T1\">1</xref>), the mean age of the sample was 69.2(10.0) years, the mean level of education was 14.0(3.5) years and the mean CIRS score was 5.2(2.9), suggesting most patients had more than one chronic medical illness. Men and women were equally represented in the sample, and 45% had symptoms compatible with major depression. SES status based on residential income quintiles was evenly distributed across the subgroups. The mean MMSE score of subjects was 27/30 and the mean BNA score was 90/114. 22% of the sample was cognitively normal, 39% were demented (Alzheimer's disease, mixed dementia, dementia with lewy bodies, frontal-temporal dementia), 30% had mild cognitive impairment (MCI) and 9% had dementia secondary to some other cause (traumatic brain injury, lyme disease, cancer).</p>",
+                            "<p>Our study suggested a strong correlation between medical co-morbidity and objective memory function but a poor correlation with subjective memory function in our Memory Clinic sample. Thus, patients evaluated in our clinic with significant medical issues are clearly at risk for cognitive impairment. Subjective memory complaints are a measure of awareness of brain dysfunction. Awareness of such brain dysfunction is important as it may lead to the adoption of compensatory strategies, including use of calendars, aids, etc, which may enhance brain function. It may also make patients more likely to seek help or perhaps go on medications (such as cognitive enhancers) that may preserve their brain function. Previous studies have examined subjective memory complaints and have found a relatively poor correlation between complaints and actual cognitive performance [<xref ref-type=\"bibr\" rid=\"B16\">16</xref>,<xref ref-type=\"bibr\" rid=\"B17\">17</xref>]. This study contributes further to our understanding of the link between subjective memory complaints and objective memory function by demonstrating that this lack of association persists even in the context of significant medical illness.</p>",
+                            "<p>It is interesting to speculate as to why subjective memory complaints would be low in patients with elevated medical co-morbidity, especially given the strong correlation with reduced cognitive performance. One potential explanation is that such patients may be so preoccupied with issues regarding their physical health that they have little awareness of cognitive issues. In addition, it is possible that it may have something to do with the theory of cognitive reserve [<xref ref-type=\"bibr\" rid=\"B26\">26</xref>]. According to this theory, it is possible that patients with high medical co-morbidity have low cognitive reserve to begin with and therefore experience cognitive changes in a more gradual way, resulting in poor awareness. Finally, it is possible that the relationship between medical co-morbidity and subjective memory complaints may be mediated by some other correlate, such as low SES or limited education. Our study in fact showed only a partial correlation with education and a negative correlation with SES, suggesting this is not likely the mechanism.</p>"
+                        ]
+                    },
+                    {
+                        "content": "7.06%",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Behvioural Neurology Assessment",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "85",
+                        "cited_in": [
+                            "<p>Data was collected from 85 consecutive referrals to an Inner City Memory Disorders Clinic including socio-demographic characteristics, cognitive status and medical co-morbidity. Descriptive and correlational analyses were conducted.</p>",
+                            "<p>Data from 85 patients aged 50 or above attending a Memory Disorders Clinic located in a large urban centre was examined retrospectively. The sample consisted of community dwelling patients with a variety of diagnoses (dementia, MCI, cognitively normal) referred by their family physicians with a complaint of memory loss. While patients were all medically stable many were on a number of medications. The study was approved by the St. Michaels Hospital Research Ethics Board.</p>",
+                            "<p>Sample characteristics (N = 85)</p>"
+                        ]
+                    },
+                    {
+                        "content": "89.7(14.4)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "59-111",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Mini Mental State Examination Score",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "85",
+                        "cited_in": [
+                            "<p>Data was collected from 85 consecutive referrals to an Inner City Memory Disorders Clinic including socio-demographic characteristics, cognitive status and medical co-morbidity. Descriptive and correlational analyses were conducted.</p>",
+                            "<p>Data from 85 patients aged 50 or above attending a Memory Disorders Clinic located in a large urban centre was examined retrospectively. The sample consisted of community dwelling patients with a variety of diagnoses (dementia, MCI, cognitively normal) referred by their family physicians with a complaint of memory loss. While patients were all medically stable many were on a number of medications. The study was approved by the St. Michaels Hospital Research Ethics Board.</p>",
+                            "<p>Sample characteristics (N = 85)</p>"
+                        ]
+                    },
+                    {
+                        "content": "27(3)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "16-30",
+                        "cited_in": []
+                    }
+                ]
+            },
+            {
+                "table_id": "T2",
+                "body": "<thead><tr><th /><th align=\"left\">Education years</th><th align=\"left\">Residential area SES</th><th align=\"left\">Cumulative illness rating</th><th align=\"left\">Depression</th></tr></thead><tbody><tr><td align=\"left\">Subjective general complaints</td><td align=\"left\">-0.06</td><td align=\"left\">-0.37(***)</td><td align=\"left\">0.08</td><td align=\"left\">0.45(***)</td></tr><tr><td align=\"left\">\u2003Memory complaints</td><td align=\"left\">-0.05</td><td align=\"left\">-0.41(***)</td><td align=\"left\">0.07</td><td align=\"left\">0.45(***)</td></tr><tr><td align=\"left\">\u2003Language/communication problem</td><td align=\"left\">-0.08</td><td align=\"left\">-0.34(**)</td><td align=\"left\">0.03</td><td align=\"left\">0.25(*)</td></tr><tr><td align=\"left\">\u2003Complaints of motor difficulties</td><td align=\"left\">-0.03</td><td align=\"left\">-0.09</td><td align=\"left\">0.07</td><td align=\"left\">0.12</td></tr><tr><td align=\"left\">\u2003Complaints of thinking</td><td align=\"left\">0.06</td><td align=\"left\">-0.18</td><td align=\"left\">0.15</td><td align=\"left\">0.42(***)</td></tr><tr><td align=\"left\">Mini-Mental state examination</td><td align=\"left\">0.28*</td><td align=\"left\">0.04</td><td align=\"left\">-0.31(***)</td><td align=\"left\">-0.03</td></tr><tr><td align=\"left\">Behavioural Neurology Assessment (BNA) Total score</td><td align=\"left\">0.20</td><td align=\"left\">0.09</td><td align=\"left\">-0.26(*)</td><td align=\"left\">0.03</td></tr><tr><td align=\"left\">\u2003BNA Attention</td><td align=\"left\">0.10</td><td align=\"left\">0.08</td><td align=\"left\">-0.22(*)</td><td align=\"left\">0.14</td></tr><tr><td align=\"left\">\u2003BNA Memory</td><td align=\"left\">0.14</td><td align=\"left\">0.01</td><td align=\"left\">-0.28(*)</td><td align=\"left\">0.02</td></tr><tr><td align=\"left\">\u2003BNA verbal ability</td><td align=\"left\">0.20</td><td align=\"left\">0.07</td><td align=\"left\">-0.27(*)</td><td align=\"left\">0.02</td></tr><tr><td align=\"left\">\u2003BNA visuospatial function</td><td align=\"left\">0.15</td><td align=\"left\">0.05</td><td align=\"left\">-0.21(*)</td><td align=\"left\">-0.03</td></tr><tr><td align=\"left\">\u2003BNA brain's executive function</td><td align=\"left\">0.18</td><td align=\"left\">0.29(**)</td><td align=\"left\">-0.29(**)</td><td align=\"left\">0.05</td></tr></tbody>",
+                "caption": "<p>Bivariate correlations between outcome variables</p>",
+                "foots": [
+                    "<p>Table 2 presents the Spearman correlations between the independent variables (e.g., level of residential area SES) and outcome variables (e.g., subjective complains and objective measures of cognitive abilities). Note: * p &lt; .05, ** p &lt; .01, *** p &lt; .001.</p>"
+                ],
+                "paragraphs": [
+                    {
+                        "text": "<p>In terms of comparative statistics, medical co-morbidity as measured by the CIRS score correlated negatively with the MMSE score (p &lt; .001), BNA (p &lt; .05) and all BNA sub scores (see Table <xref ref-type=\"table\" rid=\"T2\">2</xref>). Conversely there was no correlation between medical co-morbidity and subjective memory complaints as measured by the PAOF (p &gt; .05). Furthermore, there was no correlation with any of the PAOF sub scores (p &gt; .05). Education correlated, as predicted, with cognition as measured by the MMSE (p &lt; .05), but surprisingly not with the BNA or any of the sub scores. Residential SES correlated negatively with overall subjective memory complaints (p &lt; .001), and with two sub scores, (memory complaints (p &lt; .001) and language complaints (p &lt; .01)) while it correlated positively with executive function (p &lt; .01). Depression did not correlate significantly with any measure of objective cognitive function (p &gt; .05) but positively with overall subjective general complaints (p &lt; .001), memory complaints (p &lt; .001) and language complaints (p &lt; .05) with the exception of complaints in motor function (p &gt; .05). Given that age may be a covariate or suppressor variable in the analyses, we reran the spearman rank correlations analyses with age as a co-variate and the results were similar except for a small change in the magnitude of the observed associations. In addition, we conducted multivariable linear regression to examine whether depression or subjective memory complaints are associated with objective memory/cognitive performance after the effects of medical co-morbidity are removed. We found no significant associations. We felt that it was important to run these additional analyses to ensure that the observed association between medical co-morbidity and objective memory impairment was not being driven by other confounders such as age, depression or subjective memory loss.</p>",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "Subjective general complaints",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.06",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.37(***)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.08",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.45(***)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Memory complaints",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.05",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.41(***)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.07",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.45(***)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Language/communication problem",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.08",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.34(**)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.03",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.25(*)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Complaints of motor difficulties",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.03",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.09",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.07",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.12",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Complaints of thinking",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.06",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.18",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.15",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.42(***)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Mini-Mental state examination",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.28*",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.04",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.31(***)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.03",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "Behavioural Neurology Assessment (BNA) Total score",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.20",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.09",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.26(*)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.03",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "BNA Attention",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.10",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.08",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.22(*)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.14",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "BNA Memory",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.14",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.01",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.28(*)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.02",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "BNA verbal ability",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.20",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.07",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.27(*)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.02",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "BNA visuospatial function",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.15",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.05",
+                        "cited_in": [
+                            "<p>To avoid problems with confounders we ran two additional analyses. The first was a repeat of the spearman rank correlation analysis adjusting for the effects of age. The second was a multivariable linear regression analysis to determine if the effects remained when medical co-morbidity was removed from the analyses. Statistical analyses were performed using SAS Version 9.2 (SAS Institute, Cary, NC). All p-values were two-tailed and a p-value less than 0.05 was regarded as being significant.</p>"
+                        ]
+                    },
+                    {
+                        "content": "-0.21(*)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.03",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "BNA brain's executive function",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.18",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.29(**)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "-0.29(**)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.05",
+                        "cited_in": [
+                            "<p>To avoid problems with confounders we ran two additional analyses. The first was a repeat of the spearman rank correlation analysis adjusting for the effects of age. The second was a multivariable linear regression analysis to determine if the effects remained when medical co-morbidity was removed from the analyses. Statistical analyses were performed using SAS Version 9.2 (SAS Institute, Cary, NC). All p-values were two-tailed and a p-value less than 0.05 was regarded as being significant.</p>"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "figures": []
+    }
+}

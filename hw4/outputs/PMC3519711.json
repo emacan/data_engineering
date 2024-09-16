@@ -1,0 +1,838 @@
+{
+    "pmcid": "PMC3519711",
+    "content": {
+        "title": "Legionella on board trains: effectiveness of environmental\n                    surveillance and decontamination",
+        "abstract": "<p><italic>Legionella pneumophila</italic> is increasingly recognised as a\nsignificant cause of sporadic and epidemic community-acquired and nosocomial\npneumonia. Many studies describe the frequency and severity of <italic>\nLegionella</italic> spp. contamination in spa pools, natural pools, hotels\nand ships, but there is no study analysing the environmental monitoring of <italic>\nLegionella</italic> on board trains. The aims of the present study were to\nconduct periodic and precise environmental surveillance of <italic>\nLegionella</italic> spp. in water systems and water tanks that supply the\ntoilet systems on trains, to assess the degree of contamination of such\nstructures and to determine the effectiveness of decontamination.</p>\n\n<p>A comparative pre-post ecological study was conducted from September 2006 to\nJanuary 2011. A total of 1,245 water samples were collected from plumbing\nand toilet water tanks on passenger trains. The prevalence proportion of all\npositive samples was calculated. The unpaired <italic>t</italic>-test was\nperformed to evaluate statistically significant differences between the mean\nload values before and after the decontamination procedures; statistical\nsignificance was set at <italic>p</italic>\u2009\u2264\u20090.05.</p>\n\n<p>In the pre-decontamination period, 58% of the water samples were positive for <italic>\nLegionella</italic>. Only <italic>Legionella pneumophila</italic> was\nidentified: 55.84% were serogroup 1, 19.03% were serogroups 2\u201314 and\n25.13% contained both serogroups. The mean bacterial load value was\n2.14\u2009\u00d7\u200910<sup>3</sup>\u2009CFU/L. During the\npost-decontamination period, 42.75% of water samples were positive for <italic>\nLegionella</italic> spp.; 98.76% were positive for <italic>Legionella\npneumophila</italic>: 74.06% contained serogroup 1, 16.32% contained\nserogroups 2\u201314 and 9.62% contained both. The mean bacterial load in\nthe post-decontamination period was 1.72\u2009\u00d7\u200910<sup>3</sup>\u2009CFU/L.\nAccording to the <italic>t</italic>-test, there was a statistically\nsignificant decrease in total bacterial load until approximately one and a\nhalf year after beginning the decontamination programme (<italic>p</italic>\n\u2009=\u20090.0097).</p>\n\n<p>This study indicates that systematic environmental surveillance could be a\nuseful approach for assessing the risk of exposure to <italic>Legionella</italic>\nbacteria, which still represents a public health threat. According to the\nstudy results, an environmental surveillance programme, followed by\ndecontamination procedures where necessary, would decrease the total\nbacterial count, protecting the health of travellers and workers.</p>\n",
+        "keywords": [],
+        "tables": [
+            {
+                "table_id": "T1",
+                "body": "<thead valign=\"top\">\n<tr>\n<th align=\"left\">\u00a0</th>\n<th align=\"left\">\n<bold>Pre-decontamination period</bold>\n</th>\n<th align=\"left\">\n<bold>Post-decontamination period</bold>\n</th>\n<th align=\"left\">\n<bold>Total</bold>\n</th>\n</tr>\n</thead>\n<tbody valign=\"top\">\n<tr>\n<td align=\"left\" valign=\"bottom\">\n<italic>Number of water samples analysed</italic>\n<hr />\n</td>\n<td align=\"left\" valign=\"bottom\">679 (54.538% of total samples analyzed)<hr /></td>\n<td align=\"left\" valign=\"bottom\">566 (45.462% of total samples analyzed)<hr /></td>\n<td align=\"left\" valign=\"bottom\">1245<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\"><italic>Number of samples positive for\nLegionella</italic> spp.<hr /></td>\n<td align=\"left\" valign=\"bottom\">394 (58.027%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">242 (42.756%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">636<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\"><italic>Number of samples positive for\nL. pneumophila</italic> 1<hr /></td>\n<td align=\"left\" valign=\"bottom\">220 (55.838%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">177 (73.140%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">397<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\"><italic>Number of samples positive for\nL. pneumophila</italic> 2 -14<hr /></td>\n<td align=\"left\" valign=\"bottom\">75 (19.036%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">39 (16.116%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">114<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\"><italic>Number of samples positive for\nL. pneumophila</italic> 1 and 2 -14<hr /></td>\n<td align=\"left\" valign=\"bottom\">99 (25.127%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">23 (9.504%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">122<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\"><italic>Number of samples positive for\nLegionella other</italic> species<hr /></td>\n<td align=\"left\" valign=\"bottom\">0 (0.000%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">3 (1.240%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">3<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\"><italic>Number of samples with</italic>\nload values\u2009&lt;\u2009100\u2009CFU/L<hr /></td>\n<td align=\"left\" valign=\"bottom\">69 (17.513%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">14 (5.785%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">83<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\"><italic>Number of samples with</italic>\nload values 100\u2013999\u2009CFU/L<hr /></td>\n<td align=\"left\" valign=\"bottom\">155 (39.340%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">121 (50.000%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">276<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\"><italic>Number of samples with</italic>\nload values 1,000-9,999 CFU/L<hr /></td>\n<td align=\"left\" valign=\"bottom\">138 (35.025%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">85 (35.124%)<hr /></td>\n<td align=\"left\" valign=\"bottom\">223<hr /></td>\n</tr>\n<tr>\n<td align=\"left\"><italic>Number of samples with</italic> load\nvalues\u2009\u2265\u200910,000 CFU/L</td>\n<td align=\"left\">32 (8.122%)</td>\n<td align=\"left\">22 (9.091%)</td>\n<td align=\"left\">54</td>\n</tr>\n</tbody>\n",
+                "caption": "<p>Results of the microbiological analysis performed on the water samples\ncollected</p>\n",
+                "foots": [],
+                "paragraphs": [
+                    {
+                        "text": "<p>The overall number of water samples collected from different trains and analysed from\nSeptember 2006 to January 2011 was 1,245 (Table <xref ref-type=\"table\" rid=\"T1\">1</xref>).\nOf those, 679 were collected during the pre-decontamination period.</p>\n",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "",
+                        "cited_in": [
+                            "<p><italic>Legionella pneumophila</italic> is increasingly recognised as a\nsignificant cause of sporadic and epidemic community-acquired and nosocomial\npneumonia. Many studies describe the frequency and severity of <italic>\nLegionella</italic> spp. contamination in spa pools, natural pools, hotels\nand ships, but there is no study analysing the environmental monitoring of <italic>\nLegionella</italic> on board trains. The aims of the present study were to\nconduct periodic and precise environmental surveillance of <italic>\nLegionella</italic> spp. in water systems and water tanks that supply the\ntoilet systems on trains, to assess the degree of contamination of such\nstructures and to determine the effectiveness of decontamination.</p>\n",
+                            "<p>A comparative pre-post ecological study was conducted from September 2006 to\nJanuary 2011. A total of 1,245 water samples were collected from plumbing\nand toilet water tanks on passenger trains. The prevalence proportion of all\npositive samples was calculated. The unpaired <italic>t</italic>-test was\nperformed to evaluate statistically significant differences between the mean\nload values before and after the decontamination procedures; statistical\nsignificance was set at <italic>p</italic>\u2009\u2264\u20090.05.</p>\n",
+                            "<p>In the pre-decontamination period, 58% of the water samples were positive for <italic>\nLegionella</italic>. Only <italic>Legionella pneumophila</italic> was\nidentified: 55.84% were serogroup 1, 19.03% were serogroups 2\u201314 and\n25.13% contained both serogroups. The mean bacterial load value was\n2.14\u2009\u00d7\u200910<sup>3</sup>\u2009CFU/L. During the\npost-decontamination period, 42.75% of water samples were positive for <italic>\nLegionella</italic> spp.; 98.76% were positive for <italic>Legionella\npneumophila</italic>: 74.06% contained serogroup 1, 16.32% contained\nserogroups 2\u201314 and 9.62% contained both. The mean bacterial load in\nthe post-decontamination period was 1.72\u2009\u00d7\u200910<sup>3</sup>\u2009CFU/L.\nAccording to the <italic>t</italic>-test, there was a statistically\nsignificant decrease in total bacterial load until approximately one and a\nhalf year after beginning the decontamination programme (<italic>p</italic>\n\u2009=\u20090.0097).</p>\n",
+                            "<p>This study indicates that systematic environmental surveillance could be a\nuseful approach for assessing the risk of exposure to <italic>Legionella</italic>\nbacteria, which still represents a public health threat. According to the\nstudy results, an environmental surveillance programme, followed by\ndecontamination procedures where necessary, would decrease the total\nbacterial count, protecting the health of travellers and workers.</p>\n",
+                            "<p><italic>Legionella pneumophila</italic> is increasingly recognized as a significant\ncause of sporadic and epidemic community-acquired and nosocomial pneumonia.</p>\n",
+                            "<p>In recent years, our understanding of Legionnaires\u2019 Disease (LD) has improved\nsubstantially and new diagnostic and treatment strategies have been introduced [<xref ref-type=\"bibr\" rid=\"B1\">1</xref>].</p>\n",
+                            "<p>To share knowledge and monitor trends of LD across Europe, the European Working Group\nfor <italic>Legionella</italic> Infections (EWGLI) was established in 1986 to better\nprotect the health of travellers by improving the detection and control of infection\nsources in European countries [<xref ref-type=\"bibr\" rid=\"B2\">2</xref>].</p>\n",
+                            "<p>Members of EWGLI established a European surveillance scheme for travel-associated\ninfections in 1987; this surveillance scheme, named EWGLINET in 2002, is the\nEU\u2019s surveillance network dedicated to collecting data on cases of LD in the\nEU, including travel-associated LD (TALD) [<xref ref-type=\"bibr\" rid=\"B3\">3</xref>,<xref ref-type=\"bibr\" rid=\"B4\">4</xref>].</p>\n",
+                            "<p>Since April 2010, the programme has also been coordinated by European Centre for\nDisease Prevention and Control (ECDC), and the name of the scheme has changed to the\nEuropean Legionnaires\u2019 Disease Surveillance Network (ELDSNet) [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>].</p>\n",
+                            "<p>In the beginning of July 2002, the European Guidelines for Control and Prevention of\nTravel Associated LD [<xref ref-type=\"bibr\" rid=\"B5\">5</xref>] were introduced in an\nattempt to standardise the investigation of clusters in EWGLINET countries and their\nMinisters of Health were asked to support the use of these guidelines.</p>\n",
+                            "<p>In 2009, the EWGLINET surveillance scheme reported a total of 818 cases (794\nconfirmed and 24 presumptive) of travel-associated LD with onset of illness, which\nis a decrease of 52 cases compared with 2008 and is 129 fewer than in 2007. The\ncountries that reported the most cases by country of residence were the UK\n(n\u2009=\u2009173), Italy (n\u2009=\u2009169) and the Netherlands\n(n\u2009=\u2009109). These three countries have consistently reported the\ngreatest number of cases to EWGLINET for several years [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>].</p>\n",
+                            "<p>The Italian National Surveillance System has reported that, in Italy, the incidence\nof Legionellosis has been increasing in the last ten years despite a slightly\ndecreasing number of notified cases in the time periods from 2002\u20132004 and\n2005\u20132006. In 2009, 1,200 cases of Legionellosis were diagnosed and reported\n(1,146 confirmed and 54 presumptive), with an incidence proportion of twenty cases\nper million (Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>) [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>].</p>\n",
+                            "<p>Cases of Legionellosis notified in Italy, 2000\u20132009 (Data source:\nItalian Ministry of Health).</p>\n",
+                            "<p>In Italy, in 2009, a total of 281 TALD cases, including both Italian and foreign\ntourists, were reported to the National Health Institute [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>]. Among these, 178 cases of legionellosis concern to Italian\nTourists. The 86% of them stayed at the hotels, the 5.6% stayed at camping and the\n8,4% in other structures. The 10% of 178 cases have travelled in foreign locations.</p>\n",
+                            "<p>Many studies describe the frequency and strength of <italic>Legionella</italic> spp.\ncontamination in spa pools, natural pools, hotels and ships [<xref ref-type=\"bibr\" rid=\"B7\">7</xref>-<xref ref-type=\"bibr\" rid=\"B17\">17</xref>], but no study has\nbeen conducted that addresses the environmental monitoring of <italic>Legionella</italic>\non board trains.</p>\n",
+                            "<p>To protect the health of travellers and workers, the Health Service of Italian\nRailways and the Hygiene Institute of the Catholic University in Rome established\nfor the first time an environmental surveillance programme to evaluate the degree of\ncontamination on trains and the effectiveness and length of water tank\ndecontamination.</p>\n",
+                            "<p>We have examined air conditioning plants and toilet water tanks, which are the\nprimary sources of biological agents. The air conditioning plants on board\nTrenitalia trains are planned and built to avoid condensed water stagnation. Water\nis directly drained out of the trains by canalisations that prevent microorganism\nproliferation. Passenger trains contain water tanks made of steel or resin that\nsupply hygienic services by falling water and they may have a varied capacity (from\n200 to 1,800 litres) [<xref ref-type=\"bibr\" rid=\"B18\">18</xref>].</p>\n",
+                            "<p>A comparative pre-post ecological study was conducted from September 2006 to January\n2011.</p>\n",
+                            "<p>Plumbing and toilet water tanks on passenger trains were examined.</p>\n",
+                            "<p>Two samples were collected from every sampling site at a single time point: one\nsample was harvested immediately after the tap was switched on and without\nflaming for qualitative evaluation of the <italic>Legionella</italic> species\nand serogroup and the second sample was collected for quantitative determination\n(<italic>Legionella</italic> CFU/L of water) after the water ran for at least\n5\u201310 minutes, which is more representative of the water flowing in the\nsystem. At least 6 to 12 water samples were collected weekly.</p>\n",
+                            "<p>One litre of water was collected in sterile bottles with 0.01% sodium\nthiosulphate to neutralise any residual chlorine; water samples were transported\nin a suitable cool box, protected from direct light and processed within four\nhours after collection.</p>\n",
+                            "<p>Microbiological detection of <italic>Legionella</italic> spp. was conducted\nfollowing the methods described in the \u201cItalian Guidelines for\nLegionellosis prevention and control\u201d [<xref ref-type=\"bibr\" rid=\"B19\">\n19</xref>,<xref ref-type=\"bibr\" rid=\"B20\">20</xref>].</p>\n",
+                            "<p>Ten millilitres of the sample were first put into a sterile screw-capped Falcon\ntube, and then, a one-litre sample of water was concentrated by filtration on a\n0.20\u2009\u03bcm pore-diameter cellulose membrane filter.</p>\n",
+                            "<p>The membranes were aseptically removed and placed into the sterile screw-capped\nFalcon tube previously filled with 10\u2009ml of water sample collected; the\nmaterial collected onto the membrane filter was vortex-mixed continuously for\n2\u2009min.</p>\n",
+                            "<p>Ten millilitres of the sample was divided into two aliquots of 5\u2009ml each;\none aliquot was incubated at 50\u00b0C in a water bath for 30 minutes\n(treated sample) and the second aliquot remained at room temperature\n(non-treated sample).</p>\n",
+                            "<p>Next, 0.1\u2009ml of the treated and non-treated samples was spread on a\n90\u2009mm Petri dish containing GVPC-selective medium (glycine, polymyxin B,\nvancomycin and cycloheximide). These plates were incubated at 37\u00b0C in a\nhumidified atmosphere with 2.5% CO<sub>2</sub>. Plates were evaluated for a\nmaximum of 14\u2009days before reporting them negative.</p>\n",
+                            "<p>Suspected colonies that displayed a distinctive surface with an iridescent and\nfaceted cut glass appearance were counted from each sampling. Gram staining was\nperformed on the suspected colonies; weakly staining, gram-negative bacilli were\nobservable. Suspicious colonies were sub-cultured both onto buffered charcoal\nyeast extract (BCYE) agar with cysteine and charcoal yeast extract agar (CYE\nAgar Base \u2013 Oxoid) for verification.</p>\n",
+                            "<p>These plates were incubated at 37\u00b0C in a humidified atmosphere with 2.5%\nCO<sub>2</sub> for \u22652\u2009days.</p>\n",
+                            "<p>The isolated colonies growing only on BCYE, but that did not grow on CYE, were\ndetermined to be <italic>Legionella</italic> colonies. Subsequently, these\ncolonies were serotyped by the agglutination <italic>Legionella</italic> Latex\nTest (Oxoid) that provides separate identification of <italic>L. pneumophila</italic>\nserogroup 1, <italic>L. pneumophila</italic> serogroups 2\u201314 and other\nspecies of <italic>Legionella</italic> spp. that have been implicated in human\ndisease: <italic>L. longbeachae</italic> 1 and 2, <italic>L. bozemanii</italic>\n1 and 2, <italic>L. dumoffii</italic>, <italic>L. gormanii</italic>, <italic>L.\njordanis</italic>, <italic>L. micdadei</italic> and <italic>L. anisa.</italic></p>\n",
+                            "<p>According to the Italian Guidelines [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>],\nquantitative evaluation (CFU/L) was performed considering the following items:\nthe count of colonies growth in each plate, the concentration of the original\nsample and the dilutions successively made.</p>\n",
+                            "<p>The water distributed in the toilets of passenger cars, both for the washbasin\nand for sanitary services, must have, at the time of supply, the characteristics\nrequired for human consumption. Because of the characteristics of hydraulic\nsystems on board, these requirements cannot be fully insured, so water is\nlabelled \"no drinking\".</p>\n",
+                            "<p>Passenger railway cars are fitted with steel or resin tanks in which the total\nvolume of water is variable depending on the type of car (ranging from 200 to\n1,800 litres).</p>\n",
+                            "<p>The water tanks are located under the car\u2019s roof and the water flows into\nthe toilets by gravity.</p>\n",
+                            "<p>Tanks are refilled at stations or through installation maintenance by jet spouts\nplaced on side rails and discharge takes place through a special tap below the\nwagon.</p>\n",
+                            "<p>When <italic>Legionella</italic> bacterial load was greater than 10<sup>3</sup>\u2009CFU/L,\ndecontamination procedures were performed [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>\n,<xref ref-type=\"bibr\" rid=\"B20\">20</xref>]. Decontamination was completed in\nSeptember 2008 (pre-decontamination step\u2009=\u2009September\n2006-September 2008), so October 2008 is considered the beginning of the\npost-decontamination period.</p>\n",
+                            "<p>The measures of supply reservoir and pipeline decontamination involve chemical\nde-scaling with 20% acetic acid and hyper-chlorination with 20\u2009mg/l for\n2 hours or 50\u2009mg/l for 1 hour [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>\n,<xref ref-type=\"bibr\" rid=\"B20\">20</xref>], followed by washing to reach\n0.2\u2009mg/l of free residual chlorine concentration, or even replacement in\nlimited cases of obvious damage.</p>\n",
+                            "<p>The prevalence proportion of all positive samples was calculated; the following\nbacterial load values were adopted to perform a statistical analysis:\n&lt;100\u2009CFU/L, 100\u2013999\u2009CFU/L,\n1,000-9,999\u2009CFU/L, &gt;10,000\u2009CFU/L.</p>\n",
+                            "<p>The unpaired <italic>t</italic>-test was performed to evaluate statistically\nsignificant differences between the mean load values before and after the\ndecontamination procedures; statistical significance was set at <italic>p</italic>\n\u2009\u2264\u20090.05.</p>\n",
+                            "<p>The overall number of water samples collected from different trains and analysed from\nSeptember 2006 to January 2011 was 1,245 (Table <xref ref-type=\"table\" rid=\"T1\">1</xref>).\nOf those, 679 were collected during the pre-decontamination period.</p>\n",
+                            "<p>Results of the microbiological analysis performed on the water samples\ncollected</p>\n",
+                            "<p>In the pre-decontamination period, 58% of water samples were positive for <italic>\nLegionella</italic> and only <italic>L. pneumophila</italic> was identified; 55.84%\ncontained serogroup 1, 19.03% contained serogroups 2\u201314 and 25.13% contained\nboth serogroups.</p>\n",
+                            "<p>The mean bacterial load value was 2.14\u2009\u00d7\u200910<sup>3</sup>\u2009CFU/L;\n17.51% of positive samples had a load value\u2009&lt;\u2009100, 39.34%\nranged from 100 to 999, 35.03% ranged from 1,000 to 9,999 and 8.12%\nwere\u2009&gt;\u200910,000\u2009CFU/L.</p>\n",
+                            "<p>During the post-decontamination period, 566 water samples were collected and\nanalysed: 42.75% were positive for <italic>Legionella</italic> and <italic>Legionella\npneumophila</italic> was identified in 98.76% of the positive samples; 74.06%\ncontained serogroup 1, 16.32% contained serogroups 2\u201314 and 9.62% contained\nboth serogroups.</p>\n",
+                            "<p>The mean bacterial load of positive samples in the post-decontamination period was\n1.72\u2009\u00d7\u200910<sup>3</sup>\u2009CFU/L: 5.79% had a load\nvalue\u2009&lt;\u2009100, 50% were between 100 and 999, 35.12% were\nbetween 1,000, and 9,999 and 9.09%\nwere\u2009&gt;\u200910,000\u2009CFU/L.</p>\n",
+                            "<p>The unpaired <italic>t</italic>-test was performed to compare post-decontamination\nresults to pre-decontamination levels; there was a statistically significant\ndecrease in total bacterial load after January 2009: <italic>p</italic>\u2009=\u20090.0309\n(Table <xref ref-type=\"table\" rid=\"T2\">2</xref>). The statistically significant\ndecrease in total bacterial load continued until March 2010 (<italic>p</italic>\u2009=\u20090.0097),\nconfirming the intervention\u2019s effectiveness until approximately one and a\nhalf years after beginning the decontamination period.</p>\n",
+                            "<p>\n<bold>Effectiveness of decontamination on</bold>\n<bold>\n<italic>Legionella</italic>\n</bold>\n<bold>bacterial loading</bold>\n</p>\n",
+                            "<p>[In Table <xref ref-type=\"table\" rid=\"T2\">2</xref> are reported the results\nof the unpaired t-tests performed to compare the mean value of the bacterial\nload in the pre-decontamination period (grand mean: 2142.7840\u2009CFU/L\n\u2013 7.6698 in logarithmic value) with the ones of the\npost-decontamination period].</p>\n",
+                            "<p>Several studies describe the frequency of <italic>Legionella</italic> spp.\ncontamination in spa pools, natural pools and hotels [<xref ref-type=\"bibr\" rid=\"B7\">\n7</xref>-<xref ref-type=\"bibr\" rid=\"B9\">9</xref>]. Cases of LD are also well\ndocumented among cruise ship passengers [<xref ref-type=\"bibr\" rid=\"B9\">9</xref>-<xref ref-type=\"bibr\" rid=\"B17\">17</xref>]. To date, this is the first study\nconcerning the environmental monitoring of <italic>Legionella</italic> on board\ntrains.</p>\n",
+                            "<p>This study demonstrates the necessity for periodic evaluation on trains to assess the\npotential contamination of <italic>Legionella</italic> spp., with the aim to drive\ndecontamination efforts in the absence of specific guidelines. We hypothesized that\nan environmental surveillance programme, followed by decontamination procedures when\nnecessary, would decrease the total bacterial load, thereby protecting the health of\ntravellers and workers.</p>\n",
+                            "<p>This study demonstrated a statistically significant decrease in total bacterial load\nafter decontamination procedures. The <italic>t</italic>-test indicated a decrease\nin bacterial load since October 2008, with statistical significance from January\n2009 to March 2010, suggesting that a disinfection treatment performed every one and\na half years could reduce environmental contamination.</p>\n",
+                            "<p>Moreover, this study demonstrated a decrease in <italic>Legionella</italic>-positive\nsamples after decontamination procedures: 58% in the pre-decontamination period and\n42.75% in post one were positive for <italic>Legionella.</italic> Although there was\na decrease in the total <italic>Legionella</italic>-positive samples, we observed an\nincrease of <italic>Legionella</italic> serogroup 1 (55.84% pre- vs. 74.06%\npost-decontamination), which is responsible for approximately 70% of <italic>\nLegionella</italic> infections in Europe [<xref ref-type=\"bibr\" rid=\"B21\">21</xref>].\nThis increase could have been due to the development of a protective biofilm,\nespecially when load values were high. As demonstrated in this study, the\ndisinfection treatments were more effective when the bacterial load was lower\n(17.51% of positive samples with a load\nvalue\u2009&lt;\u2009100\u2009CFU/L in pre- vs. 5.79% in\npost-decontamination).</p>\n",
+                            "<p>Even if hyper-chlorination of the water is consistently performed, this approach is\nparticularly appropriate for the treatment and removal of planktonic cultures of <italic>L.\npneumophila</italic>, but remains ineffective against sessile communities of the\nbacterium [<xref ref-type=\"bibr\" rid=\"B22\">22</xref>].</p>\n",
+                            "<p>This study suggests that the resistance to chlorination of <italic>L. pneumophila</italic>\nserogroup 1 could be due to the biofilm that facilitates a higher tolerance to the\ndisinfectant. In fact, we observed limestone deposits in different water tanks in\nwhich the biofilm could have been developed. Environmental strains could develop a\nresistance mechanism to chlorine-based disinfection treatments, so these\ndecontamination procedures are not completely appropriate for removing the bacterium\nfrom plumbing and tanks. As these procedures do not lead to a definitive solution to\nthe problem, we suggest that mechanical cleaning could increase the effectiveness\nand length of chemical decontamination procedures, thereby reducing bacterial load\nvalues and increasing the amount of time that the water can be considered safe.</p>\n",
+                            "<p>We aimed to highlight that environmental surveillance represents an evidence-based\napproach for evaluating the contamination of the water supply on board trains. This\nwork stresses the effectiveness of decontamination and, above all, provides\ninformation about the required frequency of disinfection procedures to achieve a\nstatistically significant decrease in total bacterial load.</p>\n",
+                            "<p>Periodic environmental surveillance could be a useful approach for assessing the risk\nof exposure to <italic>Legionella</italic> bacteria, which still poses a threat to\npublic health. <italic>Legionella</italic> spp. are opportunists par excellence and\nare therefore especially dangerous for vulnerable individuals (e.g., older people,\ncurrent tobacco smokers, immune-compromised or immune-suppressed persons, patients\nwith chronic degenerative diseases and transplanted people).</p>\n",
+                            "<p>Our purpose is to ensure the safety of the passengers and the workers on board trains\nby defining proper preventive measures to be implemented with an established\nfrequency.</p>\n",
+                            "<p>The primary limitation of this study concerns the use of the <italic>t</italic>-test;\na paired <italic>t</italic>-test was not performed because this study focused on the\ngeneral trend of contamination/decontamination on board trains as opposed to a\nspecific sampling site.</p>\n",
+                            "<p>Moreover in this study we analyzed only environmental data because we were given the\nresponsibility of doing only the environmental surveillance; in fact, clinical\nsurveillance was carried out by other institutions and, up to date, we have no\ninformation about cases of Legionellosis linked to our environmental data.</p>\n",
+                            "<p>The lengthy time period of the environmental surveillance and the large number of\nwater samples collected and analysed represent a point of strength in this study.</p>\n",
+                            "<p>Public health programmes should focus on reducing the risk for LD among travellers.</p>\n",
+                            "<p>In addition to cruise ships and ferries [<xref ref-type=\"bibr\" rid=\"B16\">16</xref>],\nthe routine monitoring of water on board trains must be considered an essential\nmeasure of primary prevention for guaranteeing water safety and, consequently, to\navoid cases of LD. For these reasons, the drafting of guidelines for LD prevention\non public transportation may be necessary to protect the health of travellers and\nworkers. According to our experience, it is necessary to pay close attention to\nwater quality on board trains, especially after decontamination procedures to\nprevent bacterial colonization.</p>\n",
+                            "<p>Although the eradication of <italic>Legionella</italic> spp. in plumbing and water\ntanks is difficult to achieve, our approach can be considered an evidence-based\nmethod for assessing and managing <italic>Legionella</italic> infection risk on\ntrains.</p>\n",
+                            "<p>The air conditioning plants on board Trenitalia trains are designed to avoid air\nconditioner condensation drip. The particular characteristics of water supply\nfacilities on trains, which work by gravity at a low pressure, and the lack of\nshowers reduce the possibility of the formation of aerosol, which is potentially\ndangerous for Legionellosis. Nevertheless, Italian Railways have carried out the\npresent study in collaboration with Catholic University in Rome and the positive\nresults may improve future train sanitation following the practical measures\ndescribed in detail in this article.</p>\n",
+                            "<p>CFU: Colony forming unit; CFU/L: Colony forming unit/litre.</p>\n",
+                            "<p>The authors declare that they have no competing interests.</p>\n",
+                            "<p>GQ participated in the design of the study, contributed to draft the manuscript and\nperformed the statistical analysis. SV performed the microbiological analysis,\nconceived of the study and helped to draft the manuscript. AMF conceived of the\nstudy and helped to manage the database and to draft the manuscript. FB performed\nthe microbiological analysis. RS performed the microbiological analysis. CT\nperformed the microbiological analysis. MDG helped to manage the database and draft\nthe manuscript. GC,CC, MA and PDN conceived of the study and participated in its\ndesign and coordination. EM conceived of the study and participated in its design\nand coordination, allowing the surveillance on board train. WR conceived of the\nstudy and participated in its design and coordination. PL conceived of the study,\nparticipated in its design and coordination, carried out the surveillance and helped\nto draft the manuscript. All authors read and approved the final manuscript.</p>\n",
+                            "<p>The pre-publication history for this paper can be accessed here:</p>\n",
+                            "<p xmlns:ns0=\"http://www.w3.org/1999/xlink\">\n<ext-link ext-link-type=\"uri\" ns0:href=\"http://www.biomedcentral.com/1471-2458/12/618/prepub\">\nhttp://www.biomedcentral.com/1471-2458/12/618/prepub</ext-link>\n</p>\n"
+                        ]
+                    },
+                    {
+                        "content": "679 (54.538% of total samples analyzed)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "566 (45.462% of total samples analyzed)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1245",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "394 (58.027%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "242 (42.756%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "636",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "220 (55.838%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "177 (73.140%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "397",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "75 (19.036%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "39 (16.116%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "114",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "99 (25.127%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "23 (9.504%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "122",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0 (0.000%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3 (1.240%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "3",
+                        "cited_in": [
+                            "<p>In the pre-decontamination period, 58% of the water samples were positive for <italic>\nLegionella</italic>. Only <italic>Legionella pneumophila</italic> was\nidentified: 55.84% were serogroup 1, 19.03% were serogroups 2\u201314 and\n25.13% contained both serogroups. The mean bacterial load value was\n2.14\u2009\u00d7\u200910<sup>3</sup>\u2009CFU/L. During the\npost-decontamination period, 42.75% of water samples were positive for <italic>\nLegionella</italic> spp.; 98.76% were positive for <italic>Legionella\npneumophila</italic>: 74.06% contained serogroup 1, 16.32% contained\nserogroups 2\u201314 and 9.62% contained both. The mean bacterial load in\nthe post-decontamination period was 1.72\u2009\u00d7\u200910<sup>3</sup>\u2009CFU/L.\nAccording to the <italic>t</italic>-test, there was a statistically\nsignificant decrease in total bacterial load until approximately one and a\nhalf year after beginning the decontamination programme (<italic>p</italic>\n\u2009=\u20090.0097).</p>\n",
+                            "<p>Members of EWGLI established a European surveillance scheme for travel-associated\ninfections in 1987; this surveillance scheme, named EWGLINET in 2002, is the\nEU\u2019s surveillance network dedicated to collecting data on cases of LD in the\nEU, including travel-associated LD (TALD) [<xref ref-type=\"bibr\" rid=\"B3\">3</xref>,<xref ref-type=\"bibr\" rid=\"B4\">4</xref>].</p>\n",
+                            "<p>In 2009, the EWGLINET surveillance scheme reported a total of 818 cases (794\nconfirmed and 24 presumptive) of travel-associated LD with onset of illness, which\nis a decrease of 52 cases compared with 2008 and is 129 fewer than in 2007. The\ncountries that reported the most cases by country of residence were the UK\n(n\u2009=\u2009173), Italy (n\u2009=\u2009169) and the Netherlands\n(n\u2009=\u2009109). These three countries have consistently reported the\ngreatest number of cases to EWGLINET for several years [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>].</p>\n",
+                            "<p>Ten millilitres of the sample was divided into two aliquots of 5\u2009ml each;\none aliquot was incubated at 50\u00b0C in a water bath for 30 minutes\n(treated sample) and the second aliquot remained at room temperature\n(non-treated sample).</p>\n",
+                            "<p>Next, 0.1\u2009ml of the treated and non-treated samples was spread on a\n90\u2009mm Petri dish containing GVPC-selective medium (glycine, polymyxin B,\nvancomycin and cycloheximide). These plates were incubated at 37\u00b0C in a\nhumidified atmosphere with 2.5% CO<sub>2</sub>. Plates were evaluated for a\nmaximum of 14\u2009days before reporting them negative.</p>\n",
+                            "<p>These plates were incubated at 37\u00b0C in a humidified atmosphere with 2.5%\nCO<sub>2</sub> for \u22652\u2009days.</p>\n",
+                            "<p>When <italic>Legionella</italic> bacterial load was greater than 10<sup>3</sup>\u2009CFU/L,\ndecontamination procedures were performed [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>\n,<xref ref-type=\"bibr\" rid=\"B20\">20</xref>]. Decontamination was completed in\nSeptember 2008 (pre-decontamination step\u2009=\u2009September\n2006-September 2008), so October 2008 is considered the beginning of the\npost-decontamination period.</p>\n",
+                            "<p>In the pre-decontamination period, 58% of water samples were positive for <italic>\nLegionella</italic> and only <italic>L. pneumophila</italic> was identified; 55.84%\ncontained serogroup 1, 19.03% contained serogroups 2\u201314 and 25.13% contained\nboth serogroups.</p>\n",
+                            "<p>The mean bacterial load value was 2.14\u2009\u00d7\u200910<sup>3</sup>\u2009CFU/L;\n17.51% of positive samples had a load value\u2009&lt;\u2009100, 39.34%\nranged from 100 to 999, 35.03% ranged from 1,000 to 9,999 and 8.12%\nwere\u2009&gt;\u200910,000\u2009CFU/L.</p>\n",
+                            "<p>During the post-decontamination period, 566 water samples were collected and\nanalysed: 42.75% were positive for <italic>Legionella</italic> and <italic>Legionella\npneumophila</italic> was identified in 98.76% of the positive samples; 74.06%\ncontained serogroup 1, 16.32% contained serogroups 2\u201314 and 9.62% contained\nboth serogroups.</p>\n",
+                            "<p>The mean bacterial load of positive samples in the post-decontamination period was\n1.72\u2009\u00d7\u200910<sup>3</sup>\u2009CFU/L: 5.79% had a load\nvalue\u2009&lt;\u2009100, 50% were between 100 and 999, 35.12% were\nbetween 1,000, and 9,999 and 9.09%\nwere\u2009&gt;\u200910,000\u2009CFU/L.</p>\n",
+                            "<p>The unpaired <italic>t</italic>-test was performed to compare post-decontamination\nresults to pre-decontamination levels; there was a statistically significant\ndecrease in total bacterial load after January 2009: <italic>p</italic>\u2009=\u20090.0309\n(Table <xref ref-type=\"table\" rid=\"T2\">2</xref>). The statistically significant\ndecrease in total bacterial load continued until March 2010 (<italic>p</italic>\u2009=\u20090.0097),\nconfirming the intervention\u2019s effectiveness until approximately one and a\nhalf years after beginning the decontamination period.</p>\n",
+                            "<p xmlns:ns0=\"http://www.w3.org/1999/xlink\">\n<ext-link ext-link-type=\"uri\" ns0:href=\"http://www.biomedcentral.com/1471-2458/12/618/prepub\">\nhttp://www.biomedcentral.com/1471-2458/12/618/prepub</ext-link>\n</p>\n"
+                        ]
+                    },
+                    {
+                        "content": "69 (17.513%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "14 (5.785%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "83",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "155 (39.340%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "121 (50.000%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "276",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "138 (35.025%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "85 (35.124%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "223",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "32 (8.122%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "22 (9.091%)",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "54",
+                        "cited_in": [
+                            "<p>The Italian National Surveillance System has reported that, in Italy, the incidence\nof Legionellosis has been increasing in the last ten years despite a slightly\ndecreasing number of notified cases in the time periods from 2002\u20132004 and\n2005\u20132006. In 2009, 1,200 cases of Legionellosis were diagnosed and reported\n(1,146 confirmed and 54 presumptive), with an incidence proportion of twenty cases\nper million (Figure <xref ref-type=\"fig\" rid=\"F1\">1</xref>) [<xref ref-type=\"bibr\" rid=\"B6\">6</xref>].</p>\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "table_id": "T2",
+                "body": "<thead valign=\"top\">\n<tr>\n<th align=\"left\">\n<bold>Month</bold>\n</th>\n<th align=\"char\">\n<bold>Mean of load value (CFU/l) (post-decontamination period)</bold>\n</th>\n<th align=\"left\">\n<bold>Mean of bacterial load in natural logarithmic numbers</bold>\n</th>\n<th align=\"left\">\n<bold>t</bold>\n</th>\n<th align=\"left\">\n<bold>\n<italic>p</italic>\n</bold>\n</th>\n</tr>\n</thead>\n<tbody valign=\"top\">\n<tr>\n<td align=\"left\" valign=\"bottom\">October 2008<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">992.2414<hr /></td>\n<td align=\"left\" valign=\"bottom\">6.9000<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.6591<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.2550<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">November 2008<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">583.8235<hr /></td>\n<td align=\"left\" valign=\"bottom\">6.3696<hr /></td>\n<td align=\"left\" valign=\"bottom\">1.1843<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.1183<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">December 2008<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">397.0000<hr /></td>\n<td align=\"left\" valign=\"bottom\">5.9839<hr /></td>\n<td align=\"left\" valign=\"bottom\">1.6083<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0541<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">January 2009<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">320.1613<hr /></td>\n<td align=\"left\" valign=\"bottom\">5.7688<hr /></td>\n<td align=\"left\" valign=\"bottom\">1.8698<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0309<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">February 2009<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">295.1282<hr /></td>\n<td align=\"left\" valign=\"bottom\">5.6874<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.1259<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0169<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">March 2009<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">306.3265<hr /></td>\n<td align=\"left\" valign=\"bottom\">5.7247<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.3673<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0091<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">April 2009<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">315.3801<hr /></td>\n<td align=\"left\" valign=\"bottom\">5.7538<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.5402<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0056<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">May 2009<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">295.0256<hr /></td>\n<td align=\"left\" valign=\"bottom\">5.6871<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.7428<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0031<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">June 2009<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">417.9909<hr /></td>\n<td align=\"left\" valign=\"bottom\">6.0355<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.7060<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0035<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">July 2009<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">498.4615<hr /></td>\n<td align=\"left\" valign=\"bottom\">6.2115<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.6624<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0039<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">August 2009<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">554.6850<hr /></td>\n<td align=\"left\" valign=\"bottom\">6.3184<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.6735<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0038<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">September 2009<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">592.1561<hr /></td>\n<td align=\"left\" valign=\"bottom\">6.3838<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.6817<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0037<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">October 2009<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">753.6237<hr /></td>\n<td align=\"left\" valign=\"bottom\">6.6249<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.4677<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0069<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">November 2009<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">752.5163<hr /></td>\n<td align=\"left\" valign=\"bottom\">6.6234<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.5500<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0055<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">December 2009<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">748.6751<hr /></td>\n<td align=\"left\" valign=\"bottom\">6.6183<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.6023<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0047<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">January 2010<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">726.0479<hr /></td>\n<td align=\"left\" valign=\"bottom\">6.5876<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.7144<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0034<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">February 2010<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">934.4538<hr /></td>\n<td align=\"left\" valign=\"bottom\">6.8400<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.3195<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0103<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">March 2010<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">962.5000<hr /></td>\n<td align=\"left\" valign=\"bottom\">6.8695<hr /></td>\n<td align=\"left\" valign=\"bottom\">2.3432<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0097<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">April 2010<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">1369.3270<hr /></td>\n<td align=\"left\" valign=\"bottom\">7.2221<hr /></td>\n<td align=\"left\" valign=\"bottom\">1.3341<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0912<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">May 2010<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">1314.9530<hr /></td>\n<td align=\"left\" valign=\"bottom\">7.1816<hr /></td>\n<td align=\"left\" valign=\"bottom\">1.4680<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.0712<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">June 2010<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">1521.4860<hr /></td>\n<td align=\"left\" valign=\"bottom\">7.3274<hr /></td>\n<td align=\"left\" valign=\"bottom\">1.0917<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.1376<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">July 2010<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">1482.9550<hr /></td>\n<td align=\"left\" valign=\"bottom\">7.3018<hr /></td>\n<td align=\"left\" valign=\"bottom\">1.1885<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.1174<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">August 2010<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">1707.7110<hr /></td>\n<td align=\"left\" valign=\"bottom\">7.4429<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.7837<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.2167<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">September 2010<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">1697.6230<hr /></td>\n<td align=\"left\" valign=\"bottom\">7.4370<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.8044<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.2107<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">October 2010<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">1684.2690<hr /></td>\n<td align=\"left\" valign=\"bottom\">7.4291<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.8432<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.1996<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">November 2010<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">1635.7890<hr /></td>\n<td align=\"left\" valign=\"bottom\">7.3999<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.9556<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.1697<hr /></td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"bottom\">December 2010<hr /></td>\n<td align=\"char\" valign=\"bottom\" char=\".\">1719.8530<hr /></td>\n<td align=\"left\" valign=\"bottom\">7.4500<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.8037<hr /></td>\n<td align=\"left\" valign=\"bottom\">0.2109<hr /></td>\n</tr>\n<tr>\n<td align=\"left\">January 2011</td>\n<td align=\"char\" char=\".\">1721.6250</td>\n<td align=\"left\">7.4510</td>\n<td align=\"left\">0.8141</td>\n<td align=\"left\">0.2079</td>\n</tr>\n</tbody>\n",
+                "caption": "<p>\n<bold>Effectiveness of decontamination on</bold>\n<bold>\n<italic>Legionella</italic>\n</bold>\n<bold>bacterial loading</bold>\n</p>\n",
+                "foots": [
+                    "<p>[In Table <xref ref-type=\"table\" rid=\"T2\">2</xref> are reported the results\nof the unpaired t-tests performed to compare the mean value of the bacterial\nload in the pre-decontamination period (grand mean: 2142.7840\u2009CFU/L\n\u2013 7.6698 in logarithmic value) with the ones of the\npost-decontamination period].</p>\n"
+                ],
+                "paragraphs": [
+                    {
+                        "text": "<p>The unpaired <italic>t</italic>-test was performed to compare post-decontamination\nresults to pre-decontamination levels; there was a statistically significant\ndecrease in total bacterial load after January 2009: <italic>p</italic>\u2009=\u20090.0309\n(Table <xref ref-type=\"table\" rid=\"T2\">2</xref>). The statistically significant\ndecrease in total bacterial load continued until March 2010 (<italic>p</italic>\u2009=\u20090.0097),\nconfirming the intervention\u2019s effectiveness until approximately one and a\nhalf years after beginning the decontamination period.</p>\n",
+                        "citations": []
+                    },
+                    {
+                        "text": "<p>[In Table <xref ref-type=\"table\" rid=\"T2\">2</xref> are reported the results\nof the unpaired t-tests performed to compare the mean value of the bacterial\nload in the pre-decontamination period (grand mean: 2142.7840\u2009CFU/L\n\u2013 7.6698 in logarithmic value) with the ones of the\npost-decontamination period].</p>\n",
+                        "citations": []
+                    }
+                ],
+                "cells": [
+                    {
+                        "content": "October 2008",
+                        "cited_in": [
+                            "<p>When <italic>Legionella</italic> bacterial load was greater than 10<sup>3</sup>\u2009CFU/L,\ndecontamination procedures were performed [<xref ref-type=\"bibr\" rid=\"B19\">19</xref>\n,<xref ref-type=\"bibr\" rid=\"B20\">20</xref>]. Decontamination was completed in\nSeptember 2008 (pre-decontamination step\u2009=\u2009September\n2006-September 2008), so October 2008 is considered the beginning of the\npost-decontamination period.</p>\n",
+                            "<p>This study demonstrated a statistically significant decrease in total bacterial load\nafter decontamination procedures. The <italic>t</italic>-test indicated a decrease\nin bacterial load since October 2008, with statistical significance from January\n2009 to March 2010, suggesting that a disinfection treatment performed every one and\na half years could reduce environmental contamination.</p>\n"
+                        ]
+                    },
+                    {
+                        "content": "992.2414",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6.9000",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.6591",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.2550",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "November 2008",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "583.8235",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6.3696",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.1843",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.1183",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "December 2008",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "397.0000",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5.9839",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.6083",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0541",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "January 2009",
+                        "cited_in": [
+                            "<p>The unpaired <italic>t</italic>-test was performed to compare post-decontamination\nresults to pre-decontamination levels; there was a statistically significant\ndecrease in total bacterial load after January 2009: <italic>p</italic>\u2009=\u20090.0309\n(Table <xref ref-type=\"table\" rid=\"T2\">2</xref>). The statistically significant\ndecrease in total bacterial load continued until March 2010 (<italic>p</italic>\u2009=\u20090.0097),\nconfirming the intervention\u2019s effectiveness until approximately one and a\nhalf years after beginning the decontamination period.</p>\n"
+                        ]
+                    },
+                    {
+                        "content": "320.1613",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5.7688",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.8698",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0309",
+                        "cited_in": [
+                            "<p>The unpaired <italic>t</italic>-test was performed to compare post-decontamination\nresults to pre-decontamination levels; there was a statistically significant\ndecrease in total bacterial load after January 2009: <italic>p</italic>\u2009=\u20090.0309\n(Table <xref ref-type=\"table\" rid=\"T2\">2</xref>). The statistically significant\ndecrease in total bacterial load continued until March 2010 (<italic>p</italic>\u2009=\u20090.0097),\nconfirming the intervention\u2019s effectiveness until approximately one and a\nhalf years after beginning the decontamination period.</p>\n"
+                        ]
+                    },
+                    {
+                        "content": "February 2009",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "295.1282",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5.6874",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.1259",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0169",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "March 2009",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "306.3265",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5.7247",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.3673",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0091",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "April 2009",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "315.3801",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5.7538",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.5402",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0056",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "May 2009",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "295.0256",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "5.6871",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.7428",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0031",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "June 2009",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "417.9909",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6.0355",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.7060",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0035",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "July 2009",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "498.4615",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6.2115",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.6624",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0039",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "August 2009",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "554.6850",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6.3184",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.6735",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0038",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "September 2009",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "592.1561",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6.3838",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.6817",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0037",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "October 2009",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "753.6237",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6.6249",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.4677",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0069",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "November 2009",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "752.5163",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6.6234",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.5500",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0055",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "December 2009",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "748.6751",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6.6183",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.6023",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0047",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "January 2010",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "726.0479",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6.5876",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.7144",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0034",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "February 2010",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "934.4538",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6.8400",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.3195",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0103",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "March 2010",
+                        "cited_in": [
+                            "<p>The unpaired <italic>t</italic>-test was performed to compare post-decontamination\nresults to pre-decontamination levels; there was a statistically significant\ndecrease in total bacterial load after January 2009: <italic>p</italic>\u2009=\u20090.0309\n(Table <xref ref-type=\"table\" rid=\"T2\">2</xref>). The statistically significant\ndecrease in total bacterial load continued until March 2010 (<italic>p</italic>\u2009=\u20090.0097),\nconfirming the intervention\u2019s effectiveness until approximately one and a\nhalf years after beginning the decontamination period.</p>\n",
+                            "<p>This study demonstrated a statistically significant decrease in total bacterial load\nafter decontamination procedures. The <italic>t</italic>-test indicated a decrease\nin bacterial load since October 2008, with statistical significance from January\n2009 to March 2010, suggesting that a disinfection treatment performed every one and\na half years could reduce environmental contamination.</p>\n"
+                        ]
+                    },
+                    {
+                        "content": "962.5000",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "6.8695",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "2.3432",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0097",
+                        "cited_in": [
+                            "<p>In the pre-decontamination period, 58% of the water samples were positive for <italic>\nLegionella</italic>. Only <italic>Legionella pneumophila</italic> was\nidentified: 55.84% were serogroup 1, 19.03% were serogroups 2\u201314 and\n25.13% contained both serogroups. The mean bacterial load value was\n2.14\u2009\u00d7\u200910<sup>3</sup>\u2009CFU/L. During the\npost-decontamination period, 42.75% of water samples were positive for <italic>\nLegionella</italic> spp.; 98.76% were positive for <italic>Legionella\npneumophila</italic>: 74.06% contained serogroup 1, 16.32% contained\nserogroups 2\u201314 and 9.62% contained both. The mean bacterial load in\nthe post-decontamination period was 1.72\u2009\u00d7\u200910<sup>3</sup>\u2009CFU/L.\nAccording to the <italic>t</italic>-test, there was a statistically\nsignificant decrease in total bacterial load until approximately one and a\nhalf year after beginning the decontamination programme (<italic>p</italic>\n\u2009=\u20090.0097).</p>\n",
+                            "<p>The unpaired <italic>t</italic>-test was performed to compare post-decontamination\nresults to pre-decontamination levels; there was a statistically significant\ndecrease in total bacterial load after January 2009: <italic>p</italic>\u2009=\u20090.0309\n(Table <xref ref-type=\"table\" rid=\"T2\">2</xref>). The statistically significant\ndecrease in total bacterial load continued until March 2010 (<italic>p</italic>\u2009=\u20090.0097),\nconfirming the intervention\u2019s effectiveness until approximately one and a\nhalf years after beginning the decontamination period.</p>\n"
+                        ]
+                    },
+                    {
+                        "content": "April 2010",
+                        "cited_in": [
+                            "<p>Since April 2010, the programme has also been coordinated by European Centre for\nDisease Prevention and Control (ECDC), and the name of the scheme has changed to the\nEuropean Legionnaires\u2019 Disease Surveillance Network (ELDSNet) [<xref ref-type=\"bibr\" rid=\"B4\">4</xref>].</p>\n"
+                        ]
+                    },
+                    {
+                        "content": "1369.3270",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "7.2221",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.3341",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0912",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "May 2010",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1314.9530",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "7.1816",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.4680",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.0712",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "June 2010",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1521.4860",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "7.3274",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.0917",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.1376",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "July 2010",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1482.9550",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "7.3018",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1.1885",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.1174",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "August 2010",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1707.7110",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "7.4429",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.7837",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.2167",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "September 2010",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1697.6230",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "7.4370",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.8044",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.2107",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "October 2010",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1684.2690",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "7.4291",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.8432",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.1996",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "November 2010",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1635.7890",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "7.3999",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.9556",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.1697",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "December 2010",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "1719.8530",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "7.4500",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.8037",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.2109",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "January 2011",
+                        "cited_in": [
+                            "<p>A comparative pre-post ecological study was conducted from September 2006 to\nJanuary 2011. A total of 1,245 water samples were collected from plumbing\nand toilet water tanks on passenger trains. The prevalence proportion of all\npositive samples was calculated. The unpaired <italic>t</italic>-test was\nperformed to evaluate statistically significant differences between the mean\nload values before and after the decontamination procedures; statistical\nsignificance was set at <italic>p</italic>\u2009\u2264\u20090.05.</p>\n",
+                            "<p>The overall number of water samples collected from different trains and analysed from\nSeptember 2006 to January 2011 was 1,245 (Table <xref ref-type=\"table\" rid=\"T1\">1</xref>).\nOf those, 679 were collected during the pre-decontamination period.</p>\n"
+                        ]
+                    },
+                    {
+                        "content": "1721.6250",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "7.4510",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.8141",
+                        "cited_in": []
+                    },
+                    {
+                        "content": "0.2079",
+                        "cited_in": []
+                    }
+                ]
+            }
+        ],
+        "figures": [
+            {
+                "fig_id": "F1",
+                "caption": "<caption>\n<p>Cases of Legionellosis notified in Italy, 2000\u20132009 (Data source:\nItalian Ministry of Health).</p>\n</caption>\n",
+                "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3519711/bin/1471-2458-12-618-1.jpg"
+            }
+        ]
+    }
+}
